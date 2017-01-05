@@ -1,0 +1,2256 @@
+Windows10\u5b89\u88c5sqlmap
+http:\/\/blog.csdn.net\/u011781521\/article\/details\/53910107
+HTML5 Loading\u52a8\u753b\u7279\u6548\u96c6\u9526
+http:\/\/geek.csdn.net\/news\/detail\/131110
+8\u4e2a\u70ab\u9177\u7684HTML5\u52a8\u753b\u3001\u5e94\u7528\u548c\u6e38\u620f
+http:\/\/geek.csdn.net\/news\/detail\/130808
+\u3010\u6570\u636e\u7ed3\u6784\u3011\u516b\u7687\u540e
+http:\/\/blog.csdn.net\/u010870518\/article\/details\/22091365
+Python\u64cd\u4f5cMySQL\u6570\u636e\u5e93\u5b9e\u4f8b
+http:\/\/blog.csdn.net\/u010870518\/article\/details\/45132807
+\u6211\u7684\u535a\u5ba2\u642d\u5efa\u4e4bgit\u7684\u4f7f\u7528
+http:\/\/blog.csdn.net\/wudalang_gd\/article\/details\/53871253
+\u5229\u7528PYTHON\u5236\u4f5c\u684c\u9762\u7248\u722c\u866b\u8f6f\u4ef6\uff08\u4e00\uff09
+http:\/\/geek.csdn.net\/news\/detail\/130960
+\u4e00\u8d77talk C\u6817\u5b50\u5427\uff08\u7b2c\u4e00\u767e\u516b\u5341\u4e09\u56de\uff1aC\u8bed\u8a00\u5b9e\u4f8b--\u5728printf\u51fd\u6570\u4e2d\u8bbe\u7f6e\u8f93\u51fa\u5bbd\u5ea6\u4e8c\uff09
+http:\/\/blog.csdn.net\/talk_8\/article\/details\/52390230
+Java Swing JTextArea\u81ea\u52a8\u6dfb\u52a0\u6eda\u52a8\u6761
+http:\/\/blog.csdn.net\/xueerfei008\/article\/details\/36006961
+MySQL\u5b66\u4e60\u7b14\u8bb0\u4e4b\u547d\u4ee4\u603b\u7ed3 - Thinkgamer\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/gamer_gyt\/article\/details\/50199517
+MySQLdb\u7684\u5b89\u88c5\u4e0e\u4f7f\u7528 - Thinkgamer\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/gamer_gyt\/article\/details\/46762271
+Python\u722c\u53d6CSDN\u535a\u5ba2\u4e13\u5bb6\u7cfb\u5217\u2014\u2014\u79fb\u52a8\u5f00\u53d1 - Thinkgamer\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/gamer_gyt\/article\/details\/47426509
+python\u722c\u866b\u722c\u53d6csdn\u535a\u5ba2\u4e13\u5bb6\u6240\u6709\u535a\u5ba2\u5185\u5bb9 - Thinkgamer\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/gamer_gyt\/article\/details\/48035659
+\u3010Python3.5\u3011\u8bfb\u5199JSON\u683c\u5f0f\u7684\u6570\u636e - Thinkgamer\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/gamer_gyt\/article\/details\/53577477
+Python\u5f00\u53d1\u5b89\u88c5\u7684\u4e00\u4e9b\u5e38\u7528\u6a21\u5757 - Thinkgamer\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/gamer_gyt\/article\/details\/46279915
+\u7cbe\u90099\u6b3e\u8ff7\u4eba\u7684HTML5 3D\u52a8\u753b\u6548\u679c\u53ca\u6e90\u7801
+http:\/\/geek.csdn.net\/news\/detail\/130866
+\u52a8\u6001\u89c4\u5212\u603b\u7ed3 - Abner - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/hearthougan\/article\/details\/53749841
+Java+MySQL\u56fe\u4e66\u7ba1\u7406\u7cfb\u7edf - Caeser110\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/Caeser110\/article\/details\/50408110
+\u7b7e\u5230\u4e1a\u52a1\u76f8\u5173\u7edf\u8ba1SQL
+http:\/\/geek.csdn.net\/news\/detail\/129889
+\u5f52\u5e76\u6392\u5e8f-\u6570\u7ec4\u4e2d\u7684\u9006\u5e8f\u5bf9
+http:\/\/blog.csdn.net\/Double2hao\/article\/details\/53725279
+\u5206\u4eab8\u6b3e\u6700\u65b0\u8d85\u9177HTML5\/CSS3\u7279\u6548\u53ca\u6e90\u7801
+http:\/\/geek.csdn.net\/news\/detail\/129674
+\u3010\u4ece\u96f6\u5f00\u59cb\u5b66\u4e60MySql\u6570\u636e\u5e93\u3011(1)\u5efa\u8868\u4e0e\u7b80\u5355\u67e5\u8be2
+http:\/\/blog.csdn.net\/u010785585\/article\/details\/53700095
+\u3010\u4ece\u96f6\u5f00\u59cb\u5b66\u4e60Oracle\u6570\u636e\u5e93\u3011(1)\u5efa\u8868\u4e0e\u7b80\u5355\u67e5\u8be2
+http:\/\/blog.csdn.net\/u010785585\/article\/details\/53717155
+Vim \u547d\u4ee4\u5927\u5168
+http:\/\/geek.csdn.net\/news\/detail\/129524
+8\u4e2a\u975e\u5e38\u795e\u5947\u7684HTML5\u52a8\u753b\u548c\u5e94\u7528
+http:\/\/geek.csdn.net\/news\/detail\/129519
+\u6392\u5e8f\u7b97\u6cd5\u57fa\u7840\u7bc7\u4ea4\u6362\u6392\u5e8f\u4e4b\u5192\u6ce1\u6392\u5e8f
+http:\/\/blog.csdn.net\/sky15732625340\/article\/details\/51637247
+UML\u7528\u4f8b\u56fe
+http:\/\/blog.csdn.net\/sky15732625340\/article\/details\/50273691
+python\u753b\u56fe\uff0d\uff0d\u67f1\u72b6\u56fe - jenyzhang\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/jenyzhang\/article\/details\/52047557
+Python\u64cd\u4f5cMySQL\u5b9e\u4f8b\u8bb2\u89e3 - LYanger\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/freeelinux\/article\/details\/52605406
+\u963f\u91cc\u6280\u672f\u535a\u5ba2\u6c47\u603b-Java\u76f8\u5173
+http:\/\/geek.csdn.net\/news\/detail\/129294
+html\u7684\u5b66\u4e60\u5fc3\u5f97
+http:\/\/blog.csdn.net\/zzwaini785452392\/article\/details\/37591723
+HTML5 - \u5730\u7406\u4f4d\u7f6e
+http:\/\/geek.csdn.net\/news\/detail\/128921
+\u624b\u628a\u624b\u6559\u4f60\u7528Hexo+Github \u642d\u5efa\u5c5e\u4e8e\u81ea\u5df1\u7684\u535a\u5ba2
+http:\/\/blog.csdn.net\/gdutxiaoxu\/article\/details\/53576018
+\u7528Python \u722c\u866b\u6279\u91cf\u4e0b\u8f7dPDF\u6587\u6863 - lxy\u5b59\u609f\u7a7a\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u012705410\/article\/details\/47708031
+\u7a0b\u5e8f\u5458 | \u51ac\u5929\u5230\u4e86\uff0c\u5148\u50a8\u5907\u70b9\u201c\u7cae\u98df\u201d
+http:\/\/geek.csdn.net\/news\/detail\/128391
+C++ \u63a7\u5236\u53f0\u7248 2048\u5c0f\u6e38\u620f - NK_test\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/nk_test\/article\/details\/47449189
+\u6559\u4f60\u5982\u4f55\u4e0agoogle(\u4e0d\u4f1a\u79d1\u5b66\u4e0a\u7f51\u7684\u540c\u5b66\u5fc5\u770b\uff01) - \u5c0f\u5317\u54e5\u54e5 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/xllily_11\/article\/details\/48465493#comments
+\u64cd\u4f5c\u7cfb\u7edf: \u94f6\u884c\u5bb6\u7b97\u6cd5\u7684\u5206\u6790\u548c\u4ee3\u7801\u5b9e\u73b0(c++\u8bed\u8a00) - NK_test\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/nk_test\/article\/details\/50269959
+python\u722c\u866b\u2014\u2014\u722c\u53d6\u77e5\u4e4e\u4e0a\u81ea\u5df1\u5173\u6ce8\u7684\u95ee\u9898 - iaiti\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/iaiti\/article\/details\/49949823
+\u5229\u7528python\u5b9e\u73b0\u65b0\u6d6a\u5fae\u535a\u722c\u866b - \u4e00\u679a\u83dc\u9e1f\u7684\u5b66\u4e60\u7b14\u8bb0 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/monsion\/article\/details\/7981366
+python \uff081\uff09\uff1a\u4f7f\u7528python \u8fdb\u884capi \u63a5\u53e3\u6d4b\u8bd5 - freewebsys\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/freewebsys\/article\/details\/46228421
+\u65b0\u6d6a\u5fae\u535aAPI\u4f7f\u7528\u4e4bpython\u63a5\u53e3\u7684\u4f7f\u7528 - \u4e00\u679a\u83dc\u9e1f\u7684\u5b66\u4e60\u7b14\u8bb0 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/monsion\/article\/details\/8115671
+Python \u8d44\u6e90\u5927\u5168 - huayucong\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/huayucong\/article\/details\/53402545
+HTML DOM - Munger6\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/munger6\/article\/details\/53494462
+\u51e0\u9053\u6811\u5f62DP\u9898 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/redpolya\/article\/details\/53438920
+Python\u5b66\u4e60\u8bb0\u5f55day6 - ygqygq2\u7684IT\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/ygqygq2\/article\/details\/53469926#21-sys
+\u6211\u8bf4\u8fc7\u7684\uff0cCCPC\u62ff\u5230\u94dc\uff0c\u6211\u5c31\u505a100\u9053\u52a8\u6001\u89c4\u5212 - Good_night_Sion_\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/good_night_sion_\/article\/details\/52842504
+Python\u5b9e\u73b0\u722c\u866b\u6293\u53d6OJ\u4ee3\u7801 - geek7\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/geek7wait2015\/article\/details\/38157459
+\u5b66\u751f\u4fe1\u606f\u7ba1\u7406\u7cfb\u7edf\uff08c\u8bed\u8a00\u5b9e\u8bad\uff09
+http:\/\/blog.csdn.net\/u013573047\/article\/details\/34859435
+\u6700\u8fd1\u6700\u4e45\u672a\u4f7f\u7528\uff08LRU\uff09\u9875\u9762\u7f6e\u6362\u7b97\u6cd5\u539f\u7406\u53ca\u6a21\u62df\u5b9e\u73b0
+http:\/\/blog.csdn.net\/u013573047\/article\/details\/51039966
+Python\u7f51\u7edc\u722c\u866b\u2014\u2014\u6a21\u62df\u767b\u9646\u722c\u53d6\u7f51\u7ad9\u6570\u636e\u5e76\u52a0\u8f7d\u5230excl\u8868\u683c\u91cc
+http:\/\/blog.csdn.net\/u013573047\/article\/details\/51125415
+\u5b66\u4e60\u7b14\u8bb0\u4e4b\u5feb\u901f\u6392\u5e8f
+http:\/\/blog.csdn.net\/Ljfzhifuwa\/article\/details\/53444430
+C++\u4f18\u5148\u961f\u5217(priority queue)\u53ca\u91cd\u8f7d\u8fd0\u7b97\u7b26
+http:\/\/blog.csdn.net\/riba2534\/article\/details\/53450085
+\u3010\u8f6c\u3011\u5317\u4eac\u5927\u5b66ACM\u9898\u76ee\u7b97\u6cd5\u5206\u6790\u63a8\u8350 acm\u89e3\u51b3\u65b9\u6cd5
+http:\/\/blog.csdn.net\/Airarts_\/article\/details\/7596673
+[KMP-NEXT\u6570\u7ec4\u7279\u6027]HDU 3336 Count the string
+http:\/\/blog.csdn.net\/Airarts_\/article\/details\/7695563
+\u516b\u7687\u540e\u4e4b\u56de\u6eaf\u6cd5\u89e3\u51b3
+http:\/\/blog.csdn.net\/Bone_ACE\/article\/details\/41419695
+\u73a9\u8f6cCSDN\u4e4b\u81ea\u5b9a\u4e49\u535a\u5ba2\u680f\u76ee
+http:\/\/blog.csdn.net\/Tanswer_\/article\/details\/53440228
+python \u5b57\u7b26\u4e32\u5e38\u7528\u64cd\u4f5c - \u96f6\u72b6\u6001\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_24434251\/article\/details\/52960378
+python\u6280\u5de7\u2014\u2014Python\u7684\u8bfb\u6587\u4ef6 - null\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/google19890102\/article\/details\/49428153
+python\u722c\u866b\u4e4bcsdn\u5237\u535a\u5ba2\u8bbf\u95ee\u91cf
+http:\/\/blog.csdn.net\/yanggd1987\/article\/details\/52148529
+\u3010Python\u811a\u672c\u3011-\u722c\u866b\u5f97\u5230CSDN\u535a\u5ba2\u7684\u6587\u7ae0\u8bbf\u95ee\u91cf\u548c\u8bc4\u8bba\u91cf
+http:\/\/blog.csdn.net\/Kevin_zhai\/article\/details\/52385598
+Python3 \u722c\u866b\uff08\u4e94\uff09 -- \u5355\u7ebf\u7a0b\u722c\u53d6\u6211\u7684CSDN\u5168\u90e8\u535a\u6587
+http:\/\/blog.csdn.net\/fly_yr\/article\/details\/51535676
+Python\u722c\u866b_\u7528Python\u722c\u53d6csdn\u9875\u9762\u4fe1\u606f\u76ee\u5f55
+http:\/\/blog.csdn.net\/wangquannetwork\/article\/details\/45832109
+Python\u722c\u53d6CSDN\u535a\u5ba2
+http:\/\/blog.csdn.net\/u013080921\/article\/details\/44780285
+python\u722c\u866b\u722c\u53d6csdn\u535a\u5ba2\u4e13\u5bb6\u6240\u6709\u535a\u5ba2\u5185\u5bb9
+http:\/\/blog.csdn.net\/Gamer_gyt\/article\/details\/48035659
+Python\u6280\u5de7\u2014\u2014list\u4e0e\u5b57\u7b26\u4e32\u4e92\u76f8\u8f6c\u6362 - null\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/google19890102\/article\/details\/49253117
+Python 3 \u722c\u866b\u4e4b\u6279\u91cf\u4e0b\u8f7d\u5b57\u5e16\u56fe\u7247 - \u5c81\u6708\u5982\u6b4c - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/kinglearnjava\/article\/details\/49248009
+\u7b97m\u70b9\u95ee\u9898\uff08dfs+\u6392\u5217\u6811\uff09 - ninesun\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_27601815\/article\/details\/53400425
+\u901a\u8fc7Python\u722c\u866b\u722c\u53d6\u77e5\u4e4e\u67d0\u4e2a\u95ee\u9898\u4e0b\u7684\u56fe\u7247 - \u78ca\u554a\u78ca - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/willib\/article\/details\/51873259
+\u722c\u53d6\u7f8e\u5973\u56fe\u7247
+http:\/\/blog.csdn.net\/WuLex\/article\/details\/51786670
+NPOI\u4f7f\u7528\u5165\u95e8(\u4e00)\u3010\u5bf9Excel\u57fa\u672c\u64cd\u4f5c\u3011
+http:\/\/blog.csdn.net\/WuLex\/article\/details\/52904693
+\u4e94\u4e2a\u521b\u5efa\u4ea4\u4e92\u5f0f\u56fe\u8868\u7684Python\u5e93
+http:\/\/geek.csdn.net\/news\/detail\/126375
+\u6b63\u5219\u8868\u8fbe\u5f0f\u6d4b\u8bd5\u5c0f\u5de5\u5177 Code Architects Regex Tester - \u4e0b\u8f7d\u9891\u9053 - CSDN.NET
+http:\/\/download.csdn.net\/download\/jianchengss\/4879808
+\u5e26\u4f60\u6df1\u5165\u7406\u89e3STL\u4e4b\u7a7a\u95f4\u914d\u7f6e\u5668(\u601d\u7ef4\u5bfc\u56fe+\u6e90\u7801) - ZeeCoder - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/terence1212\/article\/details\/52247274
+ZeeCoder - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/terence1212
+\u3010ACM\/ICPC\u3011 - \u677e\u5b50\u8336\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/utimes\/article\/category\/6312076
+python\u8fdb\u9636\u4e03_\u6587\u4ef6\u64cd\u4f5c(\u4e00) - liygcheng\u0027s coding world - - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liygcheng\/article\/details\/23004721
+JmilkFan - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/Jmilk
+\u5251\u6307Offer\u2014\u2014\u77e5\u8bc6\u70b9\u50a8\u5907-\u5e38\u7528\u7b97\u6cd5 - IT\u5168\u6808 \u534e\u5f3a\u5de5\u4f5c\u5ba4 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/sunhuaqiang1\/article\/details\/53067090
+HDU 2830 \u79fb\u52a8\u7684\u77e9\u9635 \uff08\u601d\u7ef4\u9898\uff09 - AK_HuangYC\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/h1021456873\/article\/details\/50965684
+
+
+\u4e8c\u53c9\u6811\u904d\u5386 - ~\u2605sunshine\u2606\u7684\u535a\u5ba2\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+
+\u6570\u4f4dDP\u5b66\u4e60 \uff08\u603b\u7ed3\u7bc7\uff09 - AK_HuangYC\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/h1021456873\/article\/details\/50968088
+\u65e0\u610f\u4e2d\u53d1\u73b0\u4e00\u4e2a\u4e0b\u8f7dpdf\u4e66\u7684\u5730\u65b9
+http:\/\/blog.csdn.net\/riba2534\/article\/details\/53338627
+c++\u8bbe\u8ba1\u6a21\u5f0f\u597d\u6587\u7ae0 \u94fe\u63a5
+http:\/\/blog.csdn.net\/hnust_xiehonghao\/article\/details\/24324779
+\u3010\u73b2\u73d1\u5b66\u9662 1056 1056 - A plus B\u3011+ \u516b\u8fdb\u5236 - \u695a\u6c5f\u67ab - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/wyk1823376647\/article\/details\/53353902
+\u6700\u77ed\u8def\u5f84\u7b97\u6cd5\u2014\u2014Dijkstra,Bellman-Ford,Floyd-Warshall,Johnson - Climetine\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/climetine\/article\/details\/41016327
+\u628a\u6b63\u6574\u6570n\u8868\u793a\u6210\u82e5\u5e72\u4e2a\u4e0d\u540c\u7684\u6b63\u6574\u6570\u7684\u548c\uff0c\u6c42\u79ef\u7684\u6700\u5927\u503c - nameofcsdn\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/nameofcsdn\/article\/details\/53334497
+\u5e38\u7528\u7684\u4e00\u4e9bVim\u547d\u4ee4 - \u5f20\u5bcc\u5f3a\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_34060722\/article\/details\/53335774
+\u5e38\u7528\u7684\u4e00\u4e9bVim\u547d\u4ee4 - \u5f20\u5bcc\u5f3a\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_34060722\/article\/details\/53335774
+Python\u5b66\u4e60\u8bb0\u5f55day2 - ygqygq2\u7684IT\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/ygqygq2\/article\/details\/53264972
+python \u7f51\u7edc\u722c\u866b - nealgavin\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/nealgavin\/article\/details\/24880419
+python\u5b9e\u73b0\u7b80\u5355\u722c\u866b\u6293\u53d6\u56fe\u7247 - \u6c5f\u519b\u7965\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/whuhan2013\/article\/details\/50893714
+HTML\u5165\u95e8 - Yeauty\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/yeauty\/article\/details\/53316757
+CSDN Markdown\u7b80\u660e\u6559\u7a0b2-\u57fa\u672c\u4f7f\u7528 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/whqet\/article\/details\/44274999
+Python+Tkinter \u5bc6\u4fdd\u5c0f\u5de5\u5177
+http:\/\/blog.csdn.net\/Marksinoberg\/article\/details\/52525359
+\u7528Python\u7edf\u8ba1\u65b0\u6d6a\u5fae\u535a\u5404\u79cd\u8868\u60c5\u4f7f\u7528\u9891\u7387
+http:\/\/blog.csdn.net\/pangjiuzala\/article\/details\/52765172
+\u4e00\u884cpython\u4ee3\u7801
+http:\/\/blog.csdn.net\/wireless_com\/article\/details\/52713868
+python\u6a21\u5757\uff1a\u65f6\u95f4\u5904\u7406\u6a21\u5757
+http:\/\/blog.csdn.net\/pipisorry\/article\/details\/53067168
+Python\u57fa\u7840\u2014\u2014\u7f51\u7edc\u7f16\u7a0b
+http:\/\/blog.csdn.net\/google19890102\/article\/details\/51549686
+\u8d85\u8be6\u7ec6\u7684Python\u81ea\u5b66\u9879\u76ee\u6536\u96c6\uff01
+http:\/\/blog.csdn.net\/BaiHuaXiu123\/article\/details\/53150448
+
+http:\/\/blog.csdn.net\/google19890102\/article\/details\/53011926
+
+
+windows\u4e0b\u4f7f\u7528python\u811a\u672c\u81ea\u52a8\u66f4\u65b0hosts\u6587\u4ef6\uff0c\u8bbf\u95eegoogle
+http:\/\/blog.csdn.net\/KimSoft\/article\/details\/53313917
+\u503c\u5f97\u63a8\u8350\u7684C\/C++\u6846\u67b6\u548c\u5e93\uff08\u6df1\u5ea6\u597d\u6587\uff09
+http:\/\/blog.csdn.net\/wojiushiwo987\/article\/details\/50785737
+[\u6570\u636e\u7ed3\u6784]_[C\/C++]_[\u94fe\u8868\u7684\u6700\u4f73\u521b\u5efa\u65b9\u5f0f]
+http:\/\/blog.csdn.net\/infoworld\/article\/details\/52888970
+C\/C++\u5b66\u4e60\u8def\u7ebf\u56fe
+http:\/\/blog.csdn.net\/qq_25827845\/article\/details\/53009902
+\u4e2d\u56fd\u5269\u4f59\u5b9a\u7406 ( \u7684\u5b66\u4e60 )
+http:\/\/blog.csdn.net\/WR_technology\/article\/details\/52064176
+Manacher \u7b97\u6cd5
+http:\/\/blog.csdn.net\/WR_technology\/article\/details\/52458101
+HDUoj4857\u9003\u751f \u62d3\u6251\u6392\u5e8f
+http:\/\/blog.csdn.net\/WR_technology\/article\/details\/51007262
+\u641c\u7d22\u7b97\u6cd5 pots
+http:\/\/blog.csdn.net\/WR_technology\/article\/details\/50810242
+\u540e\u7f00\u6570\u7ec4-\u5165\u95e8\u5b66\u4e60
+http:\/\/blog.csdn.net\/WR_technology\/article\/details\/52637589
+AC\u81ea\u52a8\u673a-\u9898\u76ee\u96c6\u5408
+http:\/\/blog.csdn.net\/WR_technology\/article\/details\/52782182
+hdu\uff081007\uff09 \u6700\u8fd1\u70b9\u5bf9 \u5206\u6cbb\u6cd5
+http:\/\/blog.csdn.net\/WR_technology\/article\/details\/51057937
+\u7b80\u6613\u4e94\u5b50\u68cb V1.1.0
+http:\/\/blog.csdn.net\/WR_technology\/article\/details\/51323828
+Digit\uff08\u6e58\u6f6d\u5927\u5b66\u6bd4\u8d5b\uff09
+http:\/\/blog.csdn.net\/WR_technology\/article\/details\/51531227
+C\u8bed\u8a00 \u5199\u7684 \u8868\u8fbe\u5f0f\u6c42\u503c\u3002
+http:\/\/blog.csdn.net\/WR_technology\/article\/details\/51736687
+ACM\u5e94\u8be5\u5b66\u4ec0\u4e48(\u77e5\u4e4e\u5b66\u957f)
+http:\/\/blog.csdn.net\/WR_technology\/article\/details\/51747542
+\u4e58\u6cd5\u9006\u5143
+http:\/\/blog.csdn.net\/WR_technology\/article\/details\/51393242
+\u5149\u6807\u79fb\u52a8\u4ee5\u53ca\u9f20\u6807\u4fe1\u606f\u6355\u6349
+http:\/\/blog.csdn.net\/WR_technology\/article\/details\/51396897
+\u591a\u91cd\u90bb\u63a5\u8868
+http:\/\/blog.csdn.net\/WR_technology\/article\/details\/51919044
+\u6811\u94fe\u5256\u5206-\u5165\u95e8\u9898\u76ee
+http:\/\/blog.csdn.net\/WR_technology\/article\/details\/53140412
+CodeForces-732D-Exams\uff08\u4e8c\u5206 \u6a21\u62df \u8d2a\u5fc3\uff09
+http:\/\/blog.csdn.net\/qq_32680617\/article\/details\/53303939
+nyoj 102 \u540c\u4f59\u5e42\u7b97\u6cd5
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/8717818
+nyoj 571 \u6574\u6570\u5212\u5206\u95ee\u9898\uff08dp\uff09
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/8681009
+\u4e8c\u5206\u67e5\u627e\u6a21\u677f nyoj626
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/8766048
+hdoj 3791 \u4e8c\u53c9\u6811\u904d\u5386
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/8991373
+\u6b27\u62c9\u56de\u8def\u4e0e\u6b27\u62c9\u9053\u8def
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/9371591
+\u4e8c\u53c9\u6811\u7684\u64cd\u4f5c\uff08\u540e\u7eed\u66f4\u65b0\uff09
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/9412027
+\u6c42\u5728\u4ece1\u5230n\u7684\u6b63\u6570\u4e2d1\u51fa\u73b0\u7684\u6b21\u6570
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/12950525
+dp\u4e4b\u6700\u5927\u548c\uff0cm\u6bb5\u6700\u5927\u548c\u4ee5\u53ca\u6700\u5927\u5b50\u77e9\u9635
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/18076575
+Floyed\u6c42\u4f20\u9012\u95ed\u5305 poj 3660
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/19630945
+\u5173\u4e8ecodeforces\u6bd4\u8d5b\u89c4\u5219\u4ecb\u7ecd\uff08\u8f6c\u8f7d\uff09
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/19472749
+\u6700\u5927\u6d41dinci\u6a21\u677f
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/38299309
+KMP\u6a21\u677f
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/38379317
+\u6df1\u641c\u4e4b\u641c\u7d22\u6811
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/19603075
+java GUI\uff08\u56fe\u5f62\u7528\u6237\u754c\u9762\uff09\u7ec3\u4e60
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/42214017
+\u77e9\u9635\u5feb\u901f\u5e42
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/39694583
+python\u5b66\u4e60\u8bb0\u5f55
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/41949673
+C++\u4e2d\u6587\u4ef6\u7684\u8bfb\u51fa\u53ca\u5199\u5165
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/44176789
+\u53d8\u8272\u9f99\u6251\u514b\u724c\u6e38\u620f
+http:\/\/blog.csdn.net\/VBcom\/article\/details\/4309821
+\u7b2c\u516d\u5c4a\u84dd\u6865\u676f\u8f6f\u4ef6\u5927\u8d5bA\u7ec4\u9884\u8d5b
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/44994585
+\u7cd6\u679c\u70b8\u5f39
+http:\/\/blog.csdn.net\/VBcom\/article\/details\/4309765
+CSDN-markdown\u8bed\u6cd5\u4e4b\u5982\u4f55\u4f7f\u7528LaTeX\u8bed\u6cd5\u7f16\u5199\u6570\u5b66\u516c\u5f0f
+http:\/\/blog.csdn.net\/hermito\/article\/details\/45949649
+mysql\u6700\u57fa\u672c\u4e5f\u662f\u6700\u5e38\u7528\u7684\u51e0\u4e2a\u547d\u4ee4
+http:\/\/blog.csdn.net\/hermito\/article\/details\/37884089
+CString\uff0cchar * \uff0cstring\uff0cint\u95f4\u7684\u76f8\u4e92\u8f6c\u6362
+http:\/\/blog.csdn.net\/hermito\/article\/details\/38360063
+\u5728\u535a\u5ba2\u4e2d\u7528latex\u5199\u516c\u5f0f
+http:\/\/blog.csdn.net\/hermito\/article\/details\/41324443
+\u7b97\u6cd5\u0026ACM\u6bd4\u8d5b\u641c\u96c6
+http:\/\/blog.csdn.net\/hermito\/article\/details\/51397618
+Vim\u7b80\u660e\u6559\u7a0b\u3010CoolShell\u3011
+http:\/\/blog.csdn.net\/hermito\/article\/details\/51507624
+OJ\u63d0\u4ea4\u9898\u76ee\u4e2d\u7684\u8bed\u8a00\u9009\u9879\u91ccG++\u4e0eC++\u7684\u533a\u522b
+http:\/\/blog.csdn.net\/hermito\/article\/details\/51473617
+ACM ubuntu\u73af\u5883\u914d\u7f6e
+http:\/\/blog.csdn.net\/hermito\/article\/details\/51525374
+\u8f93\u51fa\u6570\u7ec4\u5168\u6392\u5217
+http:\/\/blog.csdn.net\/hermito\/article\/details\/51680251
+\u7f16\u7a0b\u4e4b\u7f8e\u7cfb\u5217\u4e4b\u4e8c\u53c9\u6811\u7684\u5206\u5c42\u904d\u5386
+http:\/\/blog.csdn.net\/kay_zhyu\/article\/details\/8872293
+\u7f16\u7a0b\u4e4b\u7f8e\u7cfb\u5217\u4e4b\u6c42\u5b50\u6570\u7ec4\u7684\u8fde\u7eed\u6700\u5927\u79ef
+http:\/\/blog.csdn.net\/kay_zhyu\/article\/details\/8875031
+\u5ed6\u96ea\u5cf0python\u5b66\u4e60\u7b14\u8bb04\uff1a\u9ad8\u7ea7\u7279\u6027
+http:\/\/blog.csdn.net\/thinkerleo1997\/article\/details\/51886575
+NYOJ289 \u82f9\u679c\uff08\u7ecf\u5178\u768401\u80cc\u5305\u95ee\u9898\uff09
+http:\/\/blog.csdn.net\/riba2534\/article\/details\/53236382
+NYOJ47 \u8fc7\u6cb3\u95ee\u9898
+http:\/\/blog.csdn.net\/riba2534\/article\/details\/53184751
+\u5386\u5e74\u8f6f\u8bbe\u8ba1\u5e08\u4e0b\u5348\u8003\u8bd5\u8bd5\u9898\u6c47\u603b\u7edf\u8ba1\uff08\u66f4\u65b0\u81f32016\u5e74\u4e0b\u534a\u5e74\uff09 - fusional\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/fusional\/article\/details\/53168663
+\u5386\u5e74\u8f6f\u8bbe\u8ba1\u5e08\u4e0b\u5348\u8003\u8bd5\u8bd5\u9898\u6c47\u603b\u7edf\u8ba1\uff08\u66f4\u65b0\u81f32016\u5e74\u4e0b\u534a\u5e74\uff09 - fusional\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/fusional\/article\/details\/53168663
+\u5386\u5e74\u8f6f\u8bbe\u8ba1\u5e08\u4e0b\u5348\u8003\u8bd5\u8bd5\u9898\u6c47\u603b\u7edf\u8ba1\uff08\u66f4\u65b0\u81f32016\u5e74\u4e0b\u534a\u5e74\uff09 - fusional\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/fusional\/article\/details\/53168663
+zstu 4242: \u6821\u5e86(2016\u5e74\u65b0\u751f\u8d5b\u66a8\u5168\u56fd\u65b0\u751f\u9080\u8bf7\u8d5b) - sinat_35121480\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/sinat_35121480\/article\/details\/53290886
+OJ\u7cfb\u7edf\u4e0a\u7ebf\u2014\u2014OJ.BoilTask.com
+http:\/\/blog.csdn.net\/u011493189\/article\/details\/52130400
+2016\u5e74\u4e2d\u56fd\u5927\u5b66\u751f\u7a0b\u5e8f\u8bbe\u8ba1\u7ade\u8d5b\uff08\u676d\u5dde\uff09-\u91cd\u73b0\u8d5b
+http:\/\/blog.csdn.net\/chenzhenyu123456\/article\/details\/52965642
+51nod 1009 \u6570\u5b571\u7684\u6570\u91cf(\u6570\u4f4ddp)
+http:\/\/blog.csdn.net\/zwj1452267376\/article\/details\/52463376
+\u6700\u5927\u6d41\u6a21\u7248
+http:\/\/blog.csdn.net\/wjhuihuii\/article\/details\/52571773
+\u6700\u957f\u56de\u6587\u5b50\u4e32
+http:\/\/blog.csdn.net\/wjhuihuii\/article\/details\/53042372
+\u7ebf\u6bb5\u6811\u9898\u96c6
+http:\/\/blog.csdn.net\/qq574857122\/article\/details\/11727859
+\u5c0f\u83dc\u9000\u5f79\u4e86
+http:\/\/blog.csdn.net\/qq574857122\/article\/details\/50293289
+HP1057 \u5929\u5e73\u5e73\u8861
+http:\/\/blog.csdn.net\/wang2332\/article\/details\/53271480
+\u7f16\u5199\u9ad8\u6548\u4e14\u4f18\u96c5\u7684 Python \u4ee3\u7801
+http:\/\/geek.csdn.net\/news\/detail\/124839
+\u5192\u6ce1\u6392\u5e8f\u7684\u4e09\u79cd\u4f18\u5316 - hugang\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/redmoon955331\/article\/details\/53258186
+POJ 2449 K\u77ed\u8def - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/LOI_xczhw\/article\/details\/49000677
+NOIP \u6a21\u677f\u6574\u7406 - loi__zzk\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/loi__zzk\/article\/details\/53164438
+HDU 5971 icpc \u5927\u8fde A Wrestling Match - \u7aa6\u5c0f\u96e8\u7684\u5c0f\u70b9\u5b50 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_33402621\/article\/details\/53056371
+python\u722c\u53d6\u52a8\u6001\u751f\u6210\u7684\u7f51\u9875\u2014\u2014\u4ee5\u767e\u5ea6\u624b\u673a\u52a9\u624b\u4e3a\u4f8b - \u5b88\u671b\u8005\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/shouwangzhelv\/article\/details\/51156332
+2015\u5f31\u6821\u8fde\u840c\u5bd2\u5047\u4e13\u9898\u4e8c(\u5e76\u67e5\u96c6) \u9898\u89e3(I-P)
+http:\/\/blog.csdn.net\/skywalkert\/article\/details\/44020501
+2015\u4e0a\u6d77\u5927\u90fd\u4f1a\u9080\u8bf7\u8d5b \u9898\u89e3
+http:\/\/blog.csdn.net\/skywalkert\/article\/details\/46238681
+\u7b97\u6cd5-\u6c42\u4e8c\u8fdb\u5236\u6570\u4e2d1\u7684\u4e2a\u6570
+http:\/\/blog.csdn.net\/hezikui1987\/article\/details\/17850215
+\u7b97\u6cd5\u4e66\u7c4d\u63a8\u8350\u53ca\u7f51\u7edc\u8d44\u6e90 [\u8f6c]
+http:\/\/blog.csdn.net\/hezikui1987\/article\/details\/8857408
+\u6307\u9488\u548c\u5f15\u7528---int*\u3001int\u0026\u3001int*\u0026\u3001int\u0026*\u3001int**
+http:\/\/blog.csdn.net\/hezikui1987\/article\/details\/9206179
+[\u6a21\u677f]\u5927\u6574\u6570\u76f8\u52a0\u3001\u76f8\u4e58
+http:\/\/blog.csdn.net\/hezikui1987\/article\/details\/36065059
+\u5982\u4f55\u5728Win7\u4e2d\u6253\u5f00\u6444\u50cf\u5934
+http:\/\/blog.csdn.net\/hezikui1987\/article\/details\/8651901
+\u6570\u636e\u7ed3\u6784\uff08\u56db\uff09\u2014\u2014\u5faa\u73af\u94fe\u8868\u4e0e\u53cc\u5411\u94fe\u8868 - Aikenlan\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_31108501\/article\/details\/53200236
+\u5f7b\u5e95\u641e\u6e05C\/C++\u4e2d\u4e00\u7ef4\u6570\u7ec4\uff0c\u4e8c\u7ef4\u6570\u7ec4\uff0c\u6307\u9488\uff0c\u6570\u7ec4\u6307\u9488\u548c\u6307\u9488\u6570\u7ec4\u4ee5\u53ca\u6307\u5411\u6307\u9488\u7684\u6307\u9488\uff0c\u884c\u5730\u5740\u548c\u5217\u5730\u5740\u4e4b\u95f4\u7684\u5173\u7cfb - zhangyulin54321\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/zhangyulin54321\/article\/details\/7843531
+\u63a2\u7d22B\u6811\/B+\u6811\u4e0eMySQL\u6570\u636e\u5e93\u7d22\u5f15\u7684\u5173\u7cfb
+http:\/\/blog.csdn.net\/bitboss\/article\/details\/53219945
+\u4e8c\u53c9\u6811\u7ecf\u5178\u9762\u8bd5\u9898
+http:\/\/blog.csdn.net\/LF_2016\/article\/details\/53221878
+\u7d2b\u4e66\u7b2c4\u7ae0 \u51fd\u6570\u548c\u9012\u5f52 - \u4ee3\u53f74101\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/code4101\/article\/details\/38540759
+C\/C++\u5201\u94bb\u95ee\u9898\u5404\u4e2a\u51fb\u7834\u4e4b\u7ec6\u8bf4sizeof - w57w57w57\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/w57w57w57\/article\/details\/6626840
+\u4e00\u6b65\u4e00\u6b65\u6c42\u89e3\u7ea6\u745f\u592b(Joseph)\u95ee\u9898 - w57w57w57\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/w57w57w57\/article\/details\/6639194
+\u3010\u7ecf\u5178\u3011\u4f20\u667a\u64ad\u5ba2\u97e9\u987a\u5e73Java\u548cjavaEE\u89c6\u9891\u6559\u7a0b\u5b8c\u6574\u7248 [30.16G]\u503e\u60c5\u5949\u732e
+http:\/\/blog.csdn.net\/u010870518\/article\/details\/39672547
+\u7b2c\u4e00\u4e2a\u5b9e\u9a8c\u2014\u8dd1\u9a6c\u706f
+http:\/\/blog.csdn.net\/u011144417\/article\/details\/50468337
+\u3010Python\u57fa\u7840\u3011--\u53d8\u91cf\u548c\u5b57\u7b26\u4e32\/\u731c\u6570\u5b57\/range()\/Isinstance\/list[]\/tupple()
+http:\/\/blog.csdn.net\/waldmer\/article\/details\/53004508
+hdu 4738 tarjian\u6c42\u6865
+http:\/\/blog.csdn.net\/driver13\/article\/details\/50580109
+POJ 1222 -- EXTENDED LIGHTS OUT\uff08\u7184\u706f\u95ee\u9898\uff09
+http:\/\/blog.csdn.net\/qq_35504607\/article\/details\/53202802
+\u6392\u5e8f\u7b97\u6cd5\u4e4b\u63d2\u5165\u6392\u5e8f - \u5fae\u98ce - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_34328833\/article\/details\/53192945
+\u6392\u5e8f\u2014\u2014Shell
+http:\/\/blog.csdn.net\/LF_2016\/article\/details\/53198832
+HDU - 1249 \u4e09\u89d2\u5f62\uff08\u5e73\u9762\u5212\u5206\uff09 - nameofcsdn\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/nameofcsdn\/article\/details\/53134832
+\u4f7f\u7528exe4j\u6253\u5305exe - \u6307\u5357\u9488\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_20473985\/article\/details\/53186216
+\u7b97\u6cd5\u77e5\u8bc6\u4e4b\u6700\u957f\u516c\u5171\u5b50\u5e8f\u5217\u95ee\u9898(\u52a8\u6001\u89c4\u5212)
+http:\/\/blog.csdn.net\/Eastmount\/article\/details\/14162173
+\u6570\u636e\u7ed3\u6784\u4e4b\u5806\u6392\u5e8f
+http:\/\/blog.csdn.net\/Eastmount\/article\/details\/17376243
+\u5982\u4f55\u4f7f\u7528Eclipse\u7f16\u8bd1C\uff0cC++\uff0cJAVA\u7a0b\u5e8f
+http:\/\/geek.csdn.net\/news\/detail\/121349
+\u7b80\u6613\u65f6\u95f4\u8ba1\u65f6\u5668\u7684\u5b9e\u73b0
+http:\/\/blog.csdn.net\/zyf__java\/article\/details\/53160612
+poj1862Stripies\u3010\u54c8\u592b\u66fc\u5408\u5e76\u6728\u68cd\u3011 - MissZhou\u8981\u52aa\u529b - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/zhou_yujia\/article\/details\/50634333
+\u5404\u7c7b\u7b97\u6cd5\u9898\u76ee\u6536\u96c6 - nealgavin\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/nealgavin\/article\/details\/9398097
+\u3010c++\u3011\u6784\u5efa\u4e00\u68f5\u7b80\u5355\u7684\u4e8c\u53c9\u6811 - LLZK_\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/llzk_\/article\/details\/52829525
+\u3010c++\u3011\u6784\u5efa\u4e00\u68f5\u7b80\u5355\u7684\u4e8c\u53c9\u6811 - LLZK_\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/llzk_\/article\/details\/52829525
+uva 11374 Airport Express\uff08\u6700\u77ed\u8defdijistra+\u5806\u4f18\u5316\uff0c4\u7ea7\uff09 - nealgavin\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/nealgavin\/article\/details\/9262495
+easy_install - nealgavin\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/nealgavin\/article\/details\/24554887
+python\u722c\u866bCSDN\u6587\u7ae0\u6293\u53d6 - nealgavin\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/nealgavin\/article\/details\/27230679
+\u7528Python\u722c\u866b\u722c\u53d6\u8c46\u74e3\u7535\u5f71\u3001\u8bfb\u4e66Top250\u5e76\u6392\u5e8f - Alanzjl\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/alanzjl\/article\/details\/50681289
+python \u7f51\u7edc\u722c\u866b\u5165\u95e8\uff08\u4e00\uff09\u2014\u2014\u2014\u7b2c\u4e00\u4e2apython\u722c\u866b\u5b9e\u4f8b - Bo_wen_\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/bo_wen_\/article\/details\/50868339
+pip\u7684\u5b89\u88c5\uff0c\u66f4\u65b0\uff0c\u5378\u8f7d\u6a21\u5757\u4ee5\u53ca\u4f7f\u7528\u65b9\u6cd5 python - Winterto1990\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/winterto1990\/article\/details\/47455405
+hdu 1735 \u6587\u5b57\u7edf\u8ba1
+http:\/\/blog.csdn.net\/hynu_kevin\/article\/details\/52122069
+ACM\u4e4b\u8def\u2014\u2014\u7b97\u6cd5\u6a21\u677f\uff08\u6570\u5b66\uff09 - feizaoSYUACM\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/feizaosyuacm\/article\/details\/52199761
+ACM\u4e4b\u8def\u2014\u2014\u2014\u7b97\u6cd5\u6a21\u677f\uff08\u57fa\u7840\u7b97\u6cd5\uff09 - feizaoSYUACM\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/feizaosyuacm\/article\/details\/52260380
+\u6392\u5e8f\u603b\u7ed3 - feizaoSYUACM\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/feizaosyuacm\/article\/details\/53092597
+\u7b97\u6cd5\u8bbe\u8ba1\u4e0e\u5206\u6790--\u6c42\u6700\u5927\u5b50\u6bb5\u548c\u95ee\u9898\uff08\u86ee\u529b\u6cd5\u3001\u5206\u6cbb\u6cd5\u3001\u52a8\u6001\u89c4\u5212\u6cd5) C++\u5b9e\u73b0
+http:\/\/blog.csdn.net\/wwj_748\/article\/details\/8919838
+js\u5b9e\u73b0window \u5f39\u7a97\u5c0f\u6848\u4f8b
+http:\/\/blog.csdn.net\/zyf__java\/article\/details\/53056919
+HTML \u5b9e\u73b0\u6ce8\u518c\u5c0f\u6848\u4f8b
+http:\/\/blog.csdn.net\/zyf__java\/article\/details\/53072145
+html \u5feb\u901f\u5165\u95e8\u4e4b\u8def\uff08\u4e0a\uff09
+http:\/\/blog.csdn.net\/zyf__java\/article\/details\/52915894
+Vim \u8bbe\u7f6e\u4ee5\u53ca\u89e3\u51b3\u4e2d\u6587\u4e71\u7801 - pang3510726681\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/pang3510726681\/article\/details\/26354019
+40\u4e2aJava\u591a\u7ebf\u7a0b\u95ee\u9898\u603b\u7ed3
+http:\/\/blog.csdn.net\/qq_35101189\/article\/details\/53069373
+10\u4e2a\u7ecf\u5178\u7684 Java main \u65b9\u6cd5\u9762\u8bd5\u9898
+http:\/\/geek.csdn.net\/news\/detail\/114098
+\u3010C\u5927\u4e8b\u3011\u7b2c\u5341\u4e00\u8bb2\uff1aSocket\u7f51\u7edc\u7f16\u7a0b
+http:\/\/blog.csdn.net\/waldmer\/article\/details\/10903165
+\u3010C\/C++\u5b66\u9662\u3011\uff081\uff09\u5206\u652f\u7ed3\u6784\/\u718a\u732b\u70e7\u9999\/\u81ea\u6211\u5220\u9664\/switch\/\u5faa\u73af\u7ed3\u6784\/break\/contine\/goto\/\u9012\u5f52
+http:\/\/blog.csdn.net\/waldmer\/article\/details\/9851853
+\u51e0\u4e2a\u514d\u8d39IP\u5730\u5740\u67e5\u8be2API\u63a5\u53e3
+http:\/\/geek.csdn.net\/news\/detail\/113684
+swap() \u4ea4\u6362\u4e24\u4e2a\u6570
+http:\/\/blog.csdn.net\/waldmer\/article\/details\/9851859
+Python\u4e2d\u7684\u65f6\u533a\u5904\u7406
+http:\/\/geek.csdn.net\/news\/detail\/113760
+Python\u5b66\u4e60\u7b14\u8bb0(2) - Python\u7684main\u51fd\u6570 - noodies\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/noodies\/article\/details\/6034105
+\u7ecf\u5178\u6392\u5e8f\u7b97\u6cd5\u603b\u7ed3--\u5192\u6ce1\u3001\u5feb\u6392\u3001\u63d2\u5165\u3001\u5e0c\u5c14\u3001\u5f52\u5e76\u3001\u9009\u62e9
+http:\/\/geek.csdn.net\/news\/detail\/113928
+python \u722c\u866b\u57fa\u672c\u77e5\u8bc6 - bravezhe\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/bravezhe\/article\/details\/8614692
+python\u8bbf\u95eeweb\u7684\u5229\u5668\uff1aurllib2 - bravezhe\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/bravezhe\/article\/details\/8614949
+\u6279\u91cfQQ\u8d44\u6599\u91c7\u96c6 - Yatere\u7684\u5929\u5e73\u79e4 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/yatere\/article\/details\/8302367
+hdu 4135 Co-Prime \u5bb9\u65a5\u5165\u95e8 - Jeremy1149\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/jeremy1149\/article\/details\/52932521
+\u6211\u4e3aNET\u72c2\u5b98\u65b9\u9762\u8bd5\u9898-\u6570\u636e\u5e93\u7bc7\u7b54\u6848
+http:\/\/geek.csdn.net\/news\/detail\/113662
+vim\u8fd0\u884cpython - dlcloud\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/fhl0000\/article\/details\/42487031
+Windows\u4e0b\u7528\u6700\u65b0pip\u5b89\u88c5pandas - \u673a\u5668\u7b28\u732b - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/fool_ran\/article\/details\/52068993
+\u78c1\u529b\u94fe\u63a5+\u722c\u866b - \u675c\u9c81\u95e8\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/bug_moving\/article\/details\/52083078
+\u5806\u6392\u5e8f
+http:\/\/blog.csdn.net\/lihao21\/article\/details\/6177921
+C++\u9762\u8bd5\u9898--string\u7c7b\u7684\u5b9e\u73b0
+http:\/\/blog.csdn.net\/taoyanqi8932\/article\/details\/53055036
+\u6700\u5c0f\u8d39\u7528\u6700\u5927\u6d41\u7b97\u6cd5\u53ca\u9898\u96c6
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/40074527
+python\u751f\u6210\u968f\u673a\u6570
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/38611575
+hdu 4862 Jump \u3010\u6700\u5c0f\u8d39\u7528\u6700\u5927\u6d41\u3011\u597d\u9898
+http:\/\/blog.csdn.net\/mengxiang000000\/article\/details\/52638412
+\u7528Python\u5c06GIF\u5012\u653e
+http:\/\/geek.csdn.net\/news\/detail\/113229
+Java\u5b9e\u73b0 \u56fe\u7247\u6c34\u5370\u6216\u8005\u6587\u5b57\u6c34\u5370
+http:\/\/geek.csdn.net\/news\/detail\/113252
+\u8fd98\u4e2a\u514d\u8d39\u7684\u7f51\u4e0a\u8bfe\u7a0b\u53ef\u4ee5\u6709\u52a9\u4f60\u7684\u6280\u672f\u6210\u957f
+http:\/\/geek.csdn.net\/news\/detail\/113258
+\u201c\u73b2\u73d1\u676f\u201dACM\u6bd4\u8d5b Round #4 - \u7a79\u59b9\u7684\u5bb6 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/kg20006\/article\/details\/53053368#comments
+\u73b2\u73d1oj 1050 Array \u7b80\u5355dp
+http:\/\/blog.csdn.net\/Jeremy1149\/article\/details\/53046946
+2016\u4e2d\u56fd\u5927\u5b66\u751f\u7a0b\u5e8f\u8bbe\u8ba1\u7ade\u8d5b(ccpc \u676d\u5dde)\u9898\u89e3\u62a5\u544a
+http:\/\/blog.csdn.net\/queuelovestack\/article\/details\/52984042
+hdu 5969 \u6700\u5927\u7684\u4f4d\u6216 2016ACM\/CCPC\u5408\u80a5\u8d5b\u533a\u73b0\u573a\u8d5bI - lqybzx\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/lqybzx\/article\/details\/53047559
+git\u5411github\u63a8\u9001\u5c0f\u767d\u6559\u7a0b
+http:\/\/blog.csdn.net\/bitboss\/article\/details\/53037540
+js \u67e5\u8be2IP\u5f52\u5c5e\u5730 - AB - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/a634771197\/article\/details\/51463641
+1. Git\u5b89\u88c5\u4e0e\u914d\u7f6e - \u94c1\u951a\u7684CSDN\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/renfufei\/article\/details\/41647875
+Excel \u5230\u5e95\u6709\u591a\u5389\u5bb3\uff1f
+http:\/\/geek.csdn.net\/news\/detail\/112590
+Python\u51fd\u6570
+http:\/\/geek.csdn.net\/news\/detail\/112617
+\u8ba1\u7b97\u673a\u662f\u600e\u4e48\u77e5\u9053\u4e24\u5f20\u56fe\u7247\u76f8\u4f3c\u7684\u5462?
+http:\/\/geek.csdn.net\/news\/detail\/112652
+\u7b97\u6cd5\u8bbe\u8ba1\u4e0e\u5206\u6790\u4e4b-\u6700\u5927\u5b50\u6bb5\u548c (\u5206\u6cbb)
+http:\/\/blog.csdn.net\/yzr1183739890\/article\/details\/51180643
+\u5f00\u6e90 \u5728\u7ebfOJ \u676d\u7535 \u5ba2\u6237\u7aef
+http:\/\/blog.csdn.net\/yzr1183739890\/article\/details\/53026722
+poj3233 - Matrix Power Series - \u8d30\u5723 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/wangjian8006\/article\/details\/7868864
+poj3233 - Matrix Power Series - \u8d30\u5723 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/wangjian8006\/article\/details\/7868864
+poj\u56fe\u8bba\u89e3\u9898\u62a5\u544a\u7d22\u5f15 - \u8d30\u5723 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/wangjian8006\/article\/details\/7989020
+HDU1588(\u77e9\u9635\u8fde\u4e58\u6c42\u548c) - ACdreamer - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/acdreamers\/article\/details\/9850377
+HDU1588Gauss Fibonacci(\u77e9\u9635) - \u8ffd\u68a6\u8d64\u5b50\u5fc3 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/bigbigship\/article\/details\/38143599
+[HDU1588]Gauss Fibonacci\uff08\u9012\u63a8+\u77e9\u9635\u5feb\u901f\u5e42\uff09 - zyf2000 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/Clove_unique\/article\/details\/51476904
+\u5e38\u7528\u6392\u5e8f\u6c47\u603b - AC_Gibson\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/ac_gibson\/article\/details\/50371758
+\u9ad8\u65af\u6d88\u5143\u89e3\u7ebf\u6027\u65b9\u7a0b\u7ec4 - AC_Gibson\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/ac_gibson\/article\/details\/49885803
+Python\u89e3\u6790\u5df2\u4e0b\u8f7dhtml\u6587\u4ef6 - AC_Gibson\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/ac_gibson\/article\/details\/50199051
+[Python]\u7f51\u7edc\u722c\u866b\uff1aPython\u4e2d\u7684\u6b63\u5219\u8868\u8fbe\u5f0f\u6559\u7a0b - \u6b66\u6c49\u7406\u5de5--\u5f20\u948aC\/C++\/Java \u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/zz198808\/article\/details\/9261123
+
+http:\/\/blog.csdn.net\/mynameishuangshuai\/article\/details\/51657324
+
+
+Java \u6b63\u5219\u8868\u8fbe\u5f0f\u8be6\u89e3
+http:\/\/geek.csdn.net\/news\/detail\/111767
+Java\u5b9e\u73b0\u4e86\u4efb\u610f\u4f4d\u7f6e\u622a\u5c4f\uff08\u4effQQ\u622a\u56fe\uff09
+http:\/\/blog.csdn.net\/qq_25425023\/article\/details\/48183891
+\u80cc\u5305\u4e5d\u8bb2\u524d\u4e09\u8bb2\u7cfb\u5217
+http:\/\/blog.csdn.net\/qq_34977554\/article\/details\/52955371
+u013268685\u7684\u4e13\u680f(\u6709\u4e00\u79cd\u5e78\u798f\u53ebAC\uff0c\u6709\u4e00\u79cd\u671f\u5f85\u53ebAK) - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/acvcla?viewmode=contents
+\u7528python\u4f5c\u4e2a\u7b80\u5355\u6587\u4ef6\u62f7\u8d1d\u64cd\u4f5c - HiPhone\u8fd0\u7ef4\u4e4b\u9053 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/jeffreynicole\/article\/details\/8271097
+\u3010\u7d22\u5f15\u30112016\u5e74ICPC\u548cCCPC\u8d5b\u9898 - Fsss - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/fsss_7\/article\/details\/52916241
+\u5206\u4eab\u4e00\u4e0b\u81ea\u5df1\u5199\u76842048\u6e38\u620f\uff083*3,4*4,5*5,6*6\u591a\u79cd\u73a9\u6cd5\uff0c\u53ef\u53cd\u6094\uff09 - - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u011913612\/article\/details\/52959097
+Java\u4e2d\u7684\u5927\u6570BigInteger
+http:\/\/geek.csdn.net\/news\/detail\/111287
+Java\u4e2dString\u7684\u4e00\u4e9b\u5e38\u7528\u7c7b
+http:\/\/blog.csdn.net\/ShrMuscles\/article\/details\/52100065
+Java\u56fe\u5f62\u754c\u9762\u5f00\u53d1\u2014\u7b80\u6613\u8bb0\u4e8b\u672c
+http:\/\/blog.csdn.net\/qq_25827845\/article\/details\/51447029
+\u6700\u5927\u6d41EK\u7b97\u6cd5\u6a21\u677f - - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/w00w12l\/article\/details\/7973521
+Python\u6253\u5305\u6210exe - \u66f4\u4e0a\u4e00\u5c42\u697c\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/marksinoberg\/article\/details\/52943194
+windows\u4e0a\u5982\u4f55\u642d\u5efaGit Server
+http:\/\/geek.csdn.net\/news\/detail\/110836
+Vim \u4e00\u952e\u7f16\u8bd1\u3001\u8fde\u63a5\u3001\u8fd0\u884c C\/C++ \u5355\u6587\u4ef6\uff08Windows \u4e0e Linux\u901a\u7528\uff09 - \u805a\u6c99\u6210\u5854 \u79ef\u6c34\u6210\u6e0a - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/caishenfans\/article\/details\/44018687
+\u5728\u535a\u5ba2\u4e2d\u7528latex\u5199\u516c\u5f0f - Rachel Zhang\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/abcjennifer\/article\/details\/8036018
+VIM\u7f16\u8f91\u5668\u64cd\u4f5c\u547d\u4ee4\u79ef\u7d2f - Rainnnbow - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/rainnnbow\/article\/details\/50059125
+\u7ee7\u627f----C++\u7684\u4e09\u5927\u7279\u6027\u4e4b\u4e00
+http:\/\/blog.csdn.net\/snow_5288\/article\/details\/52910155
+\u770b\u4ee3\u7801\u731c\u53e4\u8bd7\u54c8\u54c8\u9017\u6b7b\u6211\u4e86 - u012903898\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u012903898\/article\/details\/52880919
+\u9012\u5f52\u4e0e\u5faa\u73af\u76f8\u6bd4\u65f6\u95f4\u4f18\u52bf\u7684\u771f\u6b63\u6765\u6e90
+http:\/\/blog.csdn.net\/ccutyear\/article\/details\/52819123
+Python\u4e2d\u5bf9\u6587\u4ef6\u3001\u6587\u4ef6\u5939\uff08\u6587\u4ef6\u64cd\u4f5c\u51fd\u6570\uff09
+http:\/\/blog.csdn.net\/lanbing510\/article\/details\/8486163
+Python\u5b9e\u73b0CSDN\u535a\u5ba2\u7684\u5b8c\u6574\u5907\u4efd
+http:\/\/blog.csdn.net\/lanbing510\/article\/details\/50173361
+Python Signal(\u4fe1\u53f7) \u5f02\u6b65\u7cfb\u7edf\u4e8b\u4ef6
+http:\/\/blog.csdn.net\/taiyang1987912\/article\/details\/44837709
+\u7b97\u6cd5\u4e4b\u4e8c\u53c9\u6811\u5404\u79cd\u904d\u5386 - \u843d\u65e5\u5c0f\u5c4b - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/sjf0115\/article\/details\/8645991
+vim\u914d\u7f6e - KarlDoenitz\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/karldoenitz\/article\/details\/24103187
+\u4eca\u5929\u5fc3\u8840\u6765\u6f6e\uff0c\u5199\u4e86\u4e2apython\u7684\u5c0f\u722c\u866b - KarlDoenitz\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/karldoenitz\/article\/details\/9898055
+Python \u6a21\u5757:\u66f4\u6709\u903b\u8f91\u5730\u7ec4\u7ec7\u4f60\u7684Python\u4ee3\u7801\u6bb5
+http:\/\/geek.csdn.net\/news\/detail\/108815
+\u4f18\u79c0\u535a\u5ba2\u63a8\u8350 - weeks - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/kai8wei\/article\/details\/50477536
+7\u3001Java\u5165\u95e8\u2014\u5e38\u7528\u7c7b - gywtzh0889\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/gywtzh0889\/article\/details\/52861044
+vim\u7684\u73af\u5883\u914d\u7f6e - weeks - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/kai8wei\/article\/details\/52862237
+\u4ece1\u5230n\u4e2d1\u51fa\u73b0\u7684\u6b21\u6570 - \u679d\u5bd2\u4e0d\u6816 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_27231343\/article\/details\/52567905
+\u7f51\u7edc\u6d41\u4e00\u00b7Ford-Fulkerson\u7b97\u6cd5 - Renaissancer\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/tramp_1\/article\/details\/52564625
+\u5404\u7c7b\u6a21\u677f(\u66f4\u65b0\u4e2d...)(\u82e5\u6709\u4ec0\u4e48\u7279\u522b\u7684\u9700\u8981\uff0c\u53ef\u4ee5\u7559\u4e0b\u8bc4\u8bba) - queuelovestack\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/queuelovestack\/article\/details\/49421919
+Intel Code Challenge Final Round (Div. 1 + Div. 2, Combined)\u9898\u89e3\u62a5\u544a - queuelovestack\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/queuelovestack\/article\/details\/52769461
+\u8bbe\u7f6epython\u4e0b\u7684IDLE\u6e05\u5c4f\u5feb\u6377\u952e\uff08windows\uff09
+http:\/\/blog.csdn.net\/bitboss\/article\/details\/52845814
+HDU1556 - \u7ebf\u6bb5\u6811\u57fa\u7840 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/ltyqljhwcm\/article\/details\/52749522
+CSDN\u722c\u866b\uff08\u4e00\uff09\u2014\u2014\u722c\u866b\u5165\u95e8+\u6570\u636e\u603b\u89c8 - \u5269\u83dc\u5269\u996d\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/wgyscsf\/article\/details\/52837685
+HDU \u52a8\u6001\u89c4\u5212\uff0846\u9053\u9898\u76ee\uff09\u503e\u60c5\u5949\u732e - GinSmile\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/xujinsmile\/article\/details\/7840944
+CSDN\u535a\u5ba2\u6dfb\u52a0\u4f7f\u7528\u767e\u5ea6\u7edf\u8ba1
+http:\/\/blog.csdn.net\/testcs_dn\/article\/details\/52822103
+hdu 2087 \u526a\u82b1\u5e03\u6761 kmp\u5c0f\u6c34
+http:\/\/blog.csdn.net\/hnust_xiehonghao\/article\/details\/7878391
+kmp\u7b97\u6cd5\u6a21\u677f
+http:\/\/blog.csdn.net\/bochuan007\/article\/details\/6658596
+KMP\u5b57\u7b26\u4e32\u5339\u914d(\u521d\u5b66\u8005\u5fc5\u770b\uff0c\u8bb2\u7684\u5f88\u6e05\u6670)
+http:\/\/blog.csdn.net\/luoshengkim\/article\/details\/44724981
+kmp\u7b97\u6cd5\u8bb2\u89e3
+http:\/\/blog.csdn.net\/qq_30241305\/article\/details\/50698987
+poj 3461:Oulipo\uff08KMP\u6a21\u7248\uff09
+http:\/\/blog.csdn.net\/wugj03\/article\/details\/6726777
+15 \u4f4d\u5065\u5728\u7684\u725b\u53c9\u7a0b\u5e8f\u5458\uff0c\u4f60\u77e5\u9053\u54ea\u51e0\u4f4d\uff1f
+http:\/\/geek.csdn.net\/news\/detail\/107070
+\u7528CSS\u7ed8\u5236\u6700\u5e38\u89c1\u768440\u79cd\u5f62\u72b6\u548c\u56fe\u5f62
+http:\/\/geek.csdn.net\/news\/detail\/107007
+Python\u4f7f\u7528SMTP\u53d1\u9001\u90ae\u4ef6
+http:\/\/geek.csdn.net\/news\/detail\/107242
+\u901a\u8fc7html5 canvas\u7ed8\u5236\u65f6\u949f
+http:\/\/geek.csdn.net\/news\/detail\/106976
+Oracle \u5b66\u4e60\u7b2c\u4e00\u5929 - qq_25506739\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_25506739\/article\/details\/52779384
+\u6269\u5c55\u6b27\u51e0\u91cc\u5f97\u521d\u5b66\u6574\u5408
+http:\/\/blog.csdn.net\/qq_34374664\/article\/details\/52739950
+Intel Code Challenge Final Round (Div. 1 + Div. 2, Combined) B(\u6a21\u62df\uff09 \u0026\u0026 codeforce 724B Batch Sort
+http:\/\/blog.csdn.net\/qq_34374664\/article\/details\/52765447
+POJ3259 Wormholes(spfa\u5224\u65ad\u8d1f\u73af\u6a21\u677f\u9898\uff09
+http:\/\/blog.csdn.net\/qq_34374664\/article\/details\/52489810
+\u2606 Codeforces 724C Ray Tracing \u6269\u5c55\u6b27\u51e0\u91cc\u5f97 + \u8ba1\u7b97\u51e0\u4f55
+http:\/\/blog.csdn.net\/qq_34374664\/article\/details\/52766525
+Python\u521d\u5b66\u8005\u768417\u4e2a\u6280\u5de7
+http:\/\/blog.csdn.net\/u011043843\/article\/details\/45715863
+MarkDown\u8bed\u6cd5
+http:\/\/blog.csdn.net\/u011043843\/article\/details\/44196425
+\u7a0b\u5e8f\u5458\u50cf\u59b9\u5b50\u8868\u767d\u4e13\u7528\u4ee3\u7801
+http:\/\/blog.csdn.net\/u011043843\/article\/details\/36905925
+M\u200by\u200bS\u200bq\u200bl\u200b_\u200b5\u200b.\u200b5\u200b\u5b89\u200b\u88c5\u200b\u56fe\u200b\u89e3\u200b\u8bf4\u200b\u660e
+http:\/\/blog.csdn.net\/u011043843\/article\/details\/27709381
+HTML 5\uff1a\u7ed8\u5236\u65cb\u8f6c\u7684\u592a\u6781\u56fe
+http:\/\/blog.csdn.net\/u011043843\/article\/details\/41783571
+\u67d0\u7f51\u7ad9\u9759\u6001\u9996\u9875\u7684\u5b9e\u73b0\u5c0f\u7ed3
+http:\/\/blog.csdn.net\/u011043843\/article\/details\/39668013
+\u53bb\u9664CSDN \u535a\u5ba2\u9875\u5e7f\u544a\u7684\u5386\u7a0b - \u66f4\u4e0a\u4e00\u5c42\u697c\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/marksinoberg\/article\/details\/52742744
+\u4ee4\u7a0b\u5e8f\u5458\u8d39\u89e3\u768410\u4e2a\u8bed\u8a00\u7279\u6027
+http:\/\/geek.csdn.net\/news\/detail\/106162
+Java\u4e2d\u7684API\u5e38\u7528\u7c7b
+http:\/\/blog.csdn.net\/ShrMuscles\/article\/details\/52140725
+\u5feb\u901f\u4e0a\u624bUbuntu\u4e4b\u5b89\u88c5\u7bc7\u2014\u2014\u5b89\u88c5win7,Ubuntu16.04\u53cc\u7cfb\u7edf - qq_28205153\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_28205153\/article\/details\/52203512
+User-Agent \u6c47\u603b - \u4e5d\u8336 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/bone_ace\/article\/details\/52476016
+Python \u904d\u5386\u7f51\u9875\u4ee3\u7801\u6293\u53d6\u6587\u5b57\u548c\u56fe\u7247 - yxp20092010\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/yxp20092010\/article\/details\/51174871
+uva_247_Calling Circles(floyd\u4f20\u9012\u95ed\u5305) - \u4e00\u70b9\u4e5f\u4e0d\u4e8c - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/jhgkjhg_ugtdk77\/article\/details\/47701661
+\u4e00\u6b21\u5feb\u901f\u6392\u5e8f\u9519\u8bef\u5f15\u53d1\u7684\u601d\u8003
+http:\/\/geek.csdn.net\/news\/detail\/104590
+\u6570\u636e\u7ed3\u6784\u5e38\u89c1\u7684\u516b\u5927\u6392\u5e8f\u7b97\u6cd5
+http:\/\/geek.csdn.net\/news\/detail\/104433
+\u6700\u77ed\u8def\u0026\u5dee\u5206\u7ea6\u675f\u9898\u96c6
+http:\/\/blog.csdn.net\/zchahaha\/article\/details\/51055172
+hdu 1599 find the mincost route \u6c42\u6700\u5c0f\u73affloyd
+http:\/\/blog.csdn.net\/zchahaha\/article\/details\/51088966
+\u9047\u89c1\u7a0b\u5e8f\u5458\u7537\u53cb
+http:\/\/geek.csdn.net\/news\/detail\/104395
+HDU1595find the longest of the shortest(SPFA\uff0c\u5220\u8fb9\u6c42\u6700\u77ed\u8def\u4e2d\u7684\u6700\u957f\u8def)
+http:\/\/blog.csdn.net\/u010372095\/article\/details\/44783365
+HDU1688 Sightseeing\uff08SPFA \u6c42\u6700\u77ed\u8def\u4e0e\u6b21\u77ed\u8def\u7684\u8def\u5f84\u6761\u6570\uff09\u53ef\u7528\u4f5c\u6a21\u677f
+http:\/\/blog.csdn.net\/u010372095\/article\/details\/45118813
+\u3010\u4ee3\u7801\u7ba1\u7406\u3011GitHub\u8d85\u8be6\u7ec6\u56fe\u6587\u653b\u7565 - Git\u5ba2\u6237\u7aef\u4e0b\u8f7d\u5b89\u88c5 GitHub\u63d0\u4ea4\u4fee\u6539\u6e90\u7801\u5de5\u4f5c\u6d41\u7a0b Git\u5206\u652f \u6807\u7b7e \u8fc7\u6ee4 Git\u7248\u672c\u5de5\u4f5c\u6d41
+http:\/\/blog.csdn.net\/qq_26525215\/article\/details\/52270646
+\u80cc\u5305\u95ee\u9898\u2014\u2014\u201c01\u80cc\u5305\u201d\u53ca\u201c\u5b8c\u5168\u80cc\u5305\u201d\u88c5\u6ee1\u80cc\u5305\u7684\u65b9\u6848\u603b\u6570\u5206\u6790\u53ca\u5b9e\u73b0 - wumuzi520\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/wumuzi520\/article\/details\/7021210
+\u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u5f00\u53d1\u73af\u5883\u642d\u5efa
+http:\/\/blog.csdn.net\/xiehuimx\/article\/details\/52629657
+35 \u4e2a\u6709\u5173 Python \u7684\u5c0f\u6280\u5de7
+http:\/\/blog.csdn.net\/quasimodo_es\/article\/details\/52614593
+POJ3286 How many 0\u0027s? - \u6d77\u5c9bBlog - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/tigerisland45\/article\/details\/52259396
+Web\u7a0b\u5e8f\u5458\u5fc5\u987b\u77e5\u9053\u7684 Console \u5bf9\u8c61\u91cc\u7684\u4e5d\u4e2a\u65b9\u6cd5
+http:\/\/geek.csdn.net\/news\/detail\/102728
+Python\u5b66\u4e60\u57fa\u7840\u77e5\u8bc6\u6982\u8981
+http:\/\/geek.csdn.net\/news\/detail\/102727
+\u521d\u7b49\u6570\u8bba_6 2016.4.15 - \u8ffd\u98ce\u8e51\u5f71 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/only_air\/article\/details\/51160558
+\u7ebf\u6bb5\u6811 2016.4.15 - \u8ffd\u98ce\u8e51\u5f71 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/only_air\/article\/details\/51147079
+\u8ba1\u7b97\u51e0\u4f55\u57fa\u7840_1 2016.5.25 - \u8ffd\u98ce\u8e51\u5f71 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/only_air\/article\/details\/51444040
+\u57fa\u4e8e\u771f\u5b9e\u7269\u7406\u6e32\u67d3\u7684\u5149\u7ebf\u8ffd\u8e2a\u5668\u4ee3\u7801\u5b9e\u73b0
+http:\/\/geek.csdn.net\/news\/detail\/102165
+
+http:\/\/blog.csdn.net\/Yin_zihao\/article\/details\/50782110
+
+
+2048\u5c0f\u6e38\u620f
+http:\/\/blog.csdn.net\/think_ycx\/article\/details\/41325227
+2048\u5c0f\u6e38\u620f\u2014\u2014\u7f51\u9875\u7248\uff08\u57fa\u7840\u7bc7\uff09
+http:\/\/blog.csdn.net\/fifteen718\/article\/details\/50819832
+\u8da3\u5473\u4e09\u89d2\u5f62 - \u82b1\u5fc3\u9f9f cabin - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/zhanxinhang\/article\/details\/6586920
+\u7a7a\u95f2\u65f6\u95f4\u7528C\u8bed\u8a00\u5199\u4e86\u4e0b2048\u6e38\u620f - \u51cc\u98ce - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/iaccepted\/article\/details\/38300107
+\u5173\u4e8eJava\u768410\u4e2a\u8c0e\u8a00
+http:\/\/geek.csdn.net\/news\/detail\/101599
+2048\u5c0f\u6e38\u620f\uff08Java\uff09\u6e90\u7801\u89e3\u6790\u53ca\u6e90\u4ee3\u7801\u6253\u5305 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/KevinWu93\/article\/details\/45830795
+
+http:\/\/blog.csdn.net\/booirror\/article\/details\/45490523
+
+
+\u4e0b\u8f7d\u91cf\u5df2\u8d85\u8d8a\u5343\u4e07\u7684\u7206\u7ea2\u6e38\u620f2048\uff08\u540c\u540d\u5c0f3\u4f20\u5947\u30011024\uff09\u6e90\u4ee3\u7801\u89e3\u5bc6\u548c\u4e0b\u8f7d\uff08\u7b2c\u4e00\u7bc7\uff09 - TouchSnow\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/touchsnow\/article\/details\/22985527
+c++\u57fa\u7840\u5feb\u901f\u5165\u95e8--[\u590d\u5408\u7c7b\u578b]
+http:\/\/geek.csdn.net\/news\/detail\/100378
+\u6700\u5927\u6d41\u95ee\u9898
+http:\/\/blog.csdn.net\/u010321471\/article\/details\/52451388
+\u6559\u4f60\u5206\u5206\u949f\u5b66\u4f1a\u7528python\u722c\u866b\u6846\u67b6Scrapy\u722c\u53d6\u5fc3\u76ee\u4e2d\u7684\u5973\u795e
+http:\/\/geek.csdn.net\/news\/detail\/99963
+ACM\u7b97\u6cd5\u6a21\u677f - \u4e00\u4e03\u5f97\u4e03 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/migu77777\/article\/details\/52060261
+JAVA\u91cd\u8981\u77e5\u8bc6\u70b9 - \u9020\u68a6\u5148\u68eeKai\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_15437629\/article\/details\/49914691
+Python\u5b66\u4e60\u7b14\u8bb0 - \u9020\u68a6\u5148\u68eeKai\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_15437629\/article\/details\/52437490
+Dijkstra\u7b97\u6cd5+\u5806\u4f18\u5316\uff08\u6a21\u677f\uff09 - algzjh\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/algzjh\/article\/details\/52279780
+hdu 2544 dijkstra\u7b97\u6cd5 - zn505119020\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/zn505119020\/article\/details\/45913415
+HDU1874 \u7545\u901a\u5de5\u7a0b\u7eed \u3010\u94fe\u5f0f\u524d\u5411\u661f\u3011+\u3010Dijkstra\u3011 - \u957f\u6728\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/chang_mu\/article\/details\/38172311
+\u8d2a\u5fc3+\u6570\u5b66\u2014\u20142016 \uff08\u6e56\u5357\u7701\u7b2c\u5341\u4e8c\u5c4a\u5927\u5b66\u751f\u8ba1\u7b97\u673a\u7a0b\u5e8f\u8bbe\u8ba1\u7ade\u8d5b A\uff09
+http:\/\/blog.csdn.net\/FeBr2\/article\/details\/52425743
+\u7b2c\u5341\u4e8c\u5c4a\u6e56\u5357\u7701\u8d5b--\u4e09\u89d2\u5f62\u548c\u77e9\u5f62
+http:\/\/blog.csdn.net\/xtulollipop\/article\/details\/52383438
+POJ3286 How many 0\u0027s?
+http:\/\/blog.csdn.net\/tigerisland45\/article\/details\/52259396
+\u5927\u6570\u56db\u5219\u8fd0\u7b97 - \u9010\u68a6\u8005 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/f_zyj\/article\/details\/51996429
+ACM\u5728\u7ebf\u6a21\u7248\uff0df-zyj - \u9010\u68a6\u8005 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/f_zyj\/article\/details\/51594851
+web\u524d\u7aef | \u5982\u4f55\u9009\u62e9\u64b8\u7801\u795e\u5668 - \u5c0f\u5317\u54e5\u54e5 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/xllily_11\/article\/details\/52368272
+POJ-1012 Joseph-\u7ea6\u745f\u592b\u95ee\u9898\u597d\u4eba\u574f\u4eba
+http:\/\/blog.csdn.net\/MIKASA3\/article\/details\/47979467
+\u7b2c12\u5468-\u663e\u793a\u4e00\u4e2a\u68cb\u76d8
+http:\/\/blog.csdn.net\/MIKASA3\/article\/details\/49892675
+Fleury\u7b97\u6cd5-\u8f93\u51fa\u6b27\u62c9\u56de\u8def
+http:\/\/blog.csdn.net\/MIKASA3\/article\/details\/52205168
+\u4f7f\u7528\u817e\u8baf\u4e91\u5efa\u4e00\u4e2a\u57fa\u4e8e\u81ea\u5df1\u57df\u540d\u7684\u7f51\u7ad9
+http:\/\/blog.csdn.net\/MIKASA3\/article\/details\/52227407
+Baby-Step-Gaint-Step\u7b97\u6cd5\u8be6\u89e3
+http:\/\/blog.csdn.net\/MIKASA3\/article\/details\/52352946
+2-sat\u95ee\u9898
+http:\/\/blog.csdn.net\/MIKASA3\/article\/details\/52396640
+\u719f\u6089Python\u7684\u5404\u79cd\u57fa\u7840\u5c0f\u7b97\u6cd5 - \u66f4\u4e0a\u4e00\u5c42\u697c\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/marksinoberg\/article\/details\/52404340
+hdu 1811 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/xymscau\/article\/details\/7185828
+C\/C++\u4e2d\u3010\u63d0\u9ad8\u7a0b\u5e8f\u6548\u7387\u76849\u4e2a\u7b80\u5355\u65b9\u6cd5\u3011\u53ca\u301020\u4e2a\u91cd\u70b9\u7b14\u8bb0\u3011 - gogoky\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/gogokongyin\/article\/details\/52388523
+UVA 11426 GCD - Extreme (II)\uff08\u6b27\u62c9\u51fd\u6570\uff09 - huatian\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/huatian5\/article\/details\/52389406
+\u4e3a\u4ec0\u4e48 ++[[]][+[]]+[+[]] = 10 \uff1f
+http:\/\/geek.csdn.net\/news\/detail\/98442
+\u5206\u4eab\u4e00\u4e2a\u94fe\u63a5
+http:\/\/blog.csdn.net\/u010296826\/article\/details\/43712861
+\u72b6\u6001\u538b\u7f29DP\u603b\u7ed3\uff08\u8c28\u8bb0\u5927\u725b\u603b\u7ed3\uff09
+http:\/\/blog.csdn.net\/u010296826\/article\/details\/38145347
+\u8bb0\u7b2c\u4e00\u6b21\u53c2\u52a0\u7701\u8d5b\u7ecf\u5386
+http:\/\/blog.csdn.net\/qq_34977554\/article\/details\/52386267
+\u7ed3\u8d26--\u673a\u623f\u6536\u8d39\u7cfb\u7edf - \u90dd\u96e8\u70c1 \u5eca\u574a\u5e08\u8303\u5b66\u9662\u4fe1\u606f\u6280\u672f\u63d0\u9ad8\u73ed \u5341\u4e09\u671f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/ningmengbaby\/article\/details\/52299304
+\u5b66\u751f\u4fe1\u606f\u7ba1\u7406\u7cfb\u7edf\u2014\u2014\u6570\u636e\u5e93\u5f15\u64ce\u7684\u8fde\u63a5\uff08SQL Server\u9a8c\u8bc1\uff09 - \u8f66\u9f99\u6881 \u5eca\u574a\u5e08\u8303\u5b66\u9662\u4fe1\u606f\u6280\u672f\u63d0\u9ad8\u73ed \u5341\u4e09\u671f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/l_mloveforever\/article\/details\/52144416
+2016\u4e2d\u5357\u5730\u533a\u9080\u8bf7\u8d5b C Hamiltonian Path\uff08\u8fd9\u9898\u2026\u2026\uff09 - is_angon - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/angon823\/article\/details\/51686076
+\u6e58\u6f6d\u5927\u5b66OJ A.2016\uff08\u5927\u6570\u53d6\u6a21\/\u77e9\u9635\u5feb\u901f\u5e42\uff09 - Pig_Me\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_32473657\/article\/details\/51648789
+java\u8eab\u4efd\u8bc1\u5408\u6cd5\u6027\u6821\u9a8c\u5e76\u83b7\u53d6\u5e76\u6839\u636e\u8eab\u4efd\u8bc1\u53f7\u63d0\u53d6\u8eab\u4efd\u8bc1\u76f8\u5173\u4fe1\u606f - ycb1689\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/ycb1689\/article\/details\/52352147
+\u53c9\u59d0\u4e13\u573a\u5c0f\u8bb0 (scu 4290-4299) - \u6625\u5929\u5c0f\u732a - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq564690377\/article\/details\/9398721
+\u53c9\u59d0\u7684\u9b54\u6cd5\u8bad\u7ec3\uff08\u7b2c\u4e09\u8bfe\uff09---- \u706b\u7403\u672f\u5165\u95e8 - Azarath Metrion Zinthos - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/cyendra\/article\/details\/12253875
+\u3010\u4e13\u9898\u3011\u7ebf\u6bb5\u6811 - Azarath Metrion Zinthos - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/cyendra\/article\/details\/8917506
+ACM\u5e38\u7528\u6570\u636e\u7ed3\u6784\u5c0f\u7ed3\u4e0e\u5b9e\u73b0 - the CodeRoom of wjfwzzc - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/wjf_wzzc\/article\/details\/39672563
+\u3010\u5927\u6570\u9664\u6cd5\u6a21\u677f\u3011\u5224\u65ad\u80fd\u5426\u6574\u9664+\u6c42\u6574\u9664\u540e\u7684\u5546 - \u6bcf\u4e00\u70b9\u79ef\u7d2f\u90fd\u662f\u8fdb\u6b65 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/cacyth\/article\/details\/51816167
+\u6211\u8981\u5f00\u59cb\u5b66\u4e60\u722c\u866b\u5566 - \u6f2b\u957f\u5b66\u4e60\u8def - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liaodehong\/article\/details\/52288666
+Python \u81ea\u52a8\u5237\u535a\u5ba2\u6d4f\u89c8\u91cf - \u66f4\u4e0a\u4e00\u5c42\u697c\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/marksinoberg\/article\/details\/51510052
+\u8bb0\u5f55\u7b2c\u4e00\u6b21\u7eaf\u624b\u6253\u722c\u866b\u7ecf\u5386 - \u66f4\u4e0a\u4e00\u5c42\u697c\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/marksinoberg\/article\/details\/51379507
+Python Tkinter\u5c0f\u8bd5 - \u66f4\u4e0a\u4e00\u5c42\u697c\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/marksinoberg\/article\/details\/52332363
+\u6700\u77ed\u8def\u7b97\u6cd5 \u5806\u4f18\u5316 dijkstra+heap - \u67ab\u53f6\u56de\u5fc6 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/ddovetlose\/article\/details\/17136965
+\u798f\u5229\u8d34\u2014\u2014\u722c\u53d6\u7f8e\u5973\u56fe\u7247\u7684Java\u722c\u866b\u5c0f\u7a0b\u5e8f\u4ee3\u7801 - hotace_c\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_23303521\/article\/details\/52344122
+Python\u8bed\u8a00\u5341\u5206\u949f\u5feb\u901f\u5165\u95e8
+http:\/\/geek.csdn.net\/news\/detail\/97669
+\u5982\u4f55\u7528 C \u8bed\u8a00\u753b\u4e00\u4e2a\u201c\u5723\u8bde\u6811\u201d\uff1f
+http:\/\/geek.csdn.net\/news\/detail\/97595
+CSS\u9634\u5f71\u6548\u679c(Box-shadow)\u7528\u6cd5\u8da3\u5473\u8bb2\u89e3
+http:\/\/geek.csdn.net\/news\/detail\/97598
+\u6570\u767e\u4e2a HTML5 \u4f8b\u5b50\u5b66\u4e60 HT \u56fe\u5f62\u7ec4\u4ef6 \u2013 WebGL 3D \u7bc7 - HT for Web 3D - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/xhload3d\/article\/details\/52323746
+Python\u9ed1\u5e3d\u7f16\u7a0b2.1 Python\u7f16\u7a0b\u54f2\u5b66
+http:\/\/geek.csdn.net\/news\/detail\/97557
+\u5e26\u4f60\u6df1\u5165\u7406\u89e3STL\u4e4bDeque\u5bb9\u5668
+http:\/\/geek.csdn.net\/news\/detail\/97420
+\u5e26\u4f60\u6df1\u5165\u7406\u89e3STL\u4e4bStack\u548cQueue
+http:\/\/geek.csdn.net\/news\/detail\/97546
+\u52a8\u56fe\u5c55\u793a16\u4e2aSublime Text\u5feb\u6377\u952e\u7528\u6cd5
+http:\/\/geek.csdn.net\/news\/detail\/97476
+\u5199\u4e00\u4e2a\u6f02\u4eae\u7684\u6ce8\u518c\u9875\u9762 - a_lonely_dancer\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/a_lonely_dancer\/article\/details\/52268128
+CSS\u548cHTML\u7684\u56db\u79cd\u7ed3\u5408\u65b9\u5f0f - a_lonely_dancer\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/a_lonely_dancer\/article\/details\/52295645
+CSU 1333: Funny Car Racing\uff08SPFA\uff0913\u5e74\u7701\u8d5b\u9898
+http:\/\/blog.csdn.net\/u010372095\/article\/details\/47983461
+python\u5b9e\u73b0\u81ea\u52a8\u76d1\u63a7\u7f51\u7ad9\u5e76\u53d1\u9001\u90ae\u4ef6\u544a\u8b66
+http:\/\/geek.csdn.net\/news\/detail\/97257
+\u7b97\u6cd5\u4e4b\u8def\u2014\u2014\u9012\u5f52 - \u70df\u82b1\u6563\u5c3d\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u013132051\/article\/details\/52290688
+HDU 1425 sort \u9898\u89e3
+http:\/\/blog.csdn.net\/Leon_liuqinburen\/article\/details\/51485058
+\u8fde\u7eed\u6700\u5927\u5b50\u4e32\u548c\uff0c\u8fde\u7eed\u6700\u5c0f\u5b50\u4e32\u548c
+http:\/\/blog.csdn.net\/Leon_liuqinburen\/article\/details\/51438752
+\u7b2c\u5341\u4e00\u5c4a\u6e56\u5357\u7701\u7701\u8d5b - Internet of Lights and Switches(\u4e8c\u5206 + \u4f4d\u8fd0\u7b97)
+http:\/\/blog.csdn.net\/qq_18661257\/article\/details\/48176263
+\u7b2c\u5341\u4e00\u5c4a\u6e56\u5357\u7701\u7701\u8d5b - \u7b80\u5355\u7684\u56fe\u8bba\u95ee\u9898\uff1f(BFS)
+http:\/\/blog.csdn.net\/qq_18661257\/article\/details\/48159981
+2015 \u6e56\u5357\u7701\u8d5b\u8ba1\u7b97\u51e0\u4f55--\u591a\u8fb9\u5f62\u7684\u516c\u5171\u90e8\u5206
+http:\/\/blog.csdn.net\/u012358934\/article\/details\/48161105
+python \u722c\u7f51\u7ad9 - wcc526\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/wcc526\/article\/details\/17193493
+(\u6570\u4f4dDP 1.2)hdu 3555 Bomb(\u7edf\u8ba11~n\u4e2d\uff0c\u5305\u542b49\u7684\u6570\u7684\u4e2a\u6570) - \u9ec4\u4fca\u4e1c\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/hjd_love_zzt\/article\/details\/45031343
+\u3010java\u9879\u76ee\u5b9e\u6218\u3011\u4e00\u6b65\u6b65\u6559\u4f60\u4f7f\u7528MyEclipse\u642d\u5efajava Web\u9879\u76ee\u5f00\u53d1\u73af\u5883\uff08\u4e00\uff09 - \u52aa\u529b+\u575a\u6301\uff0c\u800c\u4e14\u8fd8\u5f88\u5e74\u8f7b - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/jiuqiyuliang\/article\/details\/36875217
+Python\u5b9e\u73b0\u6293\u53d6CSDN\u70ed\u95e8\u6587\u7ae0\u5217\u8868 - \u9e7f\u4f1f\u4f1f\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/lu_wei_wei\/article\/details\/52291624
+HDU 5349 MZL\u0027s simple problem - queuelovestack\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/queuelovestack\/article\/details\/47277819
+HDU 5317 RGCDQ\uff08\u7d20\u6570\u4e2a\u6570 \u591a\u68212015\u554a\uff09 - tianyiming - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u012860063\/article\/details\/47123587
+toj 4604 \u641e\u7b11\u7248\u8d39\u9a6c\u5927\u5b9a\u7406 - Switch\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/q547550831\/article\/details\/52262626
+
+http:\/\/blog.csdn.net\/wdong_love_cl\/article\/details\/52063619
+
+
+\u62d3\u6251\u6392\u5e8f - \u5927\u795e\u517b\u6210\u4e2d..... - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/9376885
+\u62d3\u6251\u6392\u5e8f - \u5927\u795e\u517b\u6210\u4e2d..... - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/9376885
+\u7f51\u7edc\u6d41\u4e4b\u6700\u5927\u6d41\u7b97\u6cd5\uff08EdmondsKarp\uff09 - \u5927\u795e\u517b\u6210\u4e2d..... - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/21026445
+\u7f51\u7edc\u6d41\u4e4b\u6700\u5927\u6d41\u7b97\u6cd5\uff08EdmondsKarp\uff09 - \u5927\u795e\u517b\u6210\u4e2d..... - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/21026445
+Arithmetic problem | \u6d77\u62d4\u56fe\u6700\u591a\u80fd\u63a5\u4f4f\u591a\u5c11\uff08\u9762\u79ef\uff09\u96e8\u6c34 - sweeterer\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/sweeterer\/article\/details\/51939433
+\u81ea\u5df1\u5199\u7684\u4e00\u70b9\u798f\u5229\u4ee3\u7801(\u4e00) - vpoet - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u013018721\/article\/details\/46674335
+I00032 \u7ea6\u745f\u592b\u73af(Joseph problem) - \u6d77\u5c9bBlog - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/tigerisland45\/article\/details\/52180900
+FOJ\u6709\u5956\u6708\u8d5b-2016\u5e748\u6708 Problem A Daxia \u0026 Wzc\u0027s problem\uff08\u627e\u89c4\u5f8b\uff09 - ITAK - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qingshui23\/article\/details\/52234637
+2016\u5e74\u591a\u6821\u7ed3\u675f\u7559\u5ff5\u603b\u7ed3 - ITAK - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qingshui23\/article\/details\/52249584
+Python \u9ad8\u4eae\u8bbe\u7f6e\uff08\u8f6c\uff09
+http:\/\/blog.csdn.net\/u013077144\/article\/details\/51212133
+POJ 1543 \u5b8c\u7f8e\u7acb\u65b9\u2014\u2014\u57fa\u7840\u679a\u4e3e - Ac Dream - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/smile_7x\/article\/details\/8525112
+\u5e76\u67e5\u96c6\u5b66\u4e60\u7b14\u8bb0 - Ac Dream - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/smile_7x\/article\/details\/8786220
+\u94fe\u5f0f\u524d\u5411\u661f\u53ca\u5176\u7b80\u5355\u5e94\u7528 - Ac Dream - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/smile_7x\/article\/details\/8772854
+csu1116 Kingdoms \u6700\u5c0f\u751f\u6210\u6811-\u679a\u4e3e\u72b6\u6001 - \u65e7\u65f6\u5149 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/axuan_k\/article\/details\/47380177
+csu 1106 \u6700\u4f18\u5bf9\u79f0\u8def\u5f84 \u6700\u77ed\u8def+\u8bb0\u5fc6\u5316\u641c\u7d22. - \u65e7\u65f6\u5149 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/axuan_k\/article\/details\/47950241
+CSU 1105 - T_T - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liusuangeng\/article\/details\/44245543
+\u767d\u8bdd\u7ecf\u5178\u7b97\u6cd5\u7cfb\u5217\u4e4b\u4e03 \u5806\u4e0e\u5806\u6392\u5e8f - MoreWindows Blog - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/morewindows\/article\/details\/6709644
+\u8bbe\u7f6e\u7f51\u9875\u5730\u5740\u680f\u4e2d\u7684\u5c0f\u56fe\u6807 - \u5728\u601d\u7d22\u4e2d\u524d\u884c\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/txl199106\/article\/details\/39779117
+\uff08\u534e\u4e2d\u79d1\u5927\uff09\u6c5f\u5357\u96e8\u70df C++ STL \u4e13\u680f - \u5728\u601d\u7d22\u4e2d\u524d\u884c\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/txl199106\/article\/details\/44758491
+\u3010\u5e76\u67e5\u96c6\u3011\u5224\u65ad\u662f\u5426\u4e3a\u6811 - \u5728\u601d\u7d22\u4e2d\u524d\u884c\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/txl199106\/article\/details\/44981305
+[Python]\u7f51\u7edc\u722c\u866b( \u8fde\u8f7d\uff1a\u5927\u725b\u6c6a\u6d77 ) - \u5728\u601d\u7d22\u4e2d\u524d\u884c\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/txl199106\/article\/details\/45059497
+MoreWindows \u5fae\u8f6f\u8ba4\u8bc1\u4e13\u5bb6\u535a\u5ba2\u76ee\u5f55(\u767d\u8bdd\u7b97\u6cd5\uff0cC++ STL\uff0cwindows\u7f16\u7a0b) - \u5728\u601d\u7d22\u4e2d\u524d\u884c\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/txl199106\/article\/details\/44758353
+\u4e0a\u6d77\u4ea4\u5927ACM\u603b\u6559\u5934\u4fde\u52c7\u8bb2\u8ff0\u201c\u6700\u806a\u660e\u4eba\u7684\u6545\u4e8b\u201d - \u5728\u601d\u7d22\u4e2d\u524d\u884c\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/txl199106\/article\/details\/50217839
+\u5404\u4e2aOJ\u7f51\u7edc\u6d41 \u9898\u96c6\u5206\u5e03 - lyc - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/luyuncheng\/article\/details\/7943762
+\u7f51\u7edc\u6d4124\u9898\u89e3\u9898\u62a5\u544a\u5c0f\u7ed3 - \u5728\u601d\u7d22\u4e2d\u524d\u884c\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/txl199106\/article\/details\/45788275
+Java\u5b9e\u73b0\u7b80\u5355\u4e8c\u7ef4\u7801\u5236\u4f5c - \u8fde\u5b8f\u4f1f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/erlian1992\/article\/details\/52089896
+\u81ea\u5df1\u5199\u7684\u4e00\u70b9\u798f\u5229\u4ee3\u7801(\u4e00) - vpoet - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u013018721\/article\/details\/46674335
+POJ1679 \u6b21\u5c0f\u751f\u6210\u6811 - Aszxqw - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/wuyanyi\/article\/details\/6709471
+CodeBlocks\u5b89\u88c5\u65b9\u6cd5(Nightly Build\u7248) \u548c\u51e0\u6b3e\u9ad8\u4eae\u76ae\u80a4 - \u77e5\u8db3 acvay - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/acvay\/article\/details\/41623097
+C#\u5229\u7528POST\u5b9e\u73b0\u676d\u7535oj\u7684AC\u81ea\u52a8\u673a\u5668\u4eba\uff0cAC\u7387\u9ad8\u8fbe50%~~ - qwb\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qwb492859377\/article\/details\/47448599
+\u5927\u6570\u6a21\u677f(\u52a0\u51cf\u4e58\u9664\u53d6\u6a21\u5f00\u65b9) - AcmHonor\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/acmhonor\/article\/details\/46894619
+nameofcsdn\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/nameofcsdn?viewmode=contents
+java\u722c\u866b\u6316\u53d6csdn\u535a\u5ba2\u6587\u7ae0 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/zhang5476499\/article\/details\/52205150
+JAVA\u5927\u6570\u5904\u7406(BigInteger,BigDecimal) - hqd_acm\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/hqd_acm\/article\/details\/5751686
+python\u722c\u866b\u8bbe\u8ba1\u5237\u535a\u5ba2\u8bbf\u95ee\u91cf\uff08\u5237\u8bbf\u95ee\u91cf\uff0c\u8d5e\uff0c\u722c\u53d6\u56fe\u7247\uff09 - \u7f51\u7edc\u4ebaVS\u7070\u9e3d\u5b50 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_21792169\/article\/details\/51628142
+atoi itoa \u9ad8\u6548\u5b9e\u73b0 - YueLing\u0027s Blog - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/cfarmerreally\/article\/details\/52135655
+poj1503 \u5927\u6574\u6570\u52a0\u6cd5 - Jack_user\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/jack_user\/article\/details\/52131885
+\u3010\u4e00\u6b65\u4e00\u6b65\u5b66\u4e60VBA\u3011WPS \u4f7f\u7528 VBA - \u81ea\u4fe1\u7684\u5c18\u57c3----love\u6c5f\u4e3d\u5a1c - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/chenqiai0\/article\/details\/52090166
+\u81ea\u5df1\u5199\u7684\u4e00\u70b9\u798f\u5229\u4ee3\u7801(\u4e09)
+http:\/\/blog.csdn.net\/u013018721\/article\/details\/46674399
+POJ 3669 BFS - \u7528\u5fc3\u4e00\u4e5f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u012935901\/article\/details\/21463173
+python\u6587\u4ef6\u64cd\u4f5c - \u7801\u519c\u8001\u6bd5\u7684\u5b66\u4e60\u7b14\u8bb0 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/wirelessqa\/article\/details\/7974531
+python: \u77e5\u4e4e\u5927\u89c4\u6a21\uff0834k\uff09\u7528\u6237\u722c\u866b - NK_test\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/NK_test\/article\/details\/51330971
+python\u722c\u53d6\u67d0\u4e2a\u7f51\u9875\u7684\u56fe\u7247-\u5982\u767e\u5ea6\u8d34\u5427 - vpoet - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u013018721\/article\/details\/46609827
+Python\u5feb\u901f\u5b66\u4e60\u7b2c\u4e00\u5929 - TG_ZSY_\u591c\u534a\u542c\u58f0 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/tanggao1314\/article\/details\/52189143
+\u6700\u77ed\u8def\u5f84\u7b97\u6cd5\u6574\u7406 - \u8d30\u5723 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/wangjian8006\/article\/details\/7895089
+\u7f51\u7edc\u6d41\u7b97\u6cd5\u6574\u7406 - \u8d30\u5723 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/wangjian8006\/article\/details\/7939599
+poj\u56fe\u8bba\u89e3\u9898\u62a5\u544a\u7d22\u5f15 - \u8d30\u5723 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/wangjian8006\/article\/details\/7989020
+- \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/niuox?viewmode=contents
+\u6570\u4f4dDP\u95ee\u9898\u6574\u7406\uff08\u4e00\uff09 - - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/niuox\/article\/details\/9864199
+C++\u6784\u9020\u51fd\u6570\u6df1\u5ea6\u63a2\u7a76
+http:\/\/geek.csdn.net\/news\/detail\/94810
+HTML5\u5b9e\u73b0\u706b\u7130\u6548\u679c
+http:\/\/geek.csdn.net\/news\/detail\/94834
+\u5c0f\u574f\u86cb_\u5343\u5343 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_28954601?viewmode=contents
+C#\u5229\u7528POST\u5b9e\u73b0\u676d\u7535oj\u7684AC\u81ea\u52a8\u673a\u5668\u4eba\uff0cAC\u7387\u9ad8\u8fbe50%~~ - qwb\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qwb492859377\/article\/details\/47448599
+HDU \u81ea\u52a8\u5237\u9898\u673a Auto AC \uff08\u8f7b\u8f7b\u677e\u677e\u8fdb\u5165HDU\u9996\u9875\uff09 - \u5c0f\u574f\u86cb_\u5343\u5343 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_28954601\/article\/details\/51242562
+\u7ee7\u7eedNode\u722c\u866b \u2014 \u767e\u884c\u4ee3\u7801\u81ea\u5236\u81ea\u52a8AC\u673a\u5668\u4eba\u65e5\u89e3\u5343\u9898\u653b\u5360HDOJ - \u5c0f\u574f\u86cb_\u5343\u5343 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_28954601\/article\/details\/51232558
+HDU 3549\uff08\u7f51\u7edc\u6d41\u5165\u95e8\u4e4b\u6700\u5927\u6d41\uff09 - \u9065\u8fdc\u7684\u5979 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/sky_miange\/article\/details\/47212261
+HDU 3137 No Left Turns\uff08BFS\uff09 - tianyiming - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u012860063\/article\/details\/40833649
+
+http:\/\/blog.csdn.net\/hk2291976\/article\/details\/51227354
+
+
+\u4e00\u6b21\u975e\u5e38\u6709\u610f\u601d\u7684 SQL \u4f18\u5316\u7ecf\u5386
+http:\/\/geek.csdn.net\/news\/detail\/94627
+\u624b\u628a\u624b\u6559\u4f60\u7528C++ \u5199ACM\u81ea\u52a8\u5237\u9898\u795e\u5668\uff08\u51b2\u5165HDU\u9996\u9875\uff09 - NK_test\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/nk_test\/article\/details\/49497017
+poj1797\u2014\u2014Heavy Transportation\uff08\u6700\u5927\u751f\u6210\u6811\uff09 - Beyond the Sora - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/blue_skyrim\/article\/details\/52165237
+\u5355\u94fe\u8868\u53cd\u8f6c - liwei\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u011466175\/article\/details\/48058923
+poj3723 MST\u597d\u9898 kruskal - amourjun\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/amourjun\/article\/details\/19998895
+\u83b7\u53d6\u6570\u7ec4\u7684n\u4e2a\u6570\u7684\u7ec4\u5408 - mylovepanning\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/mylovepanning\/article\/details\/46232753
+POJ 3286 How many 0\u0027s? - \u8111\u6b8b\u7684\u5b69\u5b50\u53ea\u6709\u6162\u6162\u5b66\u3002\u3002 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/lin375691011\/article\/details\/38637375
+java\u7248\u7f51\u7edc\u722c\u866b\u89c6\u9891\u6559\u7a0b\u5206\u4eab
+http:\/\/geek.csdn.net\/news\/detail\/94171
+\u626b\u96f7\uff08java\u7248\uff09 - \u82cf\u82cf\u7231\u81ea\u7531 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/su20145104009\/article\/details\/52152514
+JAVA\u4e2d\u5927\u6570\u5e38\u7528\u7684\u51fd\u6570 - \u5927\u795e\u517b\u6210\u4e2d..... - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/y990041769\/article\/details\/41074777
+
+
+POJ-1679-The Unique MST - \u83dc\u9e1f\u7684\u7a0b\u5e8f\u4eba\u751f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+
+\u6269\u5c55\u6b27\u51e0\u91cc\u5f97\u0026\u0026\u4e2d\u56fd\u5269\u4f59\u5b9a\u7406 \u89e3\u7ebf\u6027\u540c\u4f59\u65b9\u7a0b\u7ec4 \u4e13\u9898 - Shirley - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qiqijianglu\/article\/details\/8039245
+\u77e9\u9635\u94fe\u4e58+\u6590\u6ce2\u90a3\u5951+\u5feb\u901f\u5e42 \u4e13\u9898 - Shirley - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qiqijianglu\/article\/details\/8040132
+\u626b\u96f7\uff08java\u7248\uff09 - \u82cf\u82cf\u7231\u81ea\u7531 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/su20145104009\/article\/details\/52152514
+POJ 4046 Sightseeing \u6700\u77ed\u8def - \u6c34 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/sdj222555\/article\/details\/7861782
+POJ 3463 \u6700\u77ed\u8def \u6b21\u77ed\u8def - \u6c34 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/sdj222555\/article\/details\/7690694
+POJ1426-Find The Multiple - \u03b6\u0451\u0421\u044f\u00ea\u03c4 - \u5c0f\u512aYoU - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/lyy289065406\/article\/details\/6647917
+hdu5478 Can you find it - \u968f\u5fc3\u4e36\u800c\u9047\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/d_x_d\/article\/details\/49029637
+Java\u7a0b\u5e8f\u5458\u4ece\u7b28\u9e1f\u5230\u83dc\u9e1f\u5168\u90e8\u535a\u5ba2\u76ee\u5f55
+http:\/\/blog.csdn.net\/csh624366188\/article\/details\/7278508
+Eclipse\u7684\u4f7f\u7528\u79d8\u7c4d\uff0cMyEclipse\u4e00\u6837\u7ba1\u7528
+http:\/\/blog.csdn.net\/csh624366188\/article\/details\/6737211
+HDU5478 Can you find it - Yedl\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/doris1104\/article\/details\/48754651
+HDU 5478 Can you find it(\u5feb\u901f\u5e42)\u2014\u20142015 ACM\/ICPC Asia Regional Shanghai Online - queuelovestack\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/queuelovestack\/article\/details\/48754331
+\u8fd9\u4e00\u4e2a\u6708\u7684\u65e5\u5386\u5230\u5e95\u662f\u4ec0\u4eeb\u6837\u5b50\u7684\u5462\uff1f - Cassie\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_34328833\/article\/details\/52141106
+\u3010HDU5750 BestCoder Round 84D\u3011\u3010\u6570\u5b66 \u8d2a\u5fc3 \u590d\u6742\u5ea6\u8ba1\u7b97\u3011Dertouzos \u8303\u56f4\u6709\u591a\u5c11\u6570\u7684\u6700\u5927\u771f\u7ea6\u6570\u4e3ad
+http:\/\/blog.csdn.net\/snowy_smile\/article\/details\/52020739
+POJ-1700 \u8fc7\u6cb3\u95ee\u9898\u3010\u8d2a\u5fc3\u3011
+http:\/\/blog.csdn.net\/niushuai666\/article\/details\/6398224
+POJ-3032 Card Trick\u3010\u6a21\u62df\u3011
+http:\/\/blog.csdn.net\/niushuai666\/article\/details\/7454249
+POJ 1375 Intervals\uff08\u89e3\u6790\u51e0\u4f55\uff09
+http:\/\/blog.csdn.net\/ACM_cxlove\/article\/details\/7896110
+HDU 4466 Triangle(12\u5e74\u6210\u90fd)
+http:\/\/blog.csdn.net\/ACM_cxlove\/article\/details\/8220158
+\u6b21\u5c0f\u751f\u6210\u6811
+http:\/\/blog.csdn.net\/ACdreamers\/article\/details\/8579236
+\u81ea\u7136\u6570\u5e42\u548c - ITAK - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qingshui23\/article\/details\/52135079
+\u6b21\u5c0f\u751f\u6210\u6811 \u3010\u603b\u7ed3\u3011 - \u7b11\u7740\u8d70\u5b8c\u81ea\u5df1\u7684\u8def - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/chenzhenyu123456\/article\/details\/47401995
+hdu1598 find the most comfortable road \u5e76\u67e5\u96c6+\u8d2a\u5fc3 - 671coder\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liuqiyao_01\/article\/details\/8867249
+\u5c0f\u89e3C\u8bed\u8a00\u667a\u529b\u95ee\u9898 - Cassie\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_34328833\/article\/details\/52115760
+\u5c0f\u77e5\u8bc6\u79ef\u7d2f - \u82cf\u82cf\u7231\u81ea\u7531 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/su20145104009\/article\/details\/49205203
+\u6211\u7684java\u4e4b\u8def
+http:\/\/blog.csdn.net\/column\/details\/javabysusu.html?page=1#52132582
+java\u8c03\u620f\u4eba\u5c0f\u6e38\u620f - \u82cf\u82cf\u7231\u81ea\u7531 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/su20145104009\/article\/details\/49255455
+java \u7b80\u5355\u8d2a\u5403\u86c7 - \u82cf\u82cf\u7231\u81ea\u7531 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/su20145104009\/article\/details\/52132582
+\u7cbe\u9009CSDN\u7684ACM-ICPC\u535a\u5ba2 - \u6d77\u5c9bBlog - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/tigerisland45\/article\/details\/52131418
+hdu1598 find the most comfortable road \u5e76\u67e5\u96c6+\u8d2a\u5fc3 - 671coder\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liuqiyao_01\/article\/details\/8867249
+C\/C++\u4e2dconst\u5173\u952e\u5b57 - xdrt81y\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/xdrt81y\/article\/details\/24333335
+pku 2769 - Reduced ID Numbers
+http:\/\/blog.csdn.net\/mobius_strip\/article\/details\/51270749
+\u3010\u5b66\u4e60\u603b\u7ed3\u3011\u56fe\u8bba\u7ecf\u5178-\u62d3\u6251\u6392\u5e8f
+http:\/\/blog.csdn.net\/u011328934\/article\/details\/9731089
+\u5c0f\u6570\u95ee\u9898
+http:\/\/blog.csdn.net\/ACdreamers\/article\/details\/7844596
+\u7b2c\u5341\u5c4a\u6e56\u5357\u7701\u8d5b\u7ec3\u4e60
+http:\/\/blog.csdn.net\/justljf\/article\/details\/51007852
+\u6309\u7167\u5b57\u5178\u5e8f\u751f\u62101--n\u7684\u6392\u5217 - liuzhushiqiang\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liuzhushiqiang\/article\/details\/8875126
+\u6574\u6570\u5212\u5206\u95ee\u9898 - liuzhushiqiang\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liuzhushiqiang\/article\/details\/9850741
+\u5c3d\u91cf\u7528\u003Ciostream\u003E\u800c\u4e0d\u7528\u003Cstdio.h\u003E - \u68a6\u60f3\u8d77\u822a\u7684\u5730\u65b9 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/mbxc816\/article\/details\/7214858
+hdu 5430 Reflect(\u6570\u8bba)
+http:\/\/blog.csdn.net\/u011328934\/article\/details\/49053189
+hdu 5567 sequence1\uff08\u6c34\uff09
+http:\/\/blog.csdn.net\/u011328934\/article\/details\/50166059
+hdu 5150 sum sum sum
+http:\/\/blog.csdn.net\/u011328934\/article\/details\/42371127
+18 \u884c JS \u4ee3\u7801\u7f16\u4e00\u4e2a\u5012\u65f6\u5668
+http:\/\/geek.csdn.net\/news\/detail\/92898
+POJ 3126 Prime Path \uff08BFS\uff09 - LYHVOYAGE\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/lyhvoyage\/article\/details\/18228531
+\u7ecf\u5178\u80cc\u5305\u95ee\u9898 01\u80cc\u5305+\u5b8c\u5168\u80cc\u5305+\u591a\u91cd\u80cc\u5305 - LYHVOYAGE\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/lyhvoyage\/article\/details\/8545852
+HDOJ 2544 \u6700\u77ed\u8def(\u6700\u77ed\u8def\u5f84 dijkstra\u7b97\u6cd5\uff0cSPFA\u90bb\u63a5\u8868\u5b9e\u73b0\uff0cfloyd\u7b97\u6cd5) - \u7eaf\u771fzwj\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/zwj1452267376\/article\/details\/47729727
+\u6700\u77ed\u8def\u6a21\u677f\uff08dijkstra+\u90bb\u63a5\u8868\uff09 - The Dream Of leozp - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u013712847\/article\/details\/38070425
+\u56fe\u7684\u5b58\u50a8\uff08\u94fe\u5f0f\u524d\u5411\u661f\uff09 - \u667a\u969c - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/yang_7_46\/article\/details\/7881004
+[HDU 2544] \u6700\u77ed\u8def \u00b7 \u5806\u4f18\u5316dijkstra - GreenLemonMint\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/ycdfhhc\/article\/details\/48448837
+11\u4e2a\u4f60\u53ef\u80fd\u4e0d\u77e5\u9053\u7684Python\u5e93
+http:\/\/geek.csdn.net\/news\/detail\/92459
+Python\u7684\u4ea4\u4e92\u5f0f\u754c\u9762\u7f16\u5199
+http:\/\/geek.csdn.net\/news\/detail\/92458
+\u6691\u5047\u8bad\u7ec3round 3 \u9898\u89e3
+http:\/\/blog.csdn.net\/a88770202\/article\/details\/52080807
+\u5973\u751f\u5e94\u8be5\u627e\u4e00\u4e2a\u73a9ACM\u7684\u7537\u751f - ZeroClock - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/woshi250hua\/article\/details\/7872081
+\u4e00\u4e9b\u56fe\u8bba\u3001\u7f51\u7edc\u6d41\u5165\u95e8\u9898\u603b\u7ed3\u3001\u6c47\u603b - \u5fd7\u5f53\u5b58\u9ad8\u8fdc - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/fp_hzq\/article\/details\/6736889
+\u8ba1\u7b97\u51e0\u4f55\u9898 - \u5fd7\u5f53\u5b58\u9ad8\u8fdc - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/fp_hzq\/article\/details\/7803140
+\u7f51\u7edc\u6d41\u9898\u76ee\u96c6\u9526 - \u5fd7\u5f53\u5b58\u9ad8\u8fdc - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/fp_hzq\/article\/details\/6736888
+HD OJ \u9898\u76ee\u5206\u7c7b - hellohelloC\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/hellohelloc\/article\/details\/47700243
+HDU 3723 Delta Wave\uff08\u9ed8\u6148\u91d1\u6570\uff09 - ITAK - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qingshui23\/article\/details\/52071836
+poj3126\u2014\u2014Prime Path\uff08BFS\uff09 - Beyond the Sora - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/blue_skyrim\/article\/details\/52071700
+C++\u4e2d\u968f\u673a\u51fd\u6570rand()\u548csrand()\u7684\u7528\u6cd5 - candyliuxj - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/candyliuxj\/article\/details\/4396666
+Qt\u4e4b\u6a21\u62df\u65f6\u949f - \u9752\u6625\u4e0d\u8001\uff0c\u594b\u6597\u4e0d\u6b62\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liang19890820\/article\/details\/52064169
+POJ3751 \u65f6\u95f4\u65e5\u671f\u683c\u5f0f\u8f6c\u6362 - \u6d77\u5c9bBlog - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/tigerisland45\/article\/details\/51869927
+hdu 1285 \u62d3\u6251\u6392\u5e8f\uff08\u6a21\u7248\uff09 - \u4e3f\u806a\u4e36 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/a402630999\/article\/details\/7208622
+\u5eb7\u6258\u5c55\u5f00 - \u5c0f\u5a01\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/morgan_xww\/article\/details\/6275460
+POJ 1054 \u607c\u4eba\u7684\u9752\u86d9 [ \u679a\u4e3e+\u526a\u679d ] - \u5c0f\u5a01\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/morgan_xww\/article\/details\/5802589
+hdu 1873\uff08queue\uff09 \u770b\u75c5\u8981\u6392\u961f - Weiguang_123\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/weiguang_123\/article\/details\/6842867
+cf div_124_a(\u7b80\u5355\u535a\u5f08) - Weiguang_123\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/weiguang_123\/article\/details\/7693665
+2016 Multi-University Training Contest 3\u9898\u89e3\u62a5\u544a(\u672a\u5b8c,\u5f85\u7eed) - queuelovestack\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/queuelovestack\/article\/details\/52038445
+ACM\u6240\u6709\u7b97\u6cd5 - AC_dream - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/hy1405430407\/article\/details\/47420921
+python \u589e\u52a0csdn\u8bbf\u95ee\u91cf\u5347\u7ea7 - aa1049372051\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/aa1049372051\/article\/details\/52012727
+Codeforces Round #199 (Div. 2) C. Cupboard and Balloons\uff08\u6570\u5b66\uff09 - \u54c6\u5566AC\u68a6\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/wang2147483647\/article\/details\/52032708
+\u57fa\u7840\u6570\u4f4dDP\u5c0f\u7ed3 - \u81ea\u5728\u98de\u82b1 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/zmx354\/article\/details\/24323993
+HDU 1556 Color the ball (\u7ebf\u6bb5\u6811) - \u964c\u4e0a\u82b1\u5f00 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u010270403\/article\/details\/8877303
+HDU1396\uff1aCounting Triangles - ACM\uff01\u8363\u8000\u4e4b\u8def\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/libin56842\/article\/details\/9067075
+\u676d\u7535OJ2680\uff08dijkstra\uff09choose the best route - mengxiang000000 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/mengxiang000000\/article\/details\/50386399
+hdu 2680 Choose the best route(dijkstra \u4f18\u5148\u961f\u5217+\u5806 \u9644\u6a21\u7248) - ACMan - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/sinat_30126425\/article\/details\/48446017
+2048\u5c0f\u6e38\u620f\uff08\u53d8\u6001\u7248\u54e6\uff09 - a17816876003\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/a17816876003\/article\/details\/52020441
+\u6574\u7406\uff1a\u003Ccctype\u003E\uff08\u003Cctype.h\u003E\uff09 - \u4ee5\u68a6\u4e3a\u7801\uff0c\u83ab\u8d1f\u97f6\u534e\u3002 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/bat67\/article\/details\/52021803
+\u5eb7\u6258\u5c55\u5f00\u53ca\u5176\u9006\u8fd0\u7b97 \u8be6\u89e3 - \u7ee7\u7eed\u6fc0\u60c5\uff0c\u7ee7\u7eed\u594b\u6597\u3002 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/lttree\/article\/details\/24798653
+ACM-\u6700\u77ed\u8def\uff08SPFA,Dijkstra,Floyd\uff09\u4e4b\u6700\u77ed\u8def\u2014\u2014hdu2544 - \u7ee7\u7eed\u6fc0\u60c5\uff0c\u7ee7\u7eed\u594b\u6597\u3002 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/lttree\/article\/details\/27186637?utm_source=tuicool\u0026utm_medium=referral
+\u7b2c\u4e00\u7bc7ACM\u5207\u9898\u535a\u5ba2\u2014\u2014\u6700\u77ed\u8def\u4e13\u9898\uff08HDU1\uff09 - Wo xi Meiz - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/yihuikang\/article\/details\/7455366
+\u7ecf\u5178\u7684\u56de\u6eaf\u95ee\u9898
+http:\/\/blog.csdn.net\/ACdreamers\/article\/details\/8223998
+\u6700\u77ed\u8def\u5f84 \u4e4b SPFA\u7b97\u6cd5 - skyline - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/juststeps\/article\/details\/8772755
+POJ3751 \u65f6\u95f4\u65e5\u671f\u683c\u5f0f\u8f6c\u6362 - \u6d77\u5c9bBlog - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/tigerisland45\/article\/details\/51869927
+HDU2133\uff1aWhat day is it - ACM\uff01\u8363\u8000\u4e4b\u8def\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/libin56842\/article\/details\/8774969
+HDU1274\uff1a\u5c55\u5f00\u5b57\u7b26\u4e32 - ACM\uff01\u8363\u8000\u4e4b\u8def\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/libin56842\/article\/details\/8948307
+HDU4727\uff1aThe Number Off of FFF - ACM\uff01\u8363\u8000\u4e4b\u8def\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/libin56842\/article\/details\/11580807
+URAL1079\uff1aMaximum - ACM\uff01\u8363\u8000\u4e4b\u8def\uff01 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/libin56842\/article\/details\/17047385
+hdu 2563\uff08\u9012\u63a8\uff09 - hexianhao\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/hexianhao\/article\/details\/50610614
+hdu 5108\uff08\u5206\u89e3\u8d28\u56e0\u6570\uff09 - hexianhao\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/hexianhao\/article\/details\/51464512
+hdu 5428(\u5206\u89e3\u8d28\u56e0\u5b50) - hexianhao\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/hexianhao\/article\/details\/51944572
+hdu 5170(\u6570\u5b66\u6c34\u9898) - hexianhao\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/hexianhao\/article\/details\/51867482
+BestCoder Round #84 - hexianhao\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/hexianhao\/article\/details\/52012349
+
+http:\/\/blog.csdn.net\/tigerisland45\/article\/details\/52008056
+
+
+
+http:\/\/blog.csdn.net\/tigerisland45\/article\/details\/52008056
+
+
+HDU 1495 \u975e\u5e38\u53ef\u4e50 - \u9065\u8fdc\u7684\u5979 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/sky_miange\/article\/details\/49253723
+STL\u7cfb\u5217\u4e4b\u4e94 priority_queue \u4f18\u5148\u7ea7\u961f\u5217
+http:\/\/blog.csdn.net\/MoreWindows\/article\/details\/6976468
+STL\u7cfb\u5217\u4e4b\u5341 \u5168\u6392\u5217(\u767e\u5ea6\u8fc5\u96f7\u7b14\u8bd5\u9898)
+http:\/\/blog.csdn.net\/MoreWindows\/article\/details\/7370155
+Ferguson\u535a\u5f08 - ACdreamer - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/acdreamers\/article\/details\/17020495
+HDU 1166 - \u654c\u5175\u5e03\u9635\uff08\u7ebf\u6bb5\u6811\uff0c\u5355\u70b9\u66f4\u65b0\uff09
+http:\/\/blog.csdn.net\/qq_28300479\/article\/details\/51917765
+memset\u51fd\u6570\u529f\u80fd - - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/shiqi_614\/article\/details\/6871575
+\u7ebf\u6bb5\u6811\u603b\u7ed3 - - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/shiqi_614\/article\/details\/8228102
+2016\u6cb3\u5357\u7701\u7b2c\u4e5d\u5c4aACM\u7a0b\u5e8f\u8bbe\u8ba1\u7ade\u8d5b\u3010\u6b63\u5f0f\u8d5b\u771f\u9898\u3011 - \u6960\u5148\u751f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liu940204\/article\/details\/51953548
+[\u73a9\u800d]\u8d2a\u5403\u86c7 - XieNaoban\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/xienaoban\/article\/details\/51955452
+[\u73a9\u800d]\u4fc4\u7f57\u65af\u65b9\u5757 - XieNaoban\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/xienaoban\/article\/details\/51955668
+\u53f2\u4e0a\u6700\u5168\u7684SGU\u9898\u76ee\u5206\u7c7b - AC\uff0c\u2211ndless - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/synapse7\/article\/details\/19178127
+\u6811\u72b6\u6570\u7ec4\u9898\u76ee - \u590f\u5929\u7684\u98ce - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/shahdza\/article\/details\/6320129
+\u6811\u72b6\u6570\u7ec4\u533a\u95f4\u6c42\u548c\u4e09\u79cd\u6a21\u578b - mr_lee - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/q573290534\/article\/details\/6664454
+\u56fe\u8bf4\u7ebf\u6bb5\u6811\u548c\u6811\u72b6\u6570\u7ec4 - sunny606\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/sunny606\/article\/details\/38817393
+\u7ebf\u6bb5\u6811\uff0c\u6811\u72b6\u6570\u7ec4 - pi9nc\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/pi9nc\/article\/details\/8779483
+\u6570\u636e\u7ed3\u6784\u548c\u7b97\u6cd5 - \u5e73\u51e1\u7684\u7a0b\u5e8f\u5458 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/feixiaoxing\/article\/category\/878822
+\u3010DP_\u533a\u95f4DP\u4e13\u8f91\u3011 - ZeroClock - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/woshi250hua\/article\/details\/7969225
+\u3010\u4e8c\u3001Codeforces\u7279\u522b\u597d\u7684\u6c34\u989810\u679a\u3011 - ZeroClock - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/woshi250hua\/article\/details\/7918274
+JavaWEB\u5c0f\u77e5\u8bc6\u5b66\u4e60--Java Mail - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u012706811\/article\/details\/51927104
+hdu 1175 \u8fde\u8fde\u770b\uff08DFS\uff09 - Winjourn\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/chaiwenjun000\/article\/details\/47271287
+hdu 1937(\u5c3a\u53d6\u6cd5) - hexianhao\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/hexianhao\/article\/details\/51316357
+\u582a\u79f0\u6700\u597d\u7684A*\u7b97\u6cd5 - \u6211\u7684\u7a0b\u5e8f\u4e16\u754c - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/b2b160\/article\/details\/4057781
+\u300a\u6e38\u620f\u811a\u672c\u7684\u8bbe\u8ba1\u4e0e\u5f00\u53d1\u300b-\u76ee\u5f55\u0026\u5e8f - lufy\u5c0f\u5c4b - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/lufy_legend\/article\/details\/8888787
+\u5f85\u5237\u9898\u76ee\u5206\u7c7b - keshuqi\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/keshuqi\/article\/details\/51913246
+hdu1043 Eight\uff08A*\/\u53cc\u5411BFS\/\u5355\u9879BFS\u6253\u8868+\u5eb7\u6258\u5c55\u5f00\uff09 - Crazy_Bear - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/mengxingyuanlove\/article\/details\/49049777
+HDU 1401 Solitaire \u53cc\u5411BFS - \u7a9d\u4e0d\u662f\u7231\u9171,\u55b5~~~~ - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/acm_cxlove\/article\/details\/7753440
+\u660e\u793c\u99a8\u5fb7\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/llqqxf?viewmode=contents
+Java swing\u5b9e\u73b0\u97f3\u4e50\u64ad\u653e\u5668\u4e4bJava\u5f00\u53d1\u56fe\u5f62\u754c\u9762\u7a0b\u5e8f\u97f3\u4e50\u64ad\u653e\u5668\u4eff\u9177\u72d7\u97f3\u4e50\u64ad\u653e\u5668 - \u660e\u793c\u99a8\u5fb7\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/llqqxf\/article\/details\/51898965
+\u7ecf\u5178\u80cc\u5305\u95ee\u9898 01\u80cc\u5305+\u5b8c\u5168\u80cc\u5305+\u591a\u91cd\u80cc\u5305 - LYHVOYAGE\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/lyhvoyage\/article\/details\/8545852
+\u83dc\u9e1f\u7cfb\u5217\u2014\u2014\u5eb7\u6258\u5c55\u5f00 - My_ World - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/kopyh\/article\/details\/48377291
+\u83dc\u9e1f\u7cfb\u5217\u2014\u2014\u5eb7\u6258\u5c55\u5f00 - My_ World - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/kopyh\/article\/details\/48377291
+ACM\u6570\u5b66\u9898\u76ee - \u7ec8\u7a76\u6211\u8981\u534e\u4e3d\u9006\u88ad - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/nash142857\/article\/details\/8257395
+\u8fc7\u76ee\u4e0d\u5fd8JS\u6b63\u5219\u8868\u8fbe\u5f0f
+http:\/\/geek.csdn.net\/news\/detail\/88393
+\u8fde\u8fde\u770b
+http:\/\/blog.csdn.net\/smallacmer\/article\/details\/7190405
+\u4e00\u4e2a\u6570n\u7684\u5168\u6392\u5217\u0026\u0026DFS
+http:\/\/blog.csdn.net\/smallacmer\/article\/details\/7376733
+\u516b\u6570\u7801\u95ee\u9898\u548cbfs\u4e2d\u7684\u5224\u91cd\u65b9\u6cd5
+http:\/\/blog.csdn.net\/smallacmer\/article\/details\/7819406
+\u7ebf\u6bb5\u6811\u9898\u76ee\u5206\u7c7b+\u7b80\u5355\u89e3\u91ca
+http:\/\/blog.csdn.net\/zxy_snow\/article\/details\/6952046
+\u8ba1\u7b97\u51e0\u4f55\u9898\u76ee\u5206\u7c7b+\u7b80\u5355\u89e3\u91ca
+http:\/\/blog.csdn.net\/zxy_snow\/article\/details\/6952052
+hdu1181 dfs\u641c\u7d22\u4e4b\u53d8\u5f62\u8bfe
+http:\/\/blog.csdn.net\/guodongxiaren\/article\/details\/36692481
+hdu1559,1081\u6700\u5927\u5b50\u77e9\u9635\u548c\u7684\u4e24\u79cd\u9898\u578b
+http:\/\/blog.csdn.net\/guodongxiaren\/article\/details\/38536997
+hdu1027 \u53c8\u662fnext_permutaiton
+http:\/\/blog.csdn.net\/guodongxiaren\/article\/details\/18595927
+hdu1285 \u62d3\u6251\u6392\u5e8f+\u4f18\u5148\u961f\u5217
+http:\/\/blog.csdn.net\/guodongxiaren\/article\/details\/37932369
+HDU 1078 FatMouse and Cheese\u3010\u8bb0\u5fc6\u5316\u641c\u7d22\u3011
+http:\/\/blog.csdn.net\/qq_24653023\/article\/details\/51893065
+ACM\u5165\u95e8\u7ec3\u4e60\u4e0e\u9012\u63a8\u5c0f\u7ed3
+http:\/\/blog.csdn.net\/tigerisland45\/article\/details\/51866277
+\u535a\u5ba2\u5bfc\u51fa\u5de5\u5177 - CSDN \u5b98\u65b9\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/blogdevteam\/article\/details\/27084771
+c++\u4e2dcin\u4e0ecout \u8be6\u89e3 - \u4e0d\u80fd\u53ea\u505a\u7801\u519c - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/maweiqi\/article\/details\/7950366
+\u5eb7\u6258\u5c55\u5f00
+http:\/\/blog.csdn.net\/niushuai666\/article\/details\/6609944
+NYOJ-32 \u7ec4\u5408\u6570\u3010DFS\u3011
+http:\/\/blog.csdn.net\/niushuai666\/article\/details\/7363454
+NYOJ-21 \u4e09\u4e2a\u6c34\u676f\u3010\u9690\u5f0f\u56fe\u641c\u7d22\u3011
+http:\/\/blog.csdn.net\/niushuai666\/article\/details\/7387899
+HDU 2066 \u4e00\u4e2a\u4eba\u7684\u65c5\u884c() (Dijkstra)
+http:\/\/blog.csdn.net\/huatian5\/article\/details\/51765009
+\u6700\u5c0f\u751f\u6210\u6811 \u300a\u554a\u54c8\u7b97\u6cd5\u300b\u8bfb\u4e66\u7b14\u8bb0
+http:\/\/blog.csdn.net\/huatian5\/article\/details\/51860475
+\u6700\u5927\u4e8c\u5206\u5339\u914d\u7b97\u6cd5\u8be6\u89e3\uff08\u5308\u7259\u5229\uff09 - mengxiang000000 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/mengxiang000000\/article\/details\/50445025
+\u641c\u7d22\u9898\u5165\u95e8
+http:\/\/blog.csdn.net\/loy_184548\/article\/details\/50175607
+\u5e76\u67e5\u96c6\u0026MST\u9898\u96c6
+http:\/\/blog.csdn.net\/liuqiyao_01\/article\/details\/8797356
+2016ACM\u7701\u8d5b\u603b\u7ed3
+http:\/\/blog.csdn.net\/huatian5\/article\/details\/51603998
+HDU 1042\uff08\u9ad8\u7cbe\u5ea6\uff09\uff08\u5927\u6570\uff09\uff08\u4e07\u8fdb\u5236\uff09
+http:\/\/blog.csdn.net\/huatian5\/article\/details\/51068959
+HDOJ 1286 \u627e\u65b0\u670b\u53cb(\u6570\u8bba)\uff08\u6b27\u62c9\u51fd\u6570\uff09
+http:\/\/blog.csdn.net\/huatian5\/article\/details\/51155463
+HDU 2102 A\u8ba1\u5212 \uff08\u641c\u7d22 \u961f\u5217\uff09
+http:\/\/blog.csdn.net\/huatian5\/article\/details\/51334286
+\u56fe\u8bba\u4e94\u767e\u9898
+http:\/\/blog.csdn.net\/huatian5\/article\/details\/51702782
+\u4e2d\u56fd\u5269\u4f59\u5b9a\u7406\uff08\u5b59\u5b50\u5b9a\u7406\uff09
+http:\/\/blog.csdn.net\/huatian5\/article\/details\/51801481
+\u5982\u4f55\u53d1\u5e03Web\u9879\u76ee\u5230\u4e92\u8054\u7f51
+http:\/\/blog.csdn.net\/qq_18895659\/article\/details\/51761974
+Linoy - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/loy_184548\/article\/list\/6
+Linoy - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/loy_184548\/article\/list\/6
+HDU-5706-GirlCat\u3010BFS\u3011\u30102016CCPC\u5973\u751f\u4e13\u573a\u3011 - Linoy - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/loy_184548\/article\/details\/51814779
+\u5229\u7528githubpages\u521b\u5efa\u4f60\u7684\u4e2a\u4eba\u535a\u5ba2
+http:\/\/blog.csdn.net\/qibin0506\/article\/details\/51813428
+\u672c\u5b66\u671f\u6700\u540e\u4e00\u6b21\u5468\u8d5b\u9898\u89e3
+http:\/\/blog.csdn.net\/a88770202\/article\/details\/51586533
+HDU\u2014\u20142612Find a way\uff08\u591a\u8d77\u70b9\u591a\u7ec8\u70b9BFS\uff09
+http:\/\/blog.csdn.net\/a88770202\/article\/details\/51802528
+HDU\u2014\u20143786\u627e\u51fa\u76f4\u7cfb\u4eb2\u5c5e\uff08DFS+\u56de\u6eaf\uff09
+http:\/\/blog.csdn.net\/a88770202\/article\/details\/51803841
+C++\u7a0b\u5e8f\u8bbe\u8ba1\u62a5\u544a\uff08\u624b\u673a\u8d44\u8d39\u7cfb\u7edf\uff09 - elvira5201\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/elvira5201\/article\/details\/51794136
+\u5982\u679c\u80fd\u65e9\u70b9\u77e5\u9053\u667a\u80fd\u8f93\u5165\uff0c\u6bd5\u4e1a\u540e\u5c31\u4e0d\u4f1a\u6df7\u6210\u8fd9\u6837
+http:\/\/blog.csdn.net\/kongki\/article\/details\/51790409
+Java WebSocket\u7f16\u7a0b\u4e0e\u7f51\u9875\u7b80\u6613\u804a\u5929\u5ba4 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liu_c_y\/article\/details\/51782395
+\u81ea\u5199\u4fe1\u606f\u7ba1\u7406\u7cfb\u7edf\u2014\u2014C\u5b9e\u73b0 - \u4f60\u90a3\u4e48\u7231\u7b11\uff0c\u5bb6\u91cc\u4eba\u77e5\u9053\u5417\uff1f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/chudongfang2015\/article\/details\/51785937
+js\u51fd\u6570\u2014\u2014\u5012\u8ba1\u65f6\u6a21\u5757+\u65e0\u7f1d\u6eda\u52a8
+http:\/\/geek.csdn.net\/news\/detail\/84991
+\u4e00\u884c\u80fd\u88c5\u903c\u7684JavaScript\u4ee3\u7801
+http:\/\/geek.csdn.net\/news\/detail\/84996
+\u95ee\u9898 G: \u6574\u6570\u8fde\u63a5 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/hnust_V\/article\/details\/51749239
+\u8da3\u5473\u7a0b\u5e8f\u8bbe\u8ba1\uff3f\u6253\u5370\u65e5\u5386
+http:\/\/blog.csdn.net\/hnust_v\/article\/details\/51749253
+\u4e2d\u56fd\u8c61\u68cb\u7a0b\u5e8f\u7684\u8bbe\u8ba1\u4e0e\u5b9e\u73b0(\u96f6)--\u539f\u59cb\u7248\u6e90\u7801
+http:\/\/blog.csdn.net\/FansUnion\/article\/details\/11473843
+\u56fd\u5916\u7a0b\u5e8f\u5458\u7ecf\u5e38\u7528\u7684\u4e8c\u5341\u516b\u4e2a\u5b66\u4e60\u7f51\u7ad9
+http:\/\/geek.csdn.net\/news\/detail\/84420
+Python\u5236\u4f5c\u5b89\u5353\u6e38\u620f\u5916\u6302
+http:\/\/geek.csdn.net\/news\/detail\/84452
+java\u5b9e\u73b0\u659c\u6c34\u5370\u94fa\u6ee1\u6574\u5f20\u56fe - Mr_Smile2014\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/mr_smile2014\/article\/details\/51760652
+JAVA\u5199\u7684\u5766\u514b\u5927\u6218(\u5355\u673a\u56fe\u7247\u7248) - PROGRAM_anywhere\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/program_anywhere\/article\/details\/51762004
+\u5fae\u4fe1\u516c\u4f17\u53f7\u540e\u53f0java\u5f00\u53d1\u5b9e\u73b0\u81ea\u52a8\u56de\u590d\u673a\u5668\u4eba - Sterben_Da\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/sterben_da\/article\/details\/51762442
+ACM\u8bfe\u7a0b\u603b\u7ed3 - s7799653\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/s7799653\/article\/details\/51763194
+hdu 1176 \u514d\u8d39\u9985\u997c - \u5c0f\u5a9b\u5728\u52aa\u529b~ - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/zxy_snow\/article\/details\/6684937
+\u5c0f\u5a9b\u5728\u52aa\u529b~ - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/zxy_snow\/article\/list\/2
+ACM\u8bad\u7ec3\u65b9\u6848-POJ\u9898\u76ee\u5206\u7c7b - \u6094\u60dc\u665f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/huixisheng\/article\/details\/5735848
+ural pku Zju \u9898\u76ee\u5206\u7c7b - \u6094\u60dc\u665f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/huixisheng\/article\/details\/5735863
+ural==acm==\u9898\u76ee\u5206\u7c7b - dream\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/dreamzme\/article\/details\/1648443
+qq_20118433\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_20118433?viewmode=contents
+SGU \u9898\u76ee\u5206\u7c7b - \u597d\u4e45\u4e0d\u89c1 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/math_coder\/article\/details\/9969321
+\u8eab\u4efd\u8bc1\u53f7\u7801\u9a8c\u8bc1\u7b97\u6cd5
+http:\/\/geek.csdn.net\/news\/detail\/83764
+\u4ece0\u5f00\u59cb\u5b66\u4e60GitHub\u7cfb\u5217\u4e4b\u300cGit \u901f\u6210\u300d
+http:\/\/geek.csdn.net\/news\/detail\/83782
+\u300a\u5982\u679c\u8ba9\u6211\u91cd\u65b0\u8bfb\u6b21\u7814\u7a76\u751f\u300b\u2014\u2014\u738b\u6cdb\u68ee\u9662\u58eb(\u8f6c\u8f7d)
+http:\/\/blog.csdn.net\/hanjiliang123\/article\/details\/7052633
+\u8ba1\u7b97\u673a\u9886\u57df\u725b\u4eba\u7684\u535a\u5ba2
+http:\/\/blog.csdn.net\/hanjiliang123\/article\/details\/7053065
+\u697c\u6559\u4e3b\u7684ACM\u5fc3\u8def\u5386\u7a0b
+http:\/\/blog.csdn.net\/u013445530\/article\/details\/38685323
+poj1182 \u98df\u7269\u94fe\uff08\u7ecf\u5178\u5e76\u67e5\u96c6\uff09
+http:\/\/blog.csdn.net\/qq_21057881\/article\/details\/50615206
+HDU 1754 I Hate It(\u7ebf\u6bb5\u6811:\u5355\u70b9\u66ff\u6362,\u533a\u95f4\u6700\u503c)
+http:\/\/blog.csdn.net\/qq_21057881\/article\/details\/50727007
+POJ2777 Count Color\uff08\u7ebf\u6bb5\u6811\uff09
+http:\/\/blog.csdn.net\/qq_21057881\/article\/details\/51147190
+HDU 1166 \u654c\u5175\u5e03\u9635(\u7ebf\u6bb5\u6811\u5165\u95e8\u9898)
+http:\/\/blog.csdn.net\/qq_21057881\/article\/details\/50726671
+POJ \u5e76\u67e5\u96c6\u5c0f\u7ed3
+http:\/\/blog.csdn.net\/u013050857\/article\/details\/43344303
+\u8d85\u6709\u7231\u7684\u5e76\u67e5\u96c6~~~~\u3010\u8f6c\u8f7d\u3011\uff1a
+http:\/\/blog.csdn.net\/u013050857\/article\/details\/41210415
+\u4e00\u7c7b\u5e38\u89c1\u7684\u77e9\u9635\u5feb\u901f\u5e42\u9898\u578b \u603b\u7ed3
+http:\/\/blog.csdn.net\/u013050857\/article\/details\/48637557
+
+http:\/\/geek.csdn.net\/news\/detail\/83383
+
+
+jsp\u57fa\u7840\u77e5\u8bc6\u8be6\u89e3
+http:\/\/blog.csdn.net\/u010098331\/article\/details\/51728666
+2015\u5f31\u6821\u8fde\u840c\u5bd2\u5047\u4e13\u9898\u4e8c(\u5e76\u67e5\u96c6) \u9898\u89e3(A-H) - skywalkert\u0027s space - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/skywalkert\/article\/details\/44010075
+\u5206\u4eab\u4e00\u4e2a\u5728\u6dd8\u5b9d\u4e70\u7684 \u6d88\u9664\u7c7b\u6e38\u620f\u6e90\u7801 \u4f7f\u7528cocos2d\u5f15\u64ce\u5f00\u53d1
+http:\/\/geek.csdn.net\/news\/detail\/82701
+\u52a8\u6001\u89c4\u5212-\u6700\u5927\u5b50\u77e9\u9635\u548c\uff08ZOJ 1074 TO THE MAX \uff09
+http:\/\/blog.csdn.net\/Double2hao\/article\/details\/51727420
+python\u722c\u53d6\u767e\u5ea6\u8d34\u5427\uff081\uff09
+http:\/\/blog.csdn.net\/zhanghaipeng1989\/article\/details\/41644991
+java \u8bfb\u53d6\u7f51\u9875\u5185\u5bb9\u4ee3\u7801
+http:\/\/blog.csdn.net\/hnust_xiehonghao\/article\/details\/45742791
+Git\u7684\u4f7f\u7528 - \u6708\u8272\u767d\u7259\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/loving__dream\/article\/details\/51723303
+\u6df1\u5ea6\u4f18\u5148\u641c\u7d22-ZOJ 1047 Image Perimeters
+http:\/\/blog.csdn.net\/Double2hao\/article\/details\/51711416
+\u7528CSS\u753b\u5706
+http:\/\/geek.csdn.net\/news\/detail\/82278
+\u62a2\u7ea2\u5305\u63d2\u4ef6\u5b9e\u73b0\u539f\u7406\u6d45\u6790
+http:\/\/blog.csdn.net\/zhangke3016\/article\/details\/51672977
+\u66b4\u529b\u679a\u4e3e- uva11464 - Even Parity
+http:\/\/blog.csdn.net\/Double2hao\/article\/details\/51719221
+\u300aJava\u9879\u76ee\u5b9e\u8df5\u300b\uff1a\u7b80\u5355\u804a\u5929\u7a0b\u5e8f - wojiushimogui\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u010412719\/article\/details\/51707124
+\u5fae\u4fe1\u516c\u5171\u5e73\u53f0\u5f00\u53d1\uff08\u4e00\uff09\uff1a\u670d\u52a1\u5668\u914d\u7f6e - \u5c0f\u9e21\u6162\u6162\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/xiaojimanman\/article\/details\/45042549
+\u7a0b\u5e8f\u8bbe\u8ba1\u9898\u76ee---\u5b9e\u73b0\u7b80\u5355\u7968\u52a1\u7cfb\u7edf - \u798f\u6e90\u5929\u8d50\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/why850901938\/article\/details\/51702916
+python\u7f51\u7edc\u722c\u866b\u5b66\u4e60(\u4e8c)\u4e00\u4e2a\u722c\u53d6\u767e\u5ea6\u8d34\u5427\u7684\u722c\u866b\u7a0b\u5e8f - kelvinmao\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/kelvinmao\/article\/details\/51471184
+\u7701\u8d5b - \u8d70\u4e00\u6b65\u518d\u8d70\u4e00\u6b65 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/r1986799047\/article\/details\/51684905
+Java\u751f\u6210MyEclipse\u6ce8\u518c\u7801\u7684\u4e24\u79cd\u65b9\u6cd5
+http:\/\/geek.csdn.net\/news\/detail\/80497
+\u7a0b\u5e8f\u733f\u5b66\u4e60\u8d44\u6599\u96c6\u90ae
+http:\/\/blog.csdn.net\/wp1603710463\/article\/details\/50529615
+HTML5\uff1aCanvas - \u5c71\u6c34\u5b50\u519c - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_27626333\/article\/details\/51636967
+\u56fe\u7684\u904d\u5386\u7b97\u6cd5-\u4e03\u5de7\u677f\u6d82\u8272
+http:\/\/geek.csdn.net\/news\/detail\/80055
+\u7a0b\u5e8f\u5458\u4eec\u7684\u9ad8\u8003\u8bd5\u5377
+http:\/\/geek.csdn.net\/news\/detail\/79714
+\u4f7f\u7528HTML5+CSS3\u5b9e\u73b0\u592a\u9633\u7cfb9\u5927\u6052\u661f\u7684\u8fd0\u8f6c\u52a8\u753b
+http:\/\/geek.csdn.net\/news\/detail\/79754
+\u7ebf\u6bb5\u6811\u603b\u7ed3 - zchahaha - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/zchahaha\/article\/details\/51182039
+ACM\u7ec4\u5408\u6570\u5b66\u9898\u76ee\u5217\u8868
+http:\/\/blog.csdn.net\/liangzhaoyang1\/article\/details\/50900401
+\u5e76\u67e5\u96c6\u8be6\u89e3 (\u8f6c) - Time flies - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/dellaserss\/article\/details\/7724401
+\u7b97\u6cd5\u5165\u95e8 - \u4e5d\u91ce\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/acmmmm\/article\/details\/18039855
+\u5f00\u6e90\u8bc4\u6d4b\u7cfb\u7edfhustoj-\u4ee3\u7801\u89e3\u8bfb1 - legan\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/legan\/article\/details\/40746829
+[\u4ece\u5934\u5b66\u6570\u5b66] \u7b2c210\u8282 \u5e26\u7740\u8ba1\u7b97\u673a\u53bb\u9ad8\u8003\uff08\u4e8c\uff09 - \u5fae\u7b11\u7684\u5f69\u8679\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/mwsister\/article\/details\/51437357
+Java\u8bfe\u7a0b\u8bbe\u8ba1- \u8bb0\u4e8b\u672c\u4ee3\u7801 - \u52a0\u8d1d\u6728\u82c7\u7684BLOG - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u013050857\/article\/details\/50269293
+\u6811\u72b6\u6570\u7ec4\u5c0f\u7ed3 - \u590f\u5929\u7684\u98ce - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/shahdza\/article\/details\/6314818
+\u6570\u8bba\u7ecf\u5178\u9898\u76ee - ACdreamer - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/acdreamers\/article\/details\/8572959
+HTML5-\u70ab\u4e3d\u7684\u65f6\u949f\u6548\u679cCanvas\u7ed8\u56fe\u4e0e\u52a8\u753b
+http:\/\/blog.csdn.net\/cometwo\/article\/details\/50515921
+\u5982\u4f55\u4f7f\u7528\u7eafCSS3\u5b9e\u73b0\u4e00\u4e2a\u6c99\u6f0f\u52a8\u753b
+http:\/\/blog.csdn.net\/iefreer\/article\/details\/51014348
+GitHub\u600e\u4e48\u7528\uff1fGitHub\u662f\u4ec0\u4e48\uff1f\u65b0\u624b\u600e\u4e48\u7528GitHub\uff1f\u56fe\u6587\u5e76\u8302\uff0c\u4e0d\u770b\u90fd\u4e0d\u884c
+http:\/\/blog.csdn.net\/xllily_11\/article\/details\/51330252
+\u624b\u628a\u624b\u6559\u4f60\uff1a\u7528Qt\u505a\u4e00\u4e2a\u6f02\u4eae\u7684\u7535\u5b50\u65f6\u949f\uff08\u7eaf\u4ee3\u7801\uff09
+http:\/\/geek.csdn.net\/news\/detail\/77519
+JavaScript---\u7f51\u7edc\u7f16\u7a0b(1)
+http:\/\/blog.csdn.net\/qq_26525215\/article\/details\/51532815
+HDU 2089 \u2014\u2014 \u4e0d\u898162 [\u5165\u95e8\u9898]
+http:\/\/blog.csdn.net\/L_avender\/article\/details\/50274183
+\u8d2a\u5403\u86c7java\u5c0f\u7a0b\u5e8f
+http:\/\/blog.csdn.net\/u011459262\/article\/details\/46344033
+\u7b80\u5355\u97f3\u9891\u64ad\u653e\u5668
+http:\/\/blog.csdn.net\/u011459262\/article\/details\/46482955
+\u6253\u5730\u9f20 java
+http:\/\/blog.csdn.net\/u011459262\/article\/details\/46506213
+\u5224\u65ad\u7d20\u6570\u6a21\u677f
+http:\/\/blog.csdn.net\/xky1306102chenhong\/article\/details\/45419295
+\u300eHTML5\u68a6\u5e7b\u4e4b\u65c5\u300f-\u6eda\u52a8\u64ad\u653e\u7684\u5e7b\u706f\u7247\u6548\u679c
+http:\/\/blog.csdn.net\/yorhomwang\/article\/details\/12883677
+2D\u6e38\u620f\u4e2d\u7684\u78b0\u649e\u68c0\u6d4b\uff1a\u5706\u5f62\u4e0e\u77e9\u5f62\u78b0\u649e\u68c0\u6d4b\uff08Javascript\u0026C++\u7248\uff09
+http:\/\/blog.csdn.net\/yorhomwang\/article\/details\/18195993
+\u300eHTML5\u68a6\u5e7b\u4e4b\u65c5\u300f - \u70ab\u9177\u7684\u8282\u65e5\u8d3a\u5361
+http:\/\/blog.csdn.net\/yorhomwang\/article\/details\/43883475
+\u300eHTML5\u68a6\u5e7b\u4e4b\u65c5\u300f - \u52a8\u611f\u5706\u5708
+http:\/\/blog.csdn.net\/yorhomwang\/article\/details\/50269497
+\u300eHTML5\u5b9e\u73b0\u4eba\u5de5\u667a\u80fd\u300f\u5c0f\u6e38\u620f\u300a\u4e95\u5b57\u68cb\u300b\u53d1\u5e03\uff0c\u636e\u8bf4IQ\u4e0a200\u624d\u80fd\u8d62\u3010\u7b97\u6cd5\u0026\u4ee3\u7801\u8bb2\u89e3+\u8d44\u6e90\u6253\u5305\u4e0b\u8f7d\u3011
+http:\/\/blog.csdn.net\/yorhomwang\/article\/details\/8652567
+HTML5\u6e38\u620f\u5f00\u53d1-\u626b\u96f7\u53ca\u5176\u7b97\u6cd5\u7814\u7a76
+http:\/\/blog.csdn.net\/yorhomwang\/article\/details\/45953711
+\u9738\u6c14\u4fa7\u6f0f\u7684HTML5--\u4e4b--\u5f3a\u5927\u7684form\u8868\u5355
+http:\/\/blog.csdn.net\/u011250851\/article\/details\/24550533
+\u9738\u6c14\u4fa7\u6f0f\u7684HTML5--\u4e4b--canvas(1) api + \u5f39\u7403\u5b9e\u4f8b
+http:\/\/blog.csdn.net\/u011250851\/article\/details\/24885819
+\u300a\u5251\u6307offer\u300b\u7ea6\u745f\u592b\u73af\u95ee\u9898
+http:\/\/blog.csdn.net\/liyuefeilong\/article\/details\/51322626
+7 \u4e2a\u6548\u679c\u9707\u61be\u7684 HTML5 \u5e94\u7528\u7ec4\u4ef6
+http:\/\/blog.csdn.net\/csharp25\/article\/details\/9293041
+HTML5 + js \u8d2a\u5403\u86c7\u6e38\u620f\u8bbe\u8ba1\u4e0e\u5b9e\u73b0
+http:\/\/blog.csdn.net\/csharp25\/article\/details\/6657697
+\u514d\u8d39\u7684\u7f51\u9875\u539f\u578b\u5236\u4f5c\u5de5\u5177
+http:\/\/blog.csdn.net\/csharp25\/article\/details\/7743739
+\u4e00\u4e2aGithub\u597d\u7528\u7684Chrome\u63d2\u4ef6\u2014\u2014GitHub-Helper
+http:\/\/geek.csdn.net\/news\/detail\/77232
+GitHub \u4f7f\u7528\u6559\u7a0b\u56fe\u6587\u8be6\u89e3
+http:\/\/geek.csdn.net\/news\/detail\/61638
+Git \u5b66\u4e60\u4e4b\u8def\uff08\u4e09\uff09\u2014\u2014\u914d\u7f6eGit
+http:\/\/geek.csdn.net\/news\/detail\/76886
+CSDN\u535a\u5ba2\u6dfb\u52a0\u81ea\u5b9a\u4e49\u680f\u76ee\u5c55\u793a\u65b0\u6d6a\u5fae\u535a\u79c0 - \u65e0\u77e5\u4eba\u751f\uff0c\u8bb0\u5f55\u70b9\u6ef4 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/testcs_dn\/article\/details\/51173803
+\u5982\u4f55\u5728CSDN\u535a\u5ba2\u81ea\u5b9a\u4e49\u680f\u76ee\u4e2d\u6dfb\u52a0\u201c\u7ed9\u6211\u5199\u4fe1\u201d - Stay Hungry \uff0c Stay Foolish - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/hjl243632044\/article\/details\/7216284
+\u6700\u5c0f\u751f\u6210\u6811\u3010\u5b8c\u7ed3\u3011 - \u9648\u56fd\u6797 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/chenguolinblog\/article\/details\/16896915
+[ACM] \u5e38\u7528STL - \u9006\u98ce\u7684\u65b9\u5411 \u66f4\u9002\u5408\u98de\u7fd4 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/sr_19930829\/article\/details\/50774832
+POJ \u52a8\u6001\u89c4\u5212\u9898\u76ee\u5217\u8868 - bo-jwolf\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/bo_jwolf\/article\/details\/8840148
+HDU \u52a8\u6001\u89c4\u5212\uff0846\u9053\u9898\u76ee\uff09\u503e\u60c5\u5949\u732e~ \u3010\u53ea\u63d0\u4f9b\u601d\u8def\u4e0e\u72b6\u6001\u8f6c\u79fb\u65b9\u7a0b\u3011 - bo-jwolf\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/bo_jwolf\/article\/details\/8840166
+
+http:\/\/blog.csdn.net\/coolszy\/article\/details\/6149373
+
+
+
+
+
+http:\/\/blog.csdn.net\/u010858238\/article\/details\/9029653
+
+
+Vim\u952e\u76d8\u547d\u4ee4\u5206\u5e03\u56fe - God\u0027s blog - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/a600423444\/article\/details\/6432773
+VIM\u5feb\u6377\u952e\u5927\u5168 - - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/r77683962\/article\/details\/8518693
+vim\u547d\u4ee4\u56fe\u89e3 - v2x222\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/v2x222\/article\/details\/6770378
+\u5982\u4f55\u5feb\u901f\u7684\u4f7f\u7528vim - Topurce\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/Topurce\/article\/details\/50878569
+\u5982\u4f55\u5feb\u901f\u7684\u4f7f\u7528vim
+http:\/\/blog.csdn.net\/Topurce\/article\/details\/50878569
+VIM\u5feb\u6377\u952e\u5927\u5168
+http:\/\/blog.csdn.net\/r77683962\/article\/details\/8518693
+Vim\u952e\u76d8\u547d\u4ee4\u5206\u5e03\u56fe
+http:\/\/blog.csdn.net\/a600423444\/article\/details\/6432773
+\u7cbe\u90096\u6b3e\u795e\u5947\u7684HTML5 Canvas\u52a8\u753b\u7279\u6548
+http:\/\/geek.csdn.net\/news\/detail\/75634
+\u50cf\u7a0b\u5e8f\u5458\u90a3\u6837\u53bb\u6c42\u5a5a
+http:\/\/geek.csdn.net\/news\/detail\/76005
+C\u8bed\u8a00printf()\u3001sprintf()\u3001vsprintf() \u7684\u533a\u522b\u4e0e\u8054\u7cfb
+http:\/\/geek.csdn.net\/news\/detail\/75685
+2015\u5e74\u5317\u4eac\u5e08\u8303\u5927\u5b66\u65b0\u751f\u7a0b\u5e8f\u8bbe\u8ba1\u7ade\u8d5b\u9898\u89e3 - quailty\u0027s - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/quailty\/article\/details\/50410426
+\u6b27\u62c9\u51fd\u6570 - Lur \u0027s acm blog - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/once_hnu\/article\/details\/6302868
+hdu1597(\u4e8c\u5206\u67e5\u627e)
+http:\/\/blog.csdn.net\/hndu__lz\/article\/details\/51120295
+\u96f6\u57fa\u7840\u5b66Git
+http:\/\/blog.csdn.net\/column\/details\/jacky-git.html
+\u3010windows\u3011Github \u5165\u95e8\u6982\u8981 - u010434924\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u010434924\/article\/details\/46275209
+\u53f2\u4e0a\u6700\u8be6\u5c3d\u7684git\u56fe\u6587\u6559\u7a0b\uff0c\u5305\u5b66\u5305\u4f1a - \u9152\u4e2d\u4ed9\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/xinjianwuhen1991\/article\/details\/49593081
+HTML\u7f51\u9875\u7f16\u7a0b - Discovering,Thinking and Finding\u2014\u2014This Is My Logic - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/x121850182\/article\/details\/51471057
+\u63a8\u835010 \u4e2a\u77ed\u5c0f\u5374\u8d85\u5b9e\u7528\u7684JavaScript \u4ee3\u7801\u6bb5
+http:\/\/geek.csdn.net\/news\/detail\/75493
+html\u5165\u95e8\u57fa\u7840\uff0c\u975e\u5e38\u5b9e\u7528
+http:\/\/download.csdn.net\/detail\/zengitzeng\/7609147
+HTML5\u57fa\u7840\u5c0f\u7ed3\uff08\u4e8c\uff09\u2014\u2014\u6807\u7b7e\u5c0f\u4f8b
+http:\/\/blog.csdn.net\/liujiahan629629\/article\/details\/40512197
+\u524d\u7aef\u8def\u6f2b\u6f2b\uff081\uff09--html5--html\u57fa\u7840
+http:\/\/blog.csdn.net\/sky111144\/article\/details\/50204645
+github\u5982\u4f55\u5199\u535a\u5ba2
+http:\/\/blog.csdn.net\/u011915230\/article\/details\/50609683
+github\u5165\u95e8\u6559\u7a0b
+http:\/\/blog.csdn.net\/cdkd123\/article\/details\/8959484
+[\u5de5\u5177\u8d44\u6e90] \u4e94\u5206\u949f\u6559\u4f60\u4f7f\u7528 github pages \u642d\u5efa\u535a\u5ba2
+http:\/\/geek.csdn.net\/news\/detail\/73994
+9\u4e2a\u975e\u5e38\u6709\u610f\u601d\u7684HTML5\u52a8\u753b\u63a8\u8350
+http:\/\/geek.csdn.net\/news\/detail\/74925
+\u6570\u636e\u5e93\u57fa\u7840\u77e5\u8bc6\u603b\u7ed3
+http:\/\/geek.csdn.net\/news\/detail\/75355
+Visual Studio 2005,\u5feb\u6765\u4e0b\u8f7d\u54e6 - \u51af\u7acb\u5f6c\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/fenglibing\/article\/details\/1477410
+\u3010\u7b97\u6cd5\u8bbe\u8ba1\u3011\u6253\u5370\u87ba\u65cb\u6570\u7ec4 - \u5c0f\u9b4f\u7684\u4fee\u884c\u8def - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/xiaowei_cqu\/article\/details\/8258071
+HTML\u57fa\u7840\u4e4b\u5e38\u7528\u7684\u8bed\u4e49\u5316\u547d\u540d
+http:\/\/geek.csdn.net\/news\/detail\/73553
+HTML\u57fa\u7840\u77e5\u8bc6\u81ea\u5b66\u6559\u7a0b
+http:\/\/geek.csdn.net\/news\/detail\/73777
+8\u4e2a\u975e\u5e38\u795e\u5947\u7684HTML5\u52a8\u753b\u548c\u5e94\u7528
+http:\/\/geek.csdn.net\/news\/detail\/71632
+10\u4e2a\u7ecf\u5178\u5b9e\u7528\u7684HTML5\u56fe\u8868\u52a8\u753b\u5e94\u7528
+http:\/\/geek.csdn.net\/news\/detail\/68937
+\u5e76\u67e5\u96c6\u8be6\u89e3 (\u8f6c) - Time flies - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/dellaserss\/article\/details\/7724401
+\u9ad8\u7ea7\u641c\u7d22\u9898\u96c6\uff08\u590f\u5929\u7684\u98ce\u5206\u7c7b\uff09 - 671coder\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liuqiyao_01\/article\/details\/8786998
+\u535a\u5f08\u603b\u7ed3 - 671coder\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liuqiyao_01\/article\/details\/8479340
+\u535a\u5f08\u9898\u96c6 - 671coder\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liuqiyao_01\/article\/details\/8478723
+100\u4e2a\u52a8\u89c4\u65b9\u7a0b - 671coder\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liuqiyao_01\/article\/details\/8765812
+\u7ebf\u6bb5\u6811\u603b\u7ed3 - 671coder\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liuqiyao_01\/article\/details\/9712191
+\u6570\u4f4dDP \u9898\u96c6 - 671coder\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liuqiyao_01\/article\/details\/9109419
+ACM\u9898\u96c6\u4ee5\u53ca\u5404\u79cd\u603b\u7ed3\u5927\u5168 - \u620e\u7801\u4eba\u751f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_26891045\/article\/details\/51154643
+ACM\u9898\u96c6\u4ee5\u53ca\u5404\u79cd\u603b\u7ed3\u5927\u5168\uff01 - 671coder\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liuqiyao_01\/article\/details\/9079611
+STL\u5b66\u4e60\u603b\u7ed3 - \u620e\u7801\u4eba\u751f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/qq_26891045\/article\/details\/51440337
+HDU1166 \u7ebf\u6bb5\u6811
+http:\/\/blog.csdn.net\/wzngzaixiaomantou\/article\/details\/51427616
+\u6570\u8bba-Special Numbers
+http:\/\/blog.csdn.net\/mishifangxiangdefeng\/article\/details\/7168258
+\u641c\u7d22
+http:\/\/blog.csdn.net\/mishifangxiangdefeng\/article\/details\/7168354
+\u535a\u5f08\uff0c\u6c42SG\u503c
+http:\/\/blog.csdn.net\/mishifangxiangdefeng\/article\/details\/7187215
+\u4e3a\u4ec0\u4e48\u4f60\u5e94\u8be5\uff08\u4ece\u73b0\u5728\u5f00\u59cb\u5c31\uff09\u5199\u535a\u5ba2
+http:\/\/geek.csdn.net\/news\/detail\/74737
+STL\u5b66\u4e60\u7b14\u8bb0
+http:\/\/blog.csdn.net\/column\/details\/geek-stl.html
+
+http:\/\/blog.csdn.net\/qq_26891045\/article\/details\/50409612
+
+
+stl\u5bb9\u5668\u533a\u522b: vector list deque set map\u53ca\u5e95\u5c42\u5b9e\u73b0
+http:\/\/blog.csdn.net\/lltaoyy\/article\/details\/6694498
+stl\u603b\u7ed3\uff08\u8f6c\uff09
+http:\/\/blog.csdn.net\/pizi0475\/article\/details\/5346713
+\u65e0\u9700\u7ffb\u5899\u767b\u5f55Google+\u53ca\u9080\u8bf7\u53d1\u653e
+http:\/\/blog.csdn.net\/qq_26525215\/article\/details\/50383064
+\uff08\u7f6e\u9876\uff09HDOJ\u9898\u76ee\u5206\u7c7b - Walker - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liangzhaoyang1\/article\/details\/51036037
+POJ 1222 \u7184\u706f\u95ee\u9898 - Ac Dream - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/smile_7x\/article\/details\/8526659
+POJ 1054 \u8ba8\u538c\u7684\u9752\u86d9 - Ac Dream - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/smile_7x\/article\/details\/8529626
+\u6c42\u591a\u8fb9\u5f62\u9762\u79ef\uff08\u5982HDU2036\uff09 - Walker - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liangzhaoyang1\/article\/details\/51290050
+HDU 1395 2^x mod n = 1\uff08\u66b4\u529b\u679a\u4e3e\uff09 - Walker - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liangzhaoyang1\/article\/details\/51317579
+HDU 1408 \u76d0\u6c34\u7684\u6545\u4e8b\uff08\u6a21\u62df\uff09 - Walker - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liangzhaoyang1\/article\/details\/51321614
+HDU 1673 Optimal Parking\uff08\u770b\u61c2\u5c31\u662f\u6c34\u9898\uff09 - Walker - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liangzhaoyang1\/article\/details\/51330770
+HDU 2114 Calculate S(n)\uff08\u6570\u5b66\u516c\u5f0f\uff09 - Walker - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liangzhaoyang1\/article\/details\/51412825
+HDU 2115 I Love This Game\uff08\u7ed3\u6784\u4f53\u6392\u5e8f or pair\uff09 - Walker - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liangzhaoyang1\/article\/details\/51413067
+STL\u4e2d\u7684map\u7528\u6cd5\u8be6\u89e3 - Walker - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liangzhaoyang1\/article\/details\/51414233
+\u5e7f\u5ea6\/\u5bbd\u5ea6\u4f18\u5148\u641c\u7d22(BFS)\u8be6\u89e3 - Walker - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liangzhaoyang1\/article\/details\/51415716
+\uff08\u7f6e\u9876\uff09HDOJ\u9898\u76ee\u5206\u7c7b - Walker - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liangzhaoyang1\/article\/details\/51036037
+\u6df1\u5ea6\u4f18\u5148\u641c\u7d22(DFS)\u8be6\u89e3 - Walker - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liangzhaoyang1\/article\/details\/51415719
+Python\u5b66\u4e60\u7b14\u8bb0
+http:\/\/blog.csdn.net\/column\/details\/python-notes.html?\u0026page=2
+poj 4006:\u5c0f\u5154\u5b50\u6361\u91d1\u5e01 - \u72d0\u72f8\u6389\u8fdb\u51b0\u7a9f\u7abf - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/u010663294\/article\/details\/37562461
+poj 4001 Xiangqi \u6a21\u62df \u987a\u5e26\u5173\u4e8e\u6a21\u62df\u7684\u4e00\u756a\u5410\u69fd - \u5f31\u5f31\u7684jxy - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/czjxy881\/article\/details\/12895455
+\u3010Algorithm\u3011\u52a8\u6001\u89c4\u5212 \uff081\uff09 HDU \u52a8\u6001\u89c4\u5212\u9898\u96c6 - - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/non_cease\/article\/details\/6793533
+hdu 4004 \uff08\u4e8c\u5206+\u8d2a\u5fc3\uff09 - - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/non_cease\/article\/details\/6769814
+UVa - 514 Rails(\u6808\u6a21\u62df)
+http:\/\/blog.csdn.net\/qq_28300479\/article\/details\/51391928
+IP\u805a\u5408 \uff082016\u0022\u767e\u5ea6\u4e4b\u661f\u0022 - \u6d4b\u8bd5\u8d5b\uff08\u70ed\u8eab\uff0c\u9648\u9898\uff09\uff09 - \u82cf\u82cf\u7231\u81ea\u7531 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/su20145104009\/article\/details\/51354698
+poj1363 Rails(\u6808\u6a21\u62df) - \u82cf\u82cf\u7231\u81ea\u7531 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/su20145104009\/article\/details\/51397833
+POJ 1047 Round and Round We Go \u5faa\u73af\u6570\u65b0\u89e3 - CS\u7ec3\u529f\u623f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/furney\/article\/details\/7168724
+\u6210\u4e3aC \u9ad8\u624b\u4e4bwhile\u5faa\u73af
+http:\/\/geek.csdn.net\/news\/detail\/73728
+\u77e5\u9053\u8fd920\u4e2a\u6b63\u5219\u8868\u8fbe\u5f0f\uff0c\u80fd\u8ba9\u4f60\u5c11\u51991,000\u884c\u4ee3\u7801
+http:\/\/geek.csdn.net\/news\/detail\/73658
+hdu\uff08\u676d\u7535oj\uff09\u7b2c\u4e00\u9875\u9898\u76ee\u9898\u89e3
+http:\/\/blog.csdn.net\/a601025382s\/article\/details\/38612635
+\u6700\u5168POJ\u9898\u89e3\u8d44\u6e90\uff0c\u4f60\u503c\u5f97\u6536\u85cf
+http:\/\/geek.csdn.net\/news\/detail\/68244
+\u6211\u773c\u4e2d\u7684KMP - \u5f00\u5fc3\u9633 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/shakespeare001\/article\/details\/51381251
+\u6c42n\u7684\u8d28\u56e0\u5b50\u7684\u4e2a\u6570
+http:\/\/blog.csdn.net\/hnust_xiehonghao\/article\/details\/9031779
+hdu 2571 \u547d\u8fd0 \u641c\u7d22\u597d\u9898 \u5f88\u591a\u4eba\u7528dp\u505a
+http:\/\/blog.csdn.net\/hnust_xiehonghao\/article\/details\/9044619
+hdu 1760 \u4e00\u9053\u641c\u7d22\u535a\u5f08\u9898 \u633a\u65b0\u9896\u7684\u9898\u76ee
+http:\/\/blog.csdn.net\/hnust_xiehonghao\/article\/details\/9354851
+ZOJ 1204 \u4e00\u4e2a\u96c6\u5408\u80fd\u7ec4\u6210\u591a\u5c11\u4e2a\u7b49\u5f0f
+http:\/\/blog.csdn.net\/hnust_xiehonghao\/article\/details\/9372047
+C\u8bed\u8a00\u77e5\u8bc6\u76f2\u70b9
+http:\/\/blog.csdn.net\/hnust_xiehonghao\/article\/details\/17335187
+HDU 1215\u4e03\u5915\u8282
+http:\/\/blog.csdn.net\/qq_24653023\/article\/details\/46758811
+ZOJ 1450 Girdland
+http:\/\/blog.csdn.net\/qq_24653023\/article\/details\/47950421
+UVA 1225 Digit Counting \u3010ACM\/ICPC Danang 2007\u3011
+http:\/\/blog.csdn.net\/qq_24653023\/article\/details\/47984903
+\u6709\u5173\u8f93\u51fa\u5bf9\u9f50\u683c\u5f0f
+http:\/\/blog.csdn.net\/qq_27276951\/article\/details\/44966511
+hdu1043 Eight\uff08A*\/\u53cc\u5411BFS\/\u5355\u9879BFS\u6253\u8868+\u5eb7\u6258\u5c55\u5f00\uff09 - Crazy_Bear - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/mengxingyuanlove\/article\/details\/49049777
+hdu1043 Eight\uff08A*\/\u53cc\u5411BFS\/\u5355\u9879BFS\u6253\u8868+\u5eb7\u6258\u5c55\u5f00\uff09 - Crazy_Bear - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/mengxingyuanlove\/article\/details\/49049777
+HDU\u676d\u7535acm\u9898\u76ee\u5206\u7c7b\u5927\u5168 - surfacedust\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/surfacedust\/article\/details\/6611154
+\u624b\u673a\u7684\u4e5d\u5bab\u683c\u56fe\u6848\u89e3\u9501\u603b\u5171\u80fd\u7ed8\u51fa\u591a\u5c11\u79cd\u56fe\u6848\uff1f\uff08hiho\u6a21\u62df\u9762\u8bd5\u98982 - google\u5728\u7ebf\u6280\u672f\u7b14\u8bd5\u6a21\u62df\uff09 - \u82cf\u82cf\u7231\u81ea\u7531 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/su20145104009\/article\/details\/51313928
+hdu2089 \u4e0d\u898162(\u6570\u4f4dDP) - \u82cf\u82cf\u7231\u81ea\u7531 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/su20145104009\/article\/details\/51361775
+poj1503 Integer Inquiry \uff08\u5927\u6570\u76f8\u52a0\uff09 - \u82cf\u82cf\u7231\u81ea\u7531 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/su20145104009\/article\/details\/51360764
+\u6570\u636e\u7ed3\u6784-\u6811\u72b6\u6570\u7ec4\u8bb2\u89e3
+http:\/\/blog.csdn.net\/u013077144\/article\/details\/51212155
+c++\u65e5\u5386v1.0\u7248\u672c - \u7801\u6d77\u5750\u6807 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/rememberautumn\/article\/details\/17877403
+\u6570\u4f4dDP \u9898\u96c6 - 671coder\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liuqiyao_01\/article\/details\/9109419
+ACM\u5b66\u4e60-POJ-1050-To the Max - Colin\u4e36 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/hitwhylz\/article\/details\/11848439
+\u535a\u5f08\u9898\u96c6 - 671coder\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liuqiyao_01\/article\/details\/8478723
+\u9ad8\u7ea7\u641c\u7d22\u9898\u96c6\uff08\u590f\u5929\u7684\u98ce\u5206\u7c7b\uff09 - 671coder\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/liuqiyao_01\/article\/details\/8786998
+\u5728\u7ebf\u5b66\u4e60\u7f51\u7ad9\u5927\u5168\uff08\u63a8\u8350\uff09
+http:\/\/geek.csdn.net\/news\/detail\/72622
+\u7cbe\u90099\u6b3e\u8ff7\u4eba\u7684HTML5 3D\u52a8\u753b\u6548\u679c\u53ca\u6e90\u7801
+http:\/\/geek.csdn.net\/news\/detail\/72672
+8\u4e2a\u70ab\u9177\u7684HTML5\u52a8\u753b\u3001\u5e94\u7528\u548c\u6e38\u620f
+http:\/\/geek.csdn.net\/news\/detail\/72613
+\u5982\u4f55\u6559\u4f1a\u975e\u8ba1\u7b97\u673a\u4e13\u4e1a\u7684\u5973\u53cb\u5199\u4ee3\u7801
+http:\/\/geek.csdn.net\/news\/detail\/71822
+\u8bb8\u5dcd\u5199\u6b4c\u6700\u559c\u6b22\u7528\u4ec0\u4e48\u8bcd\uff1f
+http:\/\/geek.csdn.net\/news\/detail\/71707
+Java \u6b63\u5219\u8868\u8fbe\u5f0f\u8be6\u89e3
+http:\/\/geek.csdn.net\/news\/detail\/71550
+hdu1249\u4e09\u89d2\u5f62
+http:\/\/blog.csdn.net\/wsn564533648\/article\/details\/50988415
+\u676d\u7535ACM 1297 Children\u2019s Queue
+http:\/\/blog.csdn.net\/xujinsmile\/article\/details\/7364307
+\u676d\u7535 1176 \u514d\u8d39\u9985\u997c \uff08\u6570\u5854\u95ee\u9898\uff09
+http:\/\/blog.csdn.net\/xujinsmile\/article\/details\/7842434
+hdu 1042 N\uff01
+http:\/\/blog.csdn.net\/xujinsmile\/article\/details\/7853521
+\u9ad8\u7cbe\u5ea6\u7b97\u6cd5
+http:\/\/blog.csdn.net\/xujinsmile\/article\/details\/7848680
+\u5173\u4e8ejava\u4e2dMath\u7684\u4e00\u4e9b\u7528\u6cd5
+http:\/\/blog.csdn.net\/xujinsmile\/article\/details\/7932788
+java\u4e2d\u7684BigInteger\u7c7b\u548cBigDecimal\u7c7b\u7684\u5e94\u7528
+http:\/\/blog.csdn.net\/xujinsmile\/article\/details\/7964354
+\u676d\u7535 2049
+http:\/\/blog.csdn.net\/qq_27276951\/article\/details\/49102245
+\u52a8\u6001\u89c4\u5212 \u6700\u957f\u516c\u5171\u5b50\u5e8f\u5217 \u6c42\u957f\u5ea6\u548c\u6700\u957f\u5b57\u7b26\u4e32
+http:\/\/blog.csdn.net\/qq_27276951\/article\/details\/51154696
+hdu 2063 \u8fc7\u5c71\u8f66 \u4e8c\u5206\u5339\u914d\uff08\u5308\u7259\u5229\u7b97\u6cd5\uff09
+http:\/\/blog.csdn.net\/qiqi_skystar\/article\/details\/49073383
+\u3010hdu5534\u3011\u30102015ACM\/ICPC\u4e9a\u6d32\u533a\u957f\u6625\u7ad9\u3011Partial Tree \u9898\u610f\uff06\u9898\u89e3\uff06\u4ee3\u7801
+http:\/\/blog.csdn.net\/deritt\/article\/details\/51209075
+\u6211\u7684\u7b2c\u4e00\u9053\u6570\u4f4ddp,hdu3555
+http:\/\/blog.csdn.net\/xingyeyongheng\/article\/details\/8773753
+HDU 1159 Common Subsequence
+http:\/\/blog.csdn.net\/a_eagle\/article\/details\/7213236
+10\u6b3e\u5f88\u9177\u7684HTML5\u52a8\u753b\u548c\u5b9e\u7528\u7684HTML5\u5e94\u7528
+http:\/\/geek.csdn.net\/news\/detail\/70086
+\u3010MFC\u3011\u624b\u628a\u624b\u6559\u4f60\u5982\u4f55\u5c06\u83b7\u53d6\u7684\u5b57\u7b26\u4e32\u8f6c\u6362\u4e3a\u6570\u7ec4 - \u6211\u5728\u7b49\u90a3\u4e48\u4e00\u5929\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/geek.csdn.net\/news\/detail\/70237
+\u7528 Python \u6253\u9020\u4f60\u7684 Eclipse
+http:\/\/geek.csdn.net\/news\/detail\/70220
+8\u6b3e\u8d85\u9177\u800c\u5b9e\u7528\u7684CSS3\u6309\u94ae\u52a8\u753b
+http:\/\/geek.csdn.net\/news\/detail\/70214
+\u3010C\u8bed\u8a00\u9762\u8bd5\u3011C\u8bed\u8a00\u6df1\u5ea6\u5256\u6790\u6574\u7406
+http:\/\/geek.csdn.net\/news\/detail\/69752
+\u6b63\u5219\u8868\u8fbe\u5f0f
+http:\/\/geek.csdn.net\/news\/detail\/69780
+C++\u5b9e\u73b0\u5220\u9664\u5355\u94fe\u8868\u8282\u70b9\u7684\u529f\u80fd\uff08\u6e90\u4ee3\u7801+\u622a\u56fe\uff09
+http:\/\/geek.csdn.net\/news\/detail\/69846
+\u7b97\u6cd5\u9898\u76ee--\u5982\u4f55\u65cb\u8f6c\u5b57\u7b26\u4e32
+http:\/\/geek.csdn.net\/news\/detail\/69910
+10\u4e2a\u60ca\u8273\u7684Ruby\u5355\u884c\u4ee3\u7801
+http:\/\/geek.csdn.net\/news\/detail\/69932
+\u676d\u75352602
+http:\/\/blog.csdn.net\/qq_27276951\/article\/details\/48034157
+\u53ef\u4ee5\u514d\u8d39\u81ea\u5b66\u7f16\u7a0b\u768412\u4e2a\u7f51\u7ad9
+http:\/\/geek.csdn.net\/news\/detail\/67609
+\u4e00\u8d77\u6765\u5543\u7280\u725b\u4e66\uff1a\u4f60\u61c2LOL\uff0c\u4e5f\u53ef\u4ee5\u61c2\u51fd\u6570
+http:\/\/geek.csdn.net\/news\/detail\/66730
+poj 1845 Sumdiv(\u6c42\u9006\u5143)
+http:\/\/blog.csdn.net\/liangzhaoyang1\/article\/details\/51104490
+\u8ff7\u4e4b\u516b\u7687\u540e\u95ee\u9898(\u56de\u6eaf\u6cd5)
+http:\/\/blog.csdn.net\/Kiritow\/article\/details\/50966921
+KMP\u7b97\u6cd5\u7684\u524d\u7f00next\u6570\u7ec4\u6700\u901a\u4fd7\u7684\u89e3\u91ca
+http:\/\/geek.csdn.net\/news\/detail\/66433
+\u7a0b\u5e8f\u5458\u5e94\u8be5\u77e5\u9053\u768410\u5927\u57fa\u7840\u7b97\u6cd5
+http:\/\/geek.csdn.net\/news\/detail\/66034
+JDK8\u4e2d\u6587\u6587\u6863\u2014\u2014ServerSocket
+http:\/\/geek.csdn.net\/news\/detail\/66035
+01\u80cc\u5305\u95ee\u9898
+http:\/\/blog.csdn.net\/reecefan\/article\/details\/51085929
+\u7ea6\u745f\u592b\u73af\u975e\u9012\u5f52\u7b97\u6cd5\u5206\u6790
+http:\/\/blog.csdn.net\/yinyuzw\/article\/details\/7957453
+C++ \u7ea6\u745f\u592b\u73af\u95ee\u9898
+http:\/\/blog.csdn.net\/u010781856\/article\/details\/46611451
+\u7ea6\u745f\u592b\u73af
+http:\/\/blog.csdn.net\/Bone_ACE\/article\/details\/41213215
+\u8da3\u5473\u7b97\u6cd5-\u7ea6\u745f\u592b\u73af
+http:\/\/blog.csdn.net\/wangzhiyu1980\/article\/details\/7089480
+C\/C++\u4e2d\u76f8\u5bf9\u8def\u5f84\u4e0e\u7edd\u5bf9\u8def\u5f84\u4ee5\u53ca\u659c\u6760\u4e0e\u53cd\u659c\u6760\u7684\u533a\u522b
+http:\/\/blog.csdn.net\/YhL_Leo\/article\/details\/49591019
+C\u8bed\u8a00\u7684\u4f18\u70b9\u548c\u7f3a\u70b9
+http:\/\/blog.csdn.net\/yangzhenping\/article\/details\/50586915
+\u6613\u88ab\u9057\u5fd8\u7684C\/C++\u8981\u70b9\u603b\u7ed3
+http:\/\/geek.csdn.net\/news\/detail\/65875
+\u521d\u5b66\u8005\u7684\u7f16\u7a0b\u81ea\u5b66\u6307\u5357
+http:\/\/geek.csdn.net\/news\/detail\/65880
+\u4e3a\u4ec0\u4e48\u8bf4\u201d\u4eba\u751f\u82e6\u77ed\uff0c\u6211\u7528python\u201c
+http:\/\/geek.csdn.net\/news\/detail\/65556
+\u7f51\u9875\u7248\u7684\u4e2d\u56fd\u8c61\u68cb\u6e38\u620f\uff0c\u53ef\u8054\u673a\uff0c\u6e90\u7801\u4e0b\u8f7d
+http:\/\/geek.csdn.net\/news\/detail\/65566
+[Java\u57fa\u7840\u6559\u7a0b]\u7b2c\u5341\u4e09\u7ae0-Java\u591a\u7ebf\u7a0b
+http:\/\/geek.csdn.net\/news\/detail\/65578
+Python]\u7f51\u7edc\u722c\u866b - pi9nc\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/pi9nc\/article\/details\/9734437
+\u52a8\u6001\u89c4\u5212\u664b\u7ea7\u2014\u2014HDU 3555 Bomb\u3010\u6570\u4f4dDP\u8be6\u89e3\u3011 - pi9nc\u7684\u4e13\u680f - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/pi9nc\/article\/details\/12491213
+\u5355\u7cbe\u5ea6\u6d6e\u70b9\u6570\u6309\u5b58\u50a8\u683c\u5f0f\u8f6c\u4e3a\u6574\u6570\u7684\u7a0b\u5e8f
+http:\/\/blog.csdn.net\/u013467442\/article\/details\/46316641
+C\u5b9e\u73b0\u5b57\u7b26\u6392\u5217
+http:\/\/blog.csdn.net\/hongbochen1223\/article\/details\/46437485
+C\u5b9e\u4f8b--\u5224\u65ad\u4e00\u4e2a\u5b57\u7b26\u4e32\u662f\u5426\u662f\u56de\u6587\u6570
+http:\/\/blog.csdn.net\/hongbochen1223\/article\/details\/46437939
+C\/C++\u8bed\u8a00\u4e2d\u5173\u4e8econst\u7528\u6cd5\u7684\u603b\u7ed3
+http:\/\/blog.csdn.net\/liyuefeilong\/article\/details\/48900121
+LeetCode 12 Integer to Roman\uff08\u6574\u578b\u6570\u5230\u7f57\u9a6c\u6570\uff09
+http:\/\/blog.csdn.net\/NoMasp\/article\/details\/49152451
+LeetCode 37 Sudoku Solver\uff08\u6c42\u89e3\u6570\u72ec\uff09\uff08*\uff09
+http:\/\/blog.csdn.net\/NoMasp\/article\/details\/50146715
+\u5173\u4e8e\u6c42N\u4e2a\u65e0\u5e8f\u6570\u4e2d\u7b2cK\u5927\u7684\u6570\u3002
+http:\/\/blog.csdn.net\/crcr\/article\/details\/51039576
+\u56fe\u8bba\u7b97\u6cd5\u5c0f\u7ed3
+http:\/\/blog.csdn.net\/o1101574955\/article\/details\/44223917
+Python\u4e0b\u8f7d\u5b9e\u65f6\u5730\u7403\u536b\u661f\u7167\u7247
+http:\/\/geek.csdn.net\/news\/detail\/65339
+C\u8bed\u8a00\u76842016
+http:\/\/geek.csdn.net\/news\/detail\/65347
+\u6392\u5e8f\u7b97\u6cd5\u603b\u7ed3
+http:\/\/geek.csdn.net\/news\/detail\/65245
+python\u8bfb\u5199word\u3001excel\u3001csv\u3001json\u6587\u4ef6
+http:\/\/blog.csdn.net\/pipisorry\/article\/details\/50368044
+\u8d2a\u5403\u86c7\u6e90\u7801\u5949\u732e
+http:\/\/blog.csdn.net\/u011233383\/article\/details\/42196457
+KMP\u7b97\u6cd5\u8be6\u89e3
+http:\/\/geek.csdn.net\/news\/detail\/65164
+\u5982\u4f55\u8ba9CodeBlocks\u652f\u6301C99
+http:\/\/blog.csdn.net\/xingjiarong\/article\/details\/47080303
+\u55b7\u6c34\u88c5\u7f6e\u95ee\u9898\uff08\u4e00\uff09
+http:\/\/blog.csdn.net\/hongbochen1223\/article\/details\/48395151
+LeetCode 258 Add Digits\uff08\u6570\u5b57\u76f8\u52a0\uff0c\u6570\u5b57\u6839\uff09
+http:\/\/blog.csdn.net\/NoMasp\/article\/details\/50392541
+hdu 1257 \u6700\u5c11\u62e6\u622a\u7cfb\u7edf \u8d2a\u5fc3
+http:\/\/blog.csdn.net\/zchahaha\/article\/details\/50929447
+\u5f88\u7279\u522b\u7684\u4e00\u4e2a\u52a8\u6001\u89c4\u5212\u5165\u95e8\u6559\u7a0b
+http:\/\/blog.csdn.net\/lishuzhai\/article\/details\/50496314
+2016\u5e74\u7b2c\u4e03\u5c4a\u84dd\u6865\u676f\u7701\u8d5b(C\/C++ A\u7ec4)
+http:\/\/blog.csdn.net\/lishuzhai\/article\/details\/50940017
+Java 7\u4e4b\u57fa\u7840 - \u5f3a\u5f15\u7528\u3001\u5f31\u5f15\u7528\u3001\u8f6f\u5f15\u7528\u3001\u865a\u5f15\u7528
+http:\/\/blog.csdn.net\/rongwenbin\/article\/details\/50998116
+july\u7b97\u6cd5\u8bfe\u7b14\u8bb0
+http:\/\/blog.csdn.net\/xuxiuning\/article\/details\/50994034
+\u51e0\u9053C\u7b14\u8bd5\u9898
+http:\/\/blog.csdn.net\/u010147215\/article\/details\/50998489
+\u9738\u6c14\u7684HTML5 7\u6b3e\u65e0Flash HTML5\u52a8\u753b\u7279\u6548
+http:\/\/geek.csdn.net\/news\/detail\/63829
+\u6709\u6ca1\u6709\u4e00\u6bb5\u4ee3\u7801\uff0c\u8ba9\u4f60\u89c9\u5f97\u4eba\u7c7b\u7684\u667a\u6167\u4e5f\u53ef\u4ee5\u7480\u74a8\u65e0\u6bd4\uff1f
+http:\/\/geek.csdn.net\/news\/detail\/63839
+\u56de\u6eaf\u7b97\u6cd5\uff08BackTracking\uff09--\u516b\u7687\u540e\u95ee\u9898
+http:\/\/blog.csdn.net\/changyuanchn\/article\/details\/17354461
+N\u7687\u540e\u95ee\u9898
+http:\/\/geek.csdn.net\/news\/detail\/62193
+\u84dd\u6865\u676f \u6253\u5370\u5341\u5b57\u56fe
+http:\/\/blog.csdn.net\/NoMasp\/article\/details\/50868215
+\u4e5f\u6765\u8bf4\u4e00\u4e0b\u516b\u7687\u540e\u95ee\u9898
+http:\/\/blog.csdn.net\/zhouzxi\/article\/details\/24028295
+\u6211\u8bfb\u7ecf\u5178(2)\uff1a\u300aC\u9677\u9631\u4e0e\u7f3a\u9677\u300b\u5b66\u4e60\u7b14\u8bb0
+http:\/\/blog.csdn.net\/zhouzxi\/article\/details\/18814475
+\u4e2d\u56fd\u8c61\u68cbV2\uff1aJava\u6e90\u4ee3\u7801\u3001\u6bd5\u4e1a\u8bbe\u8ba1\u7b49\u6240\u6709\u6587\u6863\uff0c\u5df2\u7ecf\u5168\u90e8\u63d0\u4ea4\u5230CSDN-Code\u5e73\u53f0
+http:\/\/blog.csdn.net\/FansUnion\/article\/details\/43159053
+\u4e8c\u5206\u67e5\u627e\u7684\u4e24\u79cd\u5199\u6cd5
+http:\/\/blog.csdn.net\/u011225629\/article\/details\/48109653
+\u4e00\u4ebf\u4ee5\u5185\u7684\u56de\u6587\u7d20\u6570
+http:\/\/blog.csdn.net\/u011225629\/article\/details\/48109673
+\u7ecf\u5178\u7b97\u6cd5\u9762\u8bd5\u9898(-)
+http:\/\/blog.csdn.net\/star535X\/article\/details\/50936919
+A* \u5bfb\u8def\u7b97\u6cd5
+http:\/\/blog.csdn.net\/qq100440110\/article\/details\/50985529
+python \u6a21\u62df\u767b\u9646leetcode
+http:\/\/geek.csdn.net\/news\/detail\/63665
+Qt\u6846\u67b6\u5b9e\u73b0
+http:\/\/geek.csdn.net\/news\/detail\/63646
+Python\u722c\u866b\u5b66\u4e60\u7cfb\u5217\u6559\u7a0b
+http:\/\/geek.csdn.net\/news\/detail\/63348
+\u3010Python\u5199\u7684\u94fe\u5bb6\u722c\u866b \u4ee3\u7801+\u6570\u636e\u3011
+http:\/\/geek.csdn.net\/news\/detail\/62916
+Python \u77e5\u4e4b\u6df1\u6d45
+http:\/\/geek.csdn.net\/news\/detail\/62936
+\u300apython\u722c\u866b\u5b9e\u6218\u300b\uff1a\u6a21\u62df\u767b\u9646
+http:\/\/blog.csdn.net\/u010412719\/article\/details\/50278363
+6.3 cmath--\u6570\u5b66\u51fd\u6570
+http:\/\/blog.csdn.net\/caimouse\/article\/details\/50707304
+\u4e94\u5b50\u68cbAI\u56fe\u5f62\u754c\u9762\u4eba\u673a\u5bf9\u6218(JAVA\u5b9e\u73b0)
+http:\/\/geek.csdn.net\/news\/detail\/62126
+Python\u722c\u866b\u2014\u2014\u722c\u53d6\u7f51\u7ad9\u7684\u56fe\u7247
+http:\/\/blog.csdn.net\/iaiti\/article\/details\/49912815
+python\u722c\u866b\u2014\u2014\u722c\u53d6\u77e5\u4e4e\u4e0a\u81ea\u5df1\u5173\u6ce8\u7684\u95ee\u9898
+http:\/\/blog.csdn.net\/iaiti\/article\/details\/49949823
+Python3 \u5b9a\u65f6\u8bbf\u95ee\u7f51\u9875
+http:\/\/blog.csdn.net\/YhL_Leo\/article\/details\/50358695
+\u4f7f\u7528python\u722c\u53d6csdn\u535a\u5ba2\u8bbf\u95ee\u91cf
+http:\/\/blog.csdn.net\/xingjiarong\/article\/details\/50659381
+[\u539f\u521b]javascript\u4eba\u673a\u535a\u5f08--\u9ed1\u767d\u68cb
+http:\/\/bbs.csdn.net\/topics\/391064877
+\u7f16\u7a0b\uff1a\u662f\u4e00\u95e8\u827a\u672f
+http:\/\/geek.csdn.net\/news\/detail\/60682
+ACM \u6a21\u677f\u5217\u8868
+http:\/\/blog.csdn.net\/abcjennifer\/article\/details\/5468349
+Musical Chairs\uff08\u7ea6\u745f\u592b\u95ee\u9898\u9ad8\u6548\u7b97\u6cd5\uff09
+http:\/\/blog.csdn.net\/abcjennifer\/article\/details\/5452563
+Fire Net \u641c\u7d22 \u8d2a\u5fc3
+http:\/\/blog.csdn.net\/abcjennifer\/article\/details\/5726541
+\u641c\u7d22 dfs
+http:\/\/blog.csdn.net\/abcjennifer\/article\/details\/5737281
+\u5feb\u901f\u6392\u5e8f | \u6807\u54e5\u7684\u6280\u672f\u535a\u5ba2
+http:\/\/geek.csdn.net\/news\/detail\/60510
+IT\u5b66\u751f\u89e3\u60d1\u771f\u7ecf(\u8ba1\u7b97\u673a\u4e13\u4e1a\u5b66\u751f\u5fc5\u770b\u7684)
+http:\/\/blog.csdn.net\/zxiaopp\/article\/details\/48031971
+POJ 3276 \u53cd\u8f6c\u5f00\u706f\u95ee\u9898 \u6bcf\u6b21\u9009\u53d6\u8fde\u7eedk\u4e2a\u53cd\u8f6c\u65b9\u5411 \u95ee\u591a\u5c11\u6b21\u65b9\u5411\u76f8\u540c
+http:\/\/blog.csdn.net\/hnust_xiehonghao\/article\/details\/9409595
+\u6307\u9488\u5e38\u91cf\u4e0e\u5e38\u91cf\u6307\u9488
+http:\/\/blog.csdn.net\/hnust_xiehonghao\/article\/details\/17631497
+c++ \u7b14\u8bd5\u9762\u8bd5\u9898 \u96be\u9898\u7cbe\u9009 \u6301\u7eed\u66f4\u65b0
+http:\/\/blog.csdn.net\/hnust_xiehonghao\/article\/details\/23037401
+c\u8bed\u8a00\u9762\u8bd5\u9898 \u6307\u948830\u4e2a\u5e38\u9519\u9898\u578b
+http:\/\/blog.csdn.net\/hnust_xiehonghao\/article\/details\/17638297
+java\u5c0f\u6e38\u620f\u7b2c\u4e8c\u5f39 \u6253\u5730\u9f20
+http:\/\/blog.csdn.net\/jrdgogo\/article\/details\/50780146
+java\u5c0f\u6e38\u620f\u7b2c\u4e09\u5f39 \u8d2a\u5403\u86c7
+http:\/\/blog.csdn.net\/jrdgogo\/article\/details\/50780549
+java\u5c0f\u6e38\u620f\u7b2c\u56db\u5f39 \u4e94\u5b50\u68cb
+http:\/\/blog.csdn.net\/jrdgogo\/article\/details\/50780814
+java\u5c0f\u6e38\u620f\u7b2c\u4e00\u5f39 \u7b80\u6613\u4fc4\u7f57\u65af
+http:\/\/blog.csdn.net\/jrdgogo\/article\/details\/50779896
+Acm\u7ade\u8d5b
+http:\/\/blog.csdn.net\/column\/details\/susu-acm.html
+CSDN\u4e0b\u8f7d\u9891\u90531\u6708\u6700\u53d7\u6b22\u8fce\u8d44\u6e90\u5f3a\u529b\u63a8\u8350~\uff01 - CSDN \u5b98\u65b9\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/blog.csdn.net\/blogdevteam\/article\/details\/7231983
+[ACM] hdu 2544 \u6700\u77ed\u8def(dijkstra\u7b97\u6cd5\uff09
+http:\/\/blog.csdn.net\/sr19930829\/article\/details\/20207949
+\u676d\u7535ACM1045\u2014\u2014Fire Net~~\u6df1\u5ea6\u4f18\u5148\u641c\u7d22
+http:\/\/blog.csdn.net\/qq_25425023\/article\/details\/46926965
+ACM\u8bad\u7ec3\u5927\u7eb2\uff08csust\uff09
+http:\/\/blog.csdn.net\/zhang_xueping\/article\/details\/48005361
+javascript\u4e4b\u6b63\u5219\u8868\u8fbe\u5f0f\u603b\u7ed3
+http:\/\/geek.csdn.net\/news\/detail\/59437
+Python\u722c\u866bCsdn\u7cfb\u5217II
+http:\/\/blog.csdn.net\/whiterbear\/article\/details\/44981231
+Python\u722c\u866bCsdn\u7cfb\u5217III
+http:\/\/blog.csdn.net\/whiterbear\/article\/details\/44996073
+Python\u722c\u866bCsdn\u7cfb\u5217I
+http:\/\/blog.csdn.net\/whiterbear\/article\/details\/44964041
+HTML\u7f51\u9875\u4e4b\u8ba1\u7b97\u5668\u4ee3\u7801
+http:\/\/geek.csdn.net\/news\/detail\/59373
+\u5728Eclipse\u4e0a\u914d\u7f6ePython\u5f00\u53d1\u73af\u5883
+http:\/\/geek.csdn.net\/news\/detail\/59219
+\u5b9e\u73b0html\u64ad\u653eppt\u7684\u70ab\u9177\u6548\u679c
+http:\/\/geek.csdn.net\/news\/detail\/59306
+50\u4e2a\u7a0b\u5e8f\u733f\u7b11\u8bdd\uff0c\u5171\u52c9\uff01\uff01\uff01
+http:\/\/geek.csdn.net\/news\/detail\/59351
+\u5e38\u7528\u6b63\u5219\u8868\u8fbe\u5f0f\u901f\u67e5\u8868
+http:\/\/geek.csdn.net\/news\/detail\/59026
+\u8fd916\u79cd\u7f16\u7a0b\u8bed\u8a00\u5b66\u4f1a\u4efb\u4f55\u4e00\u79cd \u518d\u4e0d\u6101\u627e\u5de5\u4f5c\uff08\u817e\u8baf\u7f51\uff09
+http:\/\/geek.csdn.net\/news\/detail\/58841
+Java\u754c5\u7bc7\u6709\u610f\u601d\u7684\u8bba\u6587(\u6536\u85cf\u7740\u6162\u6162\u5543\uff09
+http:\/\/geek.csdn.net\/news\/detail\/58897
+\u7528 Python \u628a\u7535\u8111\u53d8\u94a2\u7434
+http:\/\/geek.csdn.net\/news\/detail\/58904
+\u7528Python\u5199\u4e00\u4e2a\u7b80\u5355\u7684\u5fae\u535a\u722c\u866b
+http:\/\/geek.csdn.net\/news\/detail\/58917
+\u7528Python\u5199\u4e00\u4e2a\u7b80\u5355\u7684\u5fae\u535a\u722c\u866b
+http:\/\/geek.csdn.net\/news\/detail\/58921
+JavaScript\u5168\u8bb2-\u5b9e\u6218\u6280\u5de7
+http:\/\/geek.csdn.net\/news\/detail\/58923
+\u51c6\u5907\u84dd\u6865\u676f\u6bd4\u8d5b \u2014 \u83dc\u9e1f\u7684\u798f\u5229\uff0c\u6bcf\u5929\u66f4\u65b0\uff0c\u4e00\u8d77\u51c6\u5907\u84dd\u6865\u676f\u6bd4\u8d5b\u5427
+http:\/\/geek.csdn.net\/news\/detail\/58629
+NOJ [1353] Circles And Lines \u6c42\u5706\u4e0e\u7ebf\u7684\u5173\u7cfb
+http:\/\/blog.csdn.net\/hnust_xiehonghao\/article\/details\/8871208
+hdu 2554 \u6bcf\u4e2a\u6570\u5b57\u67092\u4e2a \u76f8\u540c\u6570\u5b57k\u4e4b\u95f4\u6709k\u4e2a\u6570 \u95ee\u8fd9\u6837\u7684\u6392\u5217\u662f\u5426\u5b58\u5728 \u6570\u8bba\uff01\uff01\uff01
+http:\/\/blog.csdn.net\/hnust_xiehonghao\/article\/details\/8991396
+hdu 2576 \u6570\u8bba\u597d\u9898 \u6c42\u524dn\u9879\u548c\u7684\u524dn\u9879\u548c
+http:\/\/blog.csdn.net\/hnust_xiehonghao\/article\/details\/9020349
+hdu1215 \u4e03\u5915\u8282 \u4e00\u9053\u9898\u76ee\u7684\u89e3\u9898\u5168\u8fc7\u7a0b \u7ed9\u6211\u4e0d\u5c11\u542f\u53d1 \u6c42n\u7684\u56e0\u5b50\u4e4b\u548c
+http:\/\/blog.csdn.net\/hnust_xiehonghao\/article\/details\/8008871
+\u6bcf\u4e2a\u7a0b\u5e8f\u5458\u5e94\u8be5\u9605\u8bfb\u768410\u672c\u7ecf\u5178\u4e66\u7c4d
+http:\/\/geek.csdn.net\/news\/detail\/58170
+Python \u96f6\u57fa\u7840\u5165\u95e8\u8d44\u6599\u6574\u7406
+http:\/\/geek.csdn.net\/news\/detail\/30781
+python3\u722c\u866b\u4e4b\u5165\u95e8\u548c\u6b63\u5219\u8868\u8fbe\u5f0f
+http:\/\/geek.csdn.net\/news\/detail\/44434
+\u9ad8\u7ea7\u6b63\u5219\u8868\u8fbe\u5f0f\u6280\u672f\uff08Python\u7248\uff09
+http:\/\/geek.csdn.net\/news\/detail\/40048
+Python \u521d\u5b66\u8005\u7684\u6700\u4f73\u5b66\u4e60\u8d44\u6e90
+http:\/\/geek.csdn.net\/news\/detail\/41008
+Python\u5b66\u4e60\u8d44\u6599\u4e0e\u535a\u5ba2\u63a8\u8350
+http:\/\/geek.csdn.net\/news\/detail\/39513
+python3\u722c\u866b\u4e4b\u5165\u95e8\u548c\u6b63\u5219\u8868\u8fbe\u5f0f
+http:\/\/geek.csdn.net\/news\/detail\/40961
+\u798f\u5229\uff1a\u300a\u7b28\u529e\u6cd5\u5b66Python\u300b\u7535\u5b50\u4e66\u53ca\u914d\u5957\u89c6\u9891
+http:\/\/geek.csdn.net\/news\/detail\/43667
+\u53ef\u4ee5\u7528 Python \u7f16\u7a0b\u8bed\u8a00\u505a\u54ea\u4e9b\u795e\u5947\u597d\u73a9\u7684\u4e8b\u60c5\uff1f
+http:\/\/geek.csdn.net\/news\/detail\/46535
+\u8bb2\u70b9python\u57fa\u7840\u77e5\u8bc6
+http:\/\/geek.csdn.net\/news\/detail\/41967
+Emacs\uff1a\u6700\u597d\u7684Python\u7f16\u8f91\u5668\uff1f
+http:\/\/geek.csdn.net\/news\/detail\/46643
+\u7f16\u7a0b\u4e66\u5355\uff1a\u5341\u672cPython\u7f16\u7a0b\u8bed\u8a00\u7684\u5165\u95e8\u4e66\u7c4d
+http:\/\/geek.csdn.net\/news\/detail\/48756
+\u5982\u4f55\u7cfb\u7edf\u5730\u81ea\u5b66\u4e00\u95e8Python \u8bed\u8a00
+http:\/\/geek.csdn.net\/news\/detail\/49454
+\u53f2\u4e0a\u6700\u5168Python\u6570\u636e\u5206\u6790\u5b66\u4e60\u8def\u5f84\u56fe
+http:\/\/geek.csdn.net\/news\/detail\/55781
+Python\u521d\u5b66\u8005\u4e66\u7c4d\u3001\u89c6\u9891\u3001\u8d44\u6599\u3001\u793e\u533a\u63a8\u8350
+http:\/\/geek.csdn.net\/news\/detail\/57926
+[Python]\u7f51\u7edc\u722c\u866b\uff08\u516b\uff09\uff1a\u7cd7\u4e8b\u767e\u79d1\u7684\u7f51\u7edc\u722c\u866b\uff08v0.3\uff09\u6e90\u7801\u53ca\u89e3\u6790(\u7b80\u5316\u66f4\u65b0)
+http:\/\/blog.csdn.net\/pleasecallmewhy\/article\/details\/8932310
+C \u5b66\u4e60\u4e4b\u6a21\u677f\u7bc7\uff08\u7c7b\u6a21\u677f\uff09
+http:\/\/geek.csdn.net\/news\/detail\/57893
+\u4e16\u754c\u4e0a\u6700\u77ed\u7684\u65f6\u949f\u4ee3\u7801\uff01\u66f4\u77ed\u7684\uff0c\u6709\u6728\u6709\uff1f
+http:\/\/geek.csdn.net\/news\/detail\/57312
+C\u8bed\u8a00\u7ed3\u6784\u4f53\u4e2d\u5b9a\u4e49\u51fd\u6570\u6307\u9488\u8be6\u89e3
+http:\/\/geek.csdn.net\/news\/detail\/57311
+\u6570\u5b66\u7f8e \u4e4b \u5224\u65ad\u7ebf\u6bb5\u76f8\u4ea4\u7684\u6700\u7b80\u65b9\u6cd5
+http:\/\/geek.csdn.net\/news\/detail\/57159
+\u6bcf\u4e2a\u7a0b\u5e8f\u5458\u7684\u7f16\u7a0b\u4e4b\u8def\u4e0a\u90fd\u5e94\u8be5\u770b\u8fd911\u672c\u4e66
+http:\/\/geek.csdn.net\/news\/detail\/56819
+\u8ba1\u7b97\u6587\u672c\u76f8\u4f3c\u5ea6
+http:\/\/geek.csdn.net\/news\/detail\/56828
+Python \u521d\u5b66\u8005\u7684\u6700\u4f73\u5b66\u4e60\u8d44\u6e90
+http:\/\/geek.csdn.net\/news\/detail\/56830
+\u7528Python\u722c\u866b\u722c\u53d6\u8c46\u74e3\u7535\u5f71\u3001\u8bfb\u4e66Top250\u5e76\u6392\u5e8f
+http:\/\/geek.csdn.net\/news\/detail\/56667
+\u5410\u69fd\u90a3\u4e9b\u7a0b\u5e8f\u5458\u7684\u641e\u7b11\u725b\u903c\u6ce8\u91ca
+http:\/\/geek.csdn.net\/news\/detail\/56686
+\u3010\u540c\u884c\u8bf4\u6280\u672f\u3011Python\u7a0b\u5e8f\u5458\u5c0f\u767d\u53d8\u5927\u795e\u5fc5\u8bfb\u8d44\u6599\u6c47\u603b\uff08\u4e09\uff09
+http:\/\/geek.csdn.net\/news\/detail\/53849
+\u4f7f\u7528 Python \u5199\u4e2a\u5c0f\u76d1\u63a7
+http:\/\/geek.csdn.net\/news\/detail\/53479
+BestCoder Round #71 (div.2)
+http:\/\/geek.csdn.net\/news\/detail\/56498
+25\u4e2a iOS \u9762\u8bd5\u9898\u6574\u7406\uff08\u5e26\u7b54\u6848\uff09
+http:\/\/geek.csdn.net\/news\/detail\/56534
+Java\u9ad8\u7ea7\u8f6f\u4ef6\u5de5\u7a0b\u5e08\u9762\u8bd5\u8003\u7eb2
+http:\/\/geek.csdn.net\/news\/detail\/56554
+\u4e00\u4e9b\u6709\u5173\u51e0\u4f55\u7684\u65e0\u9650\u5faa\u73af\u7edd\u7f8e\u56fe
+http:\/\/geek.csdn.net\/news\/detail\/56567
+\u3010C\u8bed\u8a00\u3011\u6587\u4ef6\u5e38\u7528\u8bfb\u5199\u64cd\u4f5c\uff08\u542b\u8bfb\u53d6\u5b66\u751f\u4fe1\u606f\u793a\u4f8b\uff09 - \u6211\u5728\u7b49\u90a3\u4e48\u4e00\u5929\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/geek.csdn.net\/news\/detail\/56603
+\u77e5\u4e4e\u83b7\u53d6\u4e94\u5343\u8d5e\u7684\u8bc4\u8bba
+http:\/\/geek.csdn.net\/news\/detail\/56372
+5\u4e2a\u6570\u7ec4Array\u65b9\u6cd5: indexOf\u3001filter\u3001forEach\u3001map\u3001reduce\u4f7f\u7528\u5b9e\u4f8b
+http:\/\/geek.csdn.net\/news\/detail\/56407
+\u7ed9\u4f60\u70b9\u513f\u201c\u989c\u8272\u201d\u77a7\u77a7 | RGB\u901a\u8bc6
+http:\/\/geek.csdn.net\/news\/detail\/56304
+BestCoder Round #71 (div.2)
+http:\/\/geek.csdn.net\/news\/detail\/56322
+Python\u722c\u866b\u6293\u53d6csdn\u535a\u5ba2
+http:\/\/blog.csdn.net\/XTZZ92\/article\/details\/39432965
+\u6536\u96c6\u6574\u7406\u7684\u4e00\u4e9b\u9ed1\u5ba2\u6e38\u620f\u7684\u7f51\u5740
+http:\/\/geek.csdn.net\/news\/detail\/55803
+Java 8 \u7b80\u660e\u6559\u7a0b
+http:\/\/geek.csdn.net\/news\/detail\/55816
+\u90a3\u4e9b\u5e74\uff0c\u6211\u8ffd\u8fc7\u7684\u8bed\u8a00
+http:\/\/geek.csdn.net\/news\/detail\/55824
+\u53f2\u4e0a\u6700\u5168Python\u6570\u636e\u5206\u6790\u5b66\u4e60\u8def\u5f84\u56fe
+http:\/\/geek.csdn.net\/news\/detail\/55842
+iOS\u4e2d\u7ea7\u9762\u8bd5\u9898\u4e8c
+http:\/\/geek.csdn.net\/news\/detail\/55844
+\u7814\u7a76\u751f\u5e38\u7528\u5341\u4e94\u4e2a\u8f83\u5168\u7684\u5b66\u672f\u641c\u7d22\u5f15\u64ce
+http:\/\/geek.csdn.net\/news\/detail\/55853
+\u521d\u63a212306\u552e\u7968\u7b97\u6cd5
+http:\/\/geek.csdn.net\/news\/detail\/55683
+\u4f7f\u7528python\u722c\u53d6csdn\u535a\u5ba2\u8bbf\u95ee\u91cf
+http:\/\/geek.csdn.net\/news\/detail\/55387
+ACM\u9898\u5e93\u5b8c\u6574\u7248
+http:\/\/download.csdn.net\/detail\/guiguziaoi\/4781594
+ACM\u8bd5\u9898\u96c6 \u7ecf\u5178\u8bd5\u9898\u96c6
+http:\/\/download.csdn.net\/detail\/gen_mg\/4672079
+\u7528Python\u7ed8\u5236\u97f3\u4e50\u56fe\u8c31
+http:\/\/geek.csdn.net\/news\/detail\/29689
+\u6559\u5973\u670b\u53cb\u5199Python\u722c\u866b
+http:\/\/geek.csdn.net\/news\/detail\/45884
+Python\u8da3\u5473\u7f16\u7a0b\uff1a\u5b9a\u65f6\u7ed9Ta\u8bb2\u7b11\u8bdd
+http:\/\/geek.csdn.net\/news\/detail\/54024
+\u4f7f\u7528python\u722c\u53d6csdn\u535a\u5ba2\u8bbf\u95ee\u91cf
+http:\/\/geek.csdn.net\/news\/detail\/55340
+HDU2072
+http:\/\/blog.csdn.net\/Lulipeng_cpp\/article\/details\/7269836
+C \u8bed\u8a00\u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248
+http:\/\/geek.csdn.net\/news\/detail\/55303
+
+http:\/\/geek.csdn.net\/news\/detail\/55238
+
+
+python\u52a8\u6001\u7f51\u9875\u722c\u53d6\u2014\u2014\u56db\u516d\u7ea7\u6210\u7ee9\u722c\u53d6
+http:\/\/geek.csdn.net\/news\/detail\/55266
+\u4ece\u4e00\u9053\u9898\u8c08\u4eba\u5de5\u667a\u80fd\u54f2\u5b66
+http:\/\/geek.csdn.net\/news\/detail\/55014
+\u8ddf\u6211\u5b66\u6c47\u7f16\uff08\u4e09\uff09\u5bc4\u5b58\u5668\u548c\u7269\u7406\u5730\u5740\u7684\u5f62\u6210
+http:\/\/geek.csdn.net\/news\/detail\/55046
+Java\u7ecf\u5178\u7528\u6cd5\u603b\u7ed3
+http:\/\/geek.csdn.net\/news\/detail\/54796
+\u9ed1\u9a6c\u7a0b\u5e8f\u5458--02.Java\u8bed\u8a00\u57fa\u7840--01.\u3010\u5173\u952e\u5b57\u3011\u3010\u6807\u793a\u7b26\u3011\u3010\u5e38\u91cf\u3011\u3010\u53d8\u91cf\u3011\u3010\u8fd0\u7b97\u7b26\u3011
+http:\/\/blog.csdn.net\/u011406124\/article\/details\/9343833
+\u6b63\u5219\u8868\u8fbe\u5f0f\u5c0f\u7ed3
+http:\/\/geek.csdn.net\/news\/detail\/51471
+\u989c\u8272\u76f4\u65b9\u56fe\u5339\u914d\uff08\u4e00\uff09
+http:\/\/geek.csdn.net\/news\/detail\/51467
+9\u4e2a\u7eda\u4e3d\u591a\u5f69\u7684HTML5\u8fdb\u5ea6\u6761\u52a8\u753b\u8d4f\u6790
+http:\/\/geek.csdn.net\/news\/detail\/51445
+\u7ed9jdk\u5199\u6ce8\u91ca\u7cfb\u5217\u4e4bjdk1.6\u5bb9\u5668(1)-ArrayList\u6e90\u7801\u89e3\u6790
+http:\/\/geek.csdn.net\/news\/detail\/51399
+Java I\/O
+http:\/\/geek.csdn.net\/news\/detail\/51323
+\uff3bJava\u57fa\u7840\uff3d\u725b\u5ba2\u7f51\u5b66\u4e60\u4e4bJava\u57fa\u7840\u7bc7 - \u9676\u7a0b\u7684\u535a\u5ba2 - \u535a\u5ba2\u9891\u9053 - CSDN.NET
+http:\/\/geek.csdn.net\/news\/detail\/51200
+\u539f\u7801, \u53cd\u7801, \u8865\u7801 \u8be6\u89e3
+http:\/\/geek.csdn.net\/news\/detail\/51246
+UVA\u9898\u89e3
+http:\/\/blog.csdn.net\/column\/details\/uva-ac.html?page=1
+QQ\u62a2\u7ea2\u5305\u63d2\u4ef6\u5b9e\u73b0 - \u7b80\u4e66
+http:\/\/geek.csdn.net\/news\/detail\/50689
+\u4e00\u9053\u9762\u8bd5\u9898 \u670920\u4e2a\u6570\u7ec4\uff0c\u6bcf\u4e2a\u6709500\u4e2a\u5143\u7d20\uff0c\u5347\u5e8f\u6392\u5217\uff0c\u627e\u51fa\u524d500\u7684\u6570
+http:\/\/blog.csdn.net\/never_cxb\/article\/details\/50210317
+HDU 5538.House Building\u3010\u6c42\u8868\u9762\u79ef\u3011\u30102015ACM\/ICPC\u4e9a\u6d32\u533a\u957f\u6625\u7ad9\u3011\u301012\u670830\u3011
+http:\/\/geek.csdn.net\/news\/detail\/50262
+HDU 1086.You can Solve a Geometry Problem too\u3010\u5224\u65ad\u4e24\u7ebf\u6bb5\u76f8\u4ea4\u3011\u3010\u6570\u5b66\u9898\u3011\u301012\u670830\u3011
+http:\/\/geek.csdn.net\/news\/detail\/50261
+opencv\u5904\u7406\u900f\u660e\u56fe\u7247
+http:\/\/geek.csdn.net\/news\/detail\/49780
+\u8fd9\u624d\u662f\u771f\u6b63\u7684\u9ed1\u5ba2\uff1aGithub\u6536\u83b712200+Stars\uff0c\u4eba\u6c14\u8fdc\u8d85\u5fae\u8f6f\u5f00\u6e90Visual Studio
+http:\/\/geek.csdn.net\/news\/detail\/49872
+
+http:\/\/geek.csdn.net\/news\/detail\/49889
+
+
+\u8bc1\u660e\u5229\u7528\u5feb\u6162\u6307\u9488\u5bfb\u627e\u6709\u73af\u5355\u94fe\u8868\u4e2d\u73af\u7684\u8d77\u70b9\u7b97\u6cd5
+http:\/\/geek.csdn.net\/news\/detail\/49945
+JAVA\u7f51\u7edc\u7f16\u7a0b\u4e4b\u83b7\u53d6\u7f51\u7edc\u8d44\u6e90
+http:\/\/geek.csdn.net\/news\/detail\/49538
+java\u4e2d\u7684\u65e5\u671f\u5904\u7406\u603b\u7ed3
+http:\/\/geek.csdn.net\/news\/detail\/49725
+\u6c49\u5b57\u5360\u591a\u4e2a\u5b57\u8282\uff0c\u82e5\u6309\u6307\u5b9a\u5b57\u8282\u957f\u5ea6\u622a\u53d6\u5b57\u7b26\u4e32\uff0c\u5982\u4f55\u5904\u74061\/3\u4e2a\u6c49\u5b57\uff1f
+http:\/\/geek.csdn.net\/news\/detail\/49740
+
+
+\u6df1\u5ea6\u4f18\u5148\u641c\u7d22 \u5e7f\u5ea6\u4f18\u5148\u641c\u7d22\u7c7b\u8bad\u7ec3\u9898
+
+Cocos2d-x \u5730\u56fe\u884c\u8d70\u7684\u5b9e\u73b01\uff1a\u56fe\u8bba\u4e0eDijkstra\u7b97\u6cd5
+http:\/\/blog.csdn.net\/stevenkylelee\/article\/details\/38408253
+\u9a6c\u8e0f\u4e2d\u56fd\u8c61\u68cb\u68cb\u76d8\u7684\u8d2a\u5fc3\u7b97\u6cd5
+http:\/\/blog.csdn.net\/bravetmac\/article\/details\/4307683
+Java8\u6240\u6709\u7684\u5305\u4ecb\u7ecd\uff08\u7531\u82f1\u6587\u6587\u6863\u7ffb\u8bd1\u800c\u6765\uff09
+http:\/\/geek.csdn.net\/news\/detail\/48834
+Java\u521b\u5efa\u6587\u4ef6\u5e76\u5199\u5165\u5b57\u7b26\u4e32
+http:\/\/geek.csdn.net\/news\/detail\/48995
+\u6700\u5927\u516c\u7ea6\u6570\u7684\u51e0\u79cd\u5199\u6cd5
+http:\/\/blog.csdn.net\/wangyaninglm\/article\/details\/40514677
+Dijkstra\u7b97\u6cd5 c\u8bed\u8a00\u5b9e\u73b0
+http:\/\/blog.csdn.net\/wangyaninglm\/article\/details\/40685357
+\u4eac\u4e1c2015\u5728\u7ebf\u7b14\u8bd5----\u7f16\u7a0b\u9898--\u5206\u82f9\u679c
+http:\/\/blog.csdn.net\/wangyaninglm\/article\/details\/49330293
+HDU 1099.Lottery\u3010\u6570\u5b66\u9898\uff0c\u6c42\u671f\u671b\u3011\u301012\u670831\u3011
+http:\/\/geek.csdn.net\/news\/detail\/49158
+Java \u751f\u6210PDF\u65b9\u6cd5\u603b\u7ed3
+http:\/\/blog.csdn.net\/binyao02123202\/article\/details\/6888523
+java\u4fdd\u7559\u4e24\u4f4d\u5c0f\u6570
+http:\/\/blog.csdn.net\/binyao02123202\/article\/details\/8534371
+Java\u5206\u5272\u62fc\u63a5\u56fe\u7247
+http:\/\/blog.csdn.net\/binyao02123202\/article\/details\/8709627
+JAVA \u7cbe\u54c1\u56fe\u4e66\u9ad8\u6e05PDF\u4e0b\u8f7d
+http:\/\/blog.csdn.net\/binyao02123202\/article\/details\/20720475
+[Java\u5f00\u53d1\u4e4b\u8def]\uff086\uff09File\u7c7b\u7684\u4f7f\u7528
+http:\/\/geek.csdn.net\/news\/detail\/48165
+\u5982\u4f55\u7528 C \u8bed\u8a00\u753b\u4e00\u4e2a\u201c\u5723\u8bde\u6811\u201d\uff1f
+http:\/\/geek.csdn.net\/news\/detail\/48073
+\u9762\u8bd510\u5927\u7b97\u6cd5\u6c47\u603b
+http:\/\/blog.csdn.net\/xiaoranlr\/article\/details\/43963933
+\u5e38\u7528\u76841\u4e07\u4e2aJAVA\u7c7b
+http:\/\/blog.csdn.net\/xiaoranlr\/article\/details\/39971273
+\u7b97\u6cd5\uff08\u4e00\uff09 - \u641c\u7d22\u5165\u95e8
+http:\/\/geek.csdn.net\/news\/detail\/47660
+\u4e00\u8d77Talk C\u6817\u5b50\u5427
+http:\/\/blog.csdn.net\/column\/details\/c-example.html?page=1#50375075
+\u4e00\u8d77Talk C\u6817\u5b50\u5427
+http:\/\/blog.csdn.net\/column\/details\/c-example.html?page=1#50375075
+\u57fa\u7840\u7b97\u6cd5
+http:\/\/blog.csdn.net\/column\/details\/abcd-1234.html?\u0026page=2
+C\u8bed\u8a00\u65b0\u4eba\u5e38\u89c1\u95ee\u9898\u4e0e\u9519\u8bef
+http:\/\/geek.csdn.net\/news\/detail\/47303
+\u914d\u7f6eJava\u73af\u5883\u53d8\u91cf
+http:\/\/geek.csdn.net\/news\/detail\/47344
+Java\u5f00\u53d1\u5fc5\u4f1a\u7684Linux\u547d\u4ee4
+http:\/\/geek.csdn.net\/news\/detail\/47390
+\u56db\u9053Java\u57fa\u7840\u9898 \u4f60\u80fd\u5bf9\u51e0\u9053\uff1f
+http:\/\/geek.csdn.net\/news\/detail\/47392
+\u6211\u7684CSDN
+http:\/\/blog.csdn.net\/hurmishine\/
+\u6570\u636e\u7ed3\u6784\u5b9e\u8df5\u2014\u2014\u7334\u5b50\u9009\u5927\u738b\uff08\u6570\u7ec4\u7248\uff09
+http:\/\/blog.csdn.net\/sxhelijian\/article\/details\/49226553
+5\u79cd\u5f88\u725b\u7684\u4e24\u4f4d\u6570\u4e58\u6cd5\u901f\u7b97\u65b9\u6cd5
+http:\/\/blog.csdn.net\/u011225629\/article\/details\/47185121
+Java\u65e5\u671f\u64cd\u4f5c\u65b9\u6cd5\u8bb2\u89e3\u4e0e\u5b9e\u73b0
+http:\/\/blog.csdn.net\/u011225629\/article\/details\/50148083
+\u7a0b\u5e8f\u5458\u6700\u503c\u5f97\u542c\u7684\u6b4c\u66f2TOP10
+http:\/\/geek.csdn.net\/news\/detail\/46472
+java \u8bb0\u4e8b\u672c\u4ee3\u7801
+http:\/\/geek.csdn.net\/news\/detail\/46491
+\u7a0b\u5e8f\u5458\u5fc5\u8bfb\u4e66\u5355
+http:\/\/blog.csdn.net\/u013467442\/article\/details\/47860471
+ACM\u6570\u8bba
+http:\/\/blog.csdn.net\/ultimater\/article\/details\/7770317
+HDOJ 2544 \u6700\u77ed\u8def Floyf+Dijistra\u7b97\u6cd5
+http:\/\/blog.csdn.net\/u012605629\/article\/details\/38643087
+ACM \u6a21\u677f
+http:\/\/blog.csdn.net\/fjy4328286\/article\/details\/9376169
+\u6709\u8da3\u7684\u9762\u8bd5\u667a\u529b\u9898
+http:\/\/blog.csdn.net\/pi9nc\/article\/details\/9284893
